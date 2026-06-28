@@ -3,6 +3,11 @@ on:
   push:
     branches:
       - main
+
+# This gives the action permission to push the website to the gh-pages branch
+permissions:
+  contents: write
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
