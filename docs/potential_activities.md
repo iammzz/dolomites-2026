@@ -14,7 +14,7 @@ Earth Trekkers explicitly calls Croda da Lago "one of the quietest trails in the
 * **Duration**: 4.5–6 hrs
 * **Extensions**: You can make this hike shorter by doing an out-and-back just to Lago Federa, skipping the Forcella Ambrizzola and Val Formin descent.
 * **Resources**:
-  * [Earth Trekkers: Croda da Lago Circuit](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
+  * [Earth Trekkers: Croda da Lago Circuit](https://www.earthtrekkers.com/croda-da-lago-circuit-lago-federa-hike/)
   * [AllTrails: Croda da Lago](https://www.alltrails.com/explore?b_q=croda%20da%20lago%20lago%20di%20federa)
 * **Notes**: Hike clockwise: Forest ascent → Lago Federa (2,046 m) → Rifugio Croda da Lago → Forcella Ambrizzola (2,277 m) → Val Formin descent. The Val Formin descent is rocky and technical—trekking poles are essential.
 
@@ -36,7 +36,7 @@ Lago di Braies is an emerald jewel surrounded by towering peaks. Because of over
 * **Duration**: 1–2 hrs walk + 30–60 min rowboat
 * **Extensions**: Hike up to Grünwaldalm (Malga Foresta) from the far side of the lake for an extra ~3km round trip.
 * **Resources**:
-  * [Earth Trekkers: Lago di Braies](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
+  * [Earth Trekkers: Lago di Braies](https://www.earthtrekkers.com/how-to-visit-lago-di-braies/)
   * [AllTrails: Lago di Braies Loop](https://www.alltrails.com/explore?b_q=giro%20del%20lago%20di%20braies)
 * **Notes**: Do the rowboat first at 8:30am before the queue builds. Then walk the full perimeter trail. Best photos are from the east bank looking back at the water.
 
@@ -76,7 +76,7 @@ Piz Boé (3,152m) is widely considered one of the easiest 3,000-meter peaks to s
 * **Duration**: 3–4 hours
 * **Extensions**: You can hike back down via a different trail to Rifugio Boé to make it a loop before returning to the cable car.
 * **Resources**: 
-  * [Earth Trekkers: Piz Boe](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
+  * [Earth Trekkers: Piz Boe](https://www.earthtrekkers.com/piz-boe-hike-dolomites/)
   * [AllTrails: Sass Pordoi to Piz Boe](https://www.alltrails.com/explore?b_q=sass%20pordoi%20piz%20boe)
 * **Notes**: Altitude is a real factor here. You are starting the hike at nearly 10,000 feet. Take it slow. There are short sections of fixed cables where you must pull yourself up, but via ferrata gear is not strictly required. 
 
@@ -134,7 +134,7 @@ Earth Trekkers considers this the single best hike in the Val Gardena region. It
 * **Duration**: 6–8 hours
 * **Extensions**: Detour to the Col de Puez summit (+1 hour).
 * **Resources**: 
-  * [Earth Trekkers: Puez-Odle Altopiano](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
+  * [Earth Trekkers: Puez-Odle Altopiano](https://www.earthtrekkers.com/puez-odle-altopiano-hike-dolomites/)
   * [AllTrails: Puez-Odle Traverse](https://www.alltrails.com/explore?b_q=rifugio%20jimmi%20rifugio%20puez%20selva%20di%20val%20gardena)
 * **Notes**: This is a point-to-point hike. You start at the top of the Dantercepies gondola in Selva, hike across the plateau to Rifugio Puez (perfect lunch stop), and hike all the way down Vallunga valley, ending right back in Selva.
 
@@ -188,11 +188,11 @@ Rent e-mountain bikes in Selva and ride the famous Sella Ronda circuit. The e-bi
 
 ### Option 2: The Sassolungo Loop (Hike)
 If you are still eager for hiking, take the cable car up to Ciampinoi and hike the perimeter of the massive Sassolungo group. It's a relatively flat loop that wraps around the base of the towering peaks.
-* **Resources**: [Earth Trekkers: Sassolungo Loop](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
+* **Resources**: [Earth Trekkers: Sassolungo Loop](https://www.earthtrekkers.com/hike-sassolungo-langkofel-circuit-dolomites/)
 
 ### Option 3: Via Ferrata Gran Cir (Introductory Climbing)
 If you want to try a Via Ferrata without fully committing to a massive technical route, Gran Cir is a fantastic beginner route accessible from Passo Gardena. Rent a harness, via ferrata set, and helmet in town.
-* **Resources**: [Earth Trekkers: Gran Cir](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
+* **Resources**: [Earth Trekkers: Gran Cir](https://www.earthtrekkers.com/gran-cir-via-ferrata-dolomites/)
 
 ### Option 4: Pure Relaxation
 Spend the day in Ortisei. Visit the Mar Dolomit public pools, book a spa treatment at a local hotel, and shop along the pedestrian center. 

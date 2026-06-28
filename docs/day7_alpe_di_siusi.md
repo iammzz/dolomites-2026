@@ -23,7 +23,7 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
   * **Saltria**: The lowest point (the basin) of the plateau, surrounded by dense woods. It's a fun, long descent on the e-bike, and the motor will help you cruise right back out!
   * **Edelweiß Hütte**: Another excellent option for authentic Tyrolean food with sweeping panoramic views.
 * **Resources**: 
-  * [Earth Trekkers: How to Visit Alpe di Siusi](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
+  * [Earth Trekkers: How to Visit Alpe di Siusi](https://www.earthtrekkers.com/alpe-di-siusi-seiser-alm-dolomites/)
 * **Notes**: Because you are driving up, you have total freedom to stay until sunset. Rent your bikes in Compatsch near the P2 parking lot.
 
 ### 2. Sunset on the Plateau

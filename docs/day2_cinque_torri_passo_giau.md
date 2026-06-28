@@ -16,7 +16,7 @@ This is one of the absolute best days you can have in the Dolomites. It perfectl
 * **Duration**: 45–60 min
 * **Extensions**: Connect directly into the Averau/Nuvolau hike (Activity #2 below).
 * **Resources**:
-  * [Earth Trekkers: Cinque Torri](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
+  * [Earth Trekkers: Cinque Torri](https://www.earthtrekkers.com/cinque-torri-hike-dolomites/)
   * [AllTrails: Cinque Torri Loop](https://www.alltrails.com/explore?b_q=cinque%20torri)
 * **Notes**: The WWI Cinque Torri open-air museum is one of the best-preserved frontline sites in the Alps. The chairlift removes the serious elevation commitment, making this a perfect warm-up activity.
 
@@ -27,7 +27,7 @@ This is one of the absolute best days you can have in the Dolomites. It perfectl
 * **Duration**: ~2–2.5 hrs
 * **Extensions**: Instead of hiking back down to the chairlift, you can hike trail #439 all the way down to Passo Giau, but that requires navigating car logistics.
 * **Resources**:
-  * [Earth Trekkers: Averau & Nuvolau](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
+  * [Earth Trekkers: Averau & Nuvolau](https://www.earthtrekkers.com/rifugio-averau-rifugio-nuvolau-hike-dolomites/)
   * [AllTrails: Scoiattoli to Nuvolau](https://www.alltrails.com/explore?b_q=rifugio%20scoiattoli%20rifugio%20nuvolau)
 * **Notes**: Nuvolau (2,575m) is one of the highest rifugios in the Dolomites accessible on foot. The ridge traverse between Averau and Nuvolau is exposed—solid footwear required. Do not attempt in wet, icy, or high-wind conditions.
 
@@ -47,8 +47,8 @@ This is one of the absolute best days you can have in the Dolomites. It perfectl
 
 | Activity | ET Link | Why Passed Today | Scheduled For |
 |----------|---------|------------------|---------------|
-| Freccia nel Cielo cable car (Tofana di Mezzo) | [ET: Freccia nel Cielo](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/) | Today's schedule is full. Kept as a floating Cortina afternoon option for any day with good visibility. | Optional float |
-| Lagazuoi Cable Car + WWI Tunnel Walk | [ET: Lagazuoi Tunnels](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/) | Distinct full-morning activity; would overlap with Cinque Torri area. | Sept 19 transit day |
+| Freccia nel Cielo cable car (Tofana di Mezzo) | [ET: Freccia nel Cielo](https://www.earthtrekkers.com/freccia-nel-cielo-to-cima-tofana-tofana-di-mezzo/) | Today's schedule is full. Kept as a floating Cortina afternoon option for any day with good visibility. | Optional float |
+| Lagazuoi Cable Car + WWI Tunnel Walk | [ET: Lagazuoi Tunnels](https://www.earthtrekkers.com/hiking-the-lagazuoi-tunnels-dolomites/) | Distinct full-morning activity; would overlap with Cinque Torri area. | Sept 19 transit day |
 
 ---
 

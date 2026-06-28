@@ -14,14 +14,14 @@ Today you shift your base from the Eastern to the Western Dolomites. Instead of 
 * **Elevation Change**: Cable car to 2,752m.
 * **Difficulty**: ⭐⭐ Moderate (downhill walk through tunnels if you choose to hike it).
 * **Duration**: 2-3 hours
-* **Resources**: [Earth Trekkers: Lagazuoi Tunnels](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
+* **Resources**: [Earth Trekkers: Lagazuoi Tunnels](https://www.earthtrekkers.com/hiking-the-lagazuoi-tunnels-dolomites/)
 * **Notes**: You can take the cable car up and back down just for the views, OR you can take it up, rent a helmet/headlamp at the top, and walk 4km downhill *inside* the mountain through the WWI tunnels excavated by Italian soldiers. 
 
 ### 2. Marmolada (The Queen of the Dolomites)
 * **Elevation Change**: Cable car in 3 stages to Punta Rocca (3,265m).
 * **Difficulty**: ⭐ Easy
 * **Duration**: 1.5–2 hours
-* **Resources**: [Earth Trekkers: Marmolada](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
+* **Resources**: [Earth Trekkers: Marmolada](https://www.earthtrekkers.com/marmolada-highest-mountain-in-the-dolomites/)
 * **Notes**: Marmolada is the only remaining large glacier in the Dolomites. The Malga Ciapela cable car whisks you to the top. Visit the Museum of the Great War at the Serauta mid-station (included in ticket). 
 
 ---
