@@ -1,0 +1,5 @@
+- [x] look up and firm up the exact decisions around alpe di siusi day
+- [x] consider staying in val gardena vs ortisei as our base for the days leading up to departure
+- [x] get ebike logistics sorted out for alpe di siusi day, which rental office and which cable car to pick up?
+- [x] decide logistics for WWI tunnel and via ferrata
+- [x] firm up the drive out from cortina to val gardena - which day?

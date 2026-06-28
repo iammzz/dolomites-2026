@@ -1,0 +1,24 @@
+site_name: Dolomites 2026
+site_url: https://dolomites.teaham.ca
+
+theme:
+  name: material
+  palette:
+    primary: deep orange
+
+nav:
+  - Welcome: index.md
+  - Part 1 - Eastern Dolomites:
+      - Day 1 (Venice / Cortina): day1_venice_cortina_arrival.md
+      - Day 2 (Passo Giau): day2_cinque_torri_passo_giau.md
+      - Day 3 (Tre Cime): day3_tre_cime_cadini.md
+      - Day 4 (Sorapis): day4_lago_di_sorapis.md
+  - Part 2 - Transit:
+      - Day 5 (Lagazuoi): day5_lagazuoi_sella_transit.md
+  - Part 3 - Western Dolomites:
+      - Day 6 (Val di Funes): day6_val_di_funes.md
+      - Day 7 (Alpe di Siusi): day7_alpe_di_siusi.md
+      - Day 8 (Seceda): day8_seceda_ridge.md
+  - Extras:
+      - Potential Activities: potential_activities.md
+      - Ideas for Extra Days: ideas_for_extra.md
