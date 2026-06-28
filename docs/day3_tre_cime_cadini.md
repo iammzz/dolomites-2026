@@ -20,7 +20,7 @@ This is the absolute signature hiking day of the Dolomites. Tre Cime di Lavaredo
 * **Extensions**: Detour to the Laghi dei Piani (+1.5km, flat) at the north face junction.
 * **Resources**:
   * [Earth Trekkers: Tre Cime Loop](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
-  * [AllTrails: Tre Cime Loop](https://www.alltrails.com/trail/italy/veneto/tre-cime-di-lavaredo-loop)
+  * [AllTrails: Tre Cime Loop](https://www.alltrails.com/explore?b_q=tre%20cime%20di%20lavaredo%20loop)
 * **Notes**: Hiking counterclockwise saves the dramatic north face reveal (near Rifugio Locatelli) for the midpoint.
 
 ### 2. 🏔️ Cadini di Misurina Viewpoint Hike
@@ -31,7 +31,7 @@ This is the absolute signature hiking day of the Dolomites. Tre Cime di Lavaredo
 * **Extensions**: Can continue past the viewpoint down to Rifugio Fonda Savio for a much longer, strenuous day.
 * **Resources**:
   * [Earth Trekkers: Cadini di Misurina](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
-  * [AllTrails: Cadini di Misurina](https://www.alltrails.com/trail/italy/veneto/cadini-di-misurina-viewpoint)
+  * [AllTrails: Cadini di Misurina](https://www.alltrails.com/explore?b_q=cadini%20di%20misurina%20viewpoint)
 * **Notes**: Trailhead departs from the exact same parking lot as Tre Cime. Provides stunning jagged pinnacles in the foreground with Tre Cime in the background. Not suitable if you have a fear of heights.
 
 ### 3. 🏞️ Lago di Misurina — Afternoon Lunch

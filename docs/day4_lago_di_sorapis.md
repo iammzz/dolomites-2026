@@ -17,7 +17,7 @@ Earth Trekkers rates this as one of the standout hikes of the eastern Dolomites.
 * **Extensions**: Forcella Marcuoira loop option for significantly more elevation gain and panoramic ridge views.
 * **Resources**:
   * [Earth Trekkers: Lago di Sorapis](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
-  * [AllTrails: Lago di Sorapis](https://www.alltrails.com/trail/italy/veneto/passo-tre-croci-lago-sorapis)
+  * [AllTrails: Lago di Sorapis](https://www.alltrails.com/explore?b_q=passo%20tre%20croci%20lago%20sorapis)
 * **Notes**: No via ferrata gear required, but you must have solid footwear. The cliff traverse is the psychological crux; grip the cable, face the rock, and don't rush. The lake's water is opaque and luminous due to glacial rock flour. No swimming allowed.
 
 ---

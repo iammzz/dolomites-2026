@@ -17,7 +17,7 @@ This is one of the absolute best days you can have in the Dolomites. It perfectl
 * **Extensions**: Connect directly into the Averau/Nuvolau hike (Activity #2 below).
 * **Resources**:
   * [Earth Trekkers: Cinque Torri](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
-  * [AllTrails: Cinque Torri Loop](https://www.alltrails.com/trail/italy/veneto/cinque-torri)
+  * [AllTrails: Cinque Torri Loop](https://www.alltrails.com/explore?b_q=cinque%20torri)
 * **Notes**: The WWI Cinque Torri open-air museum is one of the best-preserved frontline sites in the Alps. The chairlift removes the serious elevation commitment, making this a perfect warm-up activity.
 
 ### 2. Rifugio Averau & Rifugio Nuvolau Add-On
@@ -28,7 +28,7 @@ This is one of the absolute best days you can have in the Dolomites. It perfectl
 * **Extensions**: Instead of hiking back down to the chairlift, you can hike trail #439 all the way down to Passo Giau, but that requires navigating car logistics.
 * **Resources**:
   * [Earth Trekkers: Averau & Nuvolau](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
-  * [AllTrails: Scoiattoli to Nuvolau](https://www.alltrails.com/trail/italy/veneto/rifugio-scoiattoli-rifugio-nuvolau)
+  * [AllTrails: Scoiattoli to Nuvolau](https://www.alltrails.com/explore?b_q=rifugio%20scoiattoli%20rifugio%20nuvolau)
 * **Notes**: Nuvolau (2,575m) is one of the highest rifugios in the Dolomites accessible on foot. The ridge traverse between Averau and Nuvolau is exposed—solid footwear required. Do not attempt in wet, icy, or high-wind conditions.
 
 ### 3. Passo Giau Scenic Drive & Viewpoint

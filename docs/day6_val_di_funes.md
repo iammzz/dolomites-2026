@@ -18,7 +18,7 @@ Val di Funes is arguably the most picturesque valley in the entire Dolomites. Th
 * **Extensions**: Stop at Geisler Alm (Rifugio delle Odle) for lunch — an absolute must.
 * **Resources**: 
   * [Earth Trekkers: Adolf Munkel Weg](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
-  * [AllTrails: Adolf Munkel Trail](https://www.alltrails.com/trail/italy/trentino-south-tyrol/adolf-munkel-weg-rifugio-delle-odle)
+  * [AllTrails: Adolf Munkel Trail](https://www.alltrails.com/explore?b_q=adolf%20munkel%20weg%20rifugio%20delle%20odle)
 * **Notes**: The trail starts in the forest and emerges right at the foot of the dramatic north faces of the Geisler group. Geisler Alm is widely considered one of the best rifugios in the Dolomites for food and atmosphere.
 
 ### 2. Santa Maddalena Viewpoints (The Postcard Shots)
