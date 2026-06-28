@@ -17,7 +17,7 @@ If there is one photograph that defines the Dolomites on Instagram, it's the plu
 * **Duration**: 2–3 hours
 * **Extensions**: You can hike all the way down to the Col Raiser gondola in Santa Cristina (which is a longer, downhill hike) and bus back to Ortisei, or just hike to Pieralongia and walk back to the Seceda cable car.
 * **Resources**: 
-  * [Earth Trekkers: Seceda Ridge](https://www.earthtrekkers.com/seceda-hike-dolomites/)
+  * [Earth Trekkers: Seceda Ridge](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
 * **Notes**: The classic photo spot is literally a 5-minute walk from the upper cable car station. The hike toward Pieralongia takes you right along the edge of the jagged Odle peaks, passing the dramatic Panascharte (Forcella Pana) notch along the way.
 
 ### 2. Sella Pass Scenic Drive (Optional)

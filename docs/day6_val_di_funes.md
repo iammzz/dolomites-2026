@@ -17,7 +17,7 @@ Val di Funes is arguably the most picturesque valley in the entire Dolomites. Th
 * **Duration**: 3–4 hrs
 * **Extensions**: Stop at Geisler Alm (Rifugio delle Odle) for lunch — an absolute must.
 * **Resources**: 
-  * [Earth Trekkers: Adolf Munkel Weg](https://www.earthtrekkers.com/adolf-munkel-weg-hike-val-di-funes/)
+  * [Earth Trekkers: Adolf Munkel Weg](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
   * [AllTrails: Adolf Munkel Trail](https://www.alltrails.com/trail/italy/trentino-south-tyrol/adolf-munkel-weg-rifugio-delle-odle)
 * **Notes**: The trail starts in the forest and emerges right at the foot of the dramatic north faces of the Geisler group. Geisler Alm is widely considered one of the best rifugios in the Dolomites for food and atmosphere.
 
@@ -26,7 +26,7 @@ Val di Funes is arguably the most picturesque valley in the entire Dolomites. Th
 * **Elevation Change**: Minimal
 * **Difficulty**: ⭐ Easy
 * **Duration**: 1 hour total
-* **Resources**: [Earth Trekkers: Val di Funes](https://www.earthtrekkers.com/best-things-to-do-val-di-funes/)
+* **Resources**: [Earth Trekkers: Val di Funes](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
 * **Notes**: There are two main photo spots: the Church of St. John (San Giovanni in Ranui) and the Santa Maddalena viewpoint. They are heavily photographed for a reason!
 
 ---

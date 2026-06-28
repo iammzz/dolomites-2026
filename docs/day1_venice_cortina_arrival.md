@@ -13,7 +13,7 @@
 * **Difficulty**: ⭐ Easy (zero effort)
 * **Extensions**: Once at the top (3,244m), you can walk out to the viewing platforms. There are also advanced Via Ferratas, but not recommended for arrival day.
 * **Resources**:
-  * [Earth Trekkers Guide](https://www.earthtrekkers.com/freccia-nel-cielo-to-cima-tofana-tofana-di-mezzo/)
+  * [Earth Trekkers Guide](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
   * [Official Website](https://www.freccianelcielo.com/en/)
 
 **Expectation & Rationale:** 
@@ -29,9 +29,9 @@ These were skipped on arrival day to save legs and keep it relaxed. All are on t
 
 | Activity | ET Link | Why Passed Today | Scheduled For |
 |----------|---------|-----------------|---------------|
-| **Cinque Torri loop** — 2 km easy loop around the 5 iconic rock towers | [ET: Cinque Torri Hike](https://www.earthtrekkers.com/cinque-torri-hike-dolomites/) | Better as a full day with Rifugios Averau & Nuvolau add-on; doing it as a tired arrival-day quick visit would sell it short | **Sept 14 (Day 2)** — full version with Averau & Nuvolau |
-| **Rifugios Averau & Nuvolau** — 4 km add-on from Cinque Torri; lunch at 2,413m with panoramic views | [ET: Rifugios Averau & Nuvolau](https://www.earthtrekkers.com/rifugio-averau-rifugio-nuvolau-hike-dolomites/) | Requires full morning energy; ~335m elevation gain; shouldn't be an afterthought | **Sept 14 (Day 2)** — centrepiece of the day |
-| **Lagazuoi to Falzarego Pass** — cable car up, walk 4 km downhill through WWI tunnels | [ET: Lagazuoi Tunnels](https://www.earthtrekkers.com/hiking-the-lagazuoi-tunnels-dolomites/) | 25 min drive each way on top of a 3+ hr arrival drive; good afternoon walk but logistically messy on day 1 | **Sept 19 (transit day)** — built into the Cortina → Val Gardena transit |
+| **Cinque Torri loop** — 2 km easy loop around the 5 iconic rock towers | [ET: Cinque Torri Hike](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/) | Better as a full day with Rifugios Averau & Nuvolau add-on; doing it as a tired arrival-day quick visit would sell it short | **Sept 14 (Day 2)** — full version with Averau & Nuvolau |
+| **Rifugios Averau & Nuvolau** — 4 km add-on from Cinque Torri; lunch at 2,413m with panoramic views | [ET: Rifugios Averau & Nuvolau](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/) | Requires full morning energy; ~335m elevation gain; shouldn't be an afterthought | **Sept 14 (Day 2)** — centrepiece of the day |
+| **Lagazuoi to Falzarego Pass** — cable car up, walk 4 km downhill through WWI tunnels | [ET: Lagazuoi Tunnels](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/) | 25 min drive each way on top of a 3+ hr arrival drive; good afternoon walk but logistically messy on day 1 | **Sept 19 (transit day)** — built into the Cortina → Val Gardena transit |
 
 ---
 

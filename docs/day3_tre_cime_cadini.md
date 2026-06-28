@@ -19,7 +19,7 @@ This is the absolute signature hiking day of the Dolomites. Tre Cime di Lavaredo
 * **Duration**: 3–5 hours
 * **Extensions**: Detour to the Laghi dei Piani (+1.5km, flat) at the north face junction.
 * **Resources**:
-  * [Earth Trekkers: Tre Cime Loop](https://www.earthtrekkers.com/hiking-tre-cime-di-lavaredo-loop/)
+  * [Earth Trekkers: Tre Cime Loop](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
   * [AllTrails: Tre Cime Loop](https://www.alltrails.com/trail/italy/veneto/tre-cime-di-lavaredo-loop)
 * **Notes**: Hiking counterclockwise saves the dramatic north face reveal (near Rifugio Locatelli) for the midpoint.
 
@@ -30,7 +30,7 @@ This is the absolute signature hiking day of the Dolomites. Tre Cime di Lavaredo
 * **Duration**: 1–2 hours
 * **Extensions**: Can continue past the viewpoint down to Rifugio Fonda Savio for a much longer, strenuous day.
 * **Resources**:
-  * [Earth Trekkers: Cadini di Misurina](https://www.earthtrekkers.com/cadini-di-misurina-viewpoint-hike/)
+  * [Earth Trekkers: Cadini di Misurina](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
   * [AllTrails: Cadini di Misurina](https://www.alltrails.com/trail/italy/veneto/cadini-di-misurina-viewpoint)
 * **Notes**: Trailhead departs from the exact same parking lot as Tre Cime. Provides stunning jagged pinnacles in the foreground with Tre Cime in the background. Not suitable if you have a fear of heights.
 
@@ -41,7 +41,7 @@ This is the absolute signature hiking day of the Dolomites. Tre Cime di Lavaredo
 * **Duration**: ~1.5 hrs total
 * **Extensions**: You can walk the full perimeter of the lake (~2.6km total).
 * **Resources**:
-  * [Earth Trekkers: Things to do in Cortina](https://www.earthtrekkers.com/things-to-do-in-cortina-dampezzo/)
+  * [Earth Trekkers: Things to do in Cortina](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
 * **Notes**: On the drive back down the toll road, stop at Lago di Misurina. Eat at Pizzeria Edelweiss and enjoy a relaxed stroll around the 1,756m altitude lake.
 
 ---
@@ -50,7 +50,7 @@ This is the absolute signature hiking day of the Dolomites. Tre Cime di Lavaredo
 
 | Activity | ET Link | Why Passed Today | Scheduled For |
 |----------|---------|-----------------|---------------|
-| Freccia nel Cielo cable car | [ET: Freccia nel Cielo](https://www.earthtrekkers.com/freccia-nel-cielo-to-cima-tofana-tofana-di-mezzo/) | Legs need rest — this would be a 5th+ hour of activity. | Floating clear-sky PM |
+| Freccia nel Cielo cable car | [ET: Freccia nel Cielo](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/) | Legs need rest — this would be a 5th+ hour of activity. | Floating clear-sky PM |
 
 ---
 

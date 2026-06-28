@@ -16,7 +16,7 @@ Earth Trekkers rates this as one of the standout hikes of the eastern Dolomites.
 * **Duration**: 4–5 hrs round trip
 * **Extensions**: Forcella Marcuoira loop option for significantly more elevation gain and panoramic ridge views.
 * **Resources**:
-  * [Earth Trekkers: Lago di Sorapis](https://www.earthtrekkers.com/how-to-hike-lago-di-sorapis/)
+  * [Earth Trekkers: Lago di Sorapis](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/)
   * [AllTrails: Lago di Sorapis](https://www.alltrails.com/trail/italy/veneto/passo-tre-croci-lago-sorapis)
 * **Notes**: No via ferrata gear required, but you must have solid footwear. The cliff traverse is the psychological crux; grip the cable, face the rock, and don't rush. The lake's water is opaque and luminous due to glacial rock flour. No swimming allowed.
 
@@ -26,8 +26,8 @@ Earth Trekkers rates this as one of the standout hikes of the eastern Dolomites.
 
 | Activity | ET Link | Why Passed Today | Scheduled For |
 |----------|---------|-----------------|---------------|
-| **Forcella Marcuoira loop option** | [Lago di Sorapis — ET](https://www.earthtrekkers.com/how-to-hike-lago-di-sorapis/) | Standard route is already 4–5 hrs and sufficiently challenging. | Upgrade option only if feeling extremely strong. |
-| **Freccia nel Cielo cable car** | [Freccia nel Cielo — ET](https://www.earthtrekkers.com/freccia-nel-cielo-to-cima-tofana-tofana-di-mezzo/) | Listed as a floating afternoon option — only viable if skies are clear. | Floating option |
+| **Forcella Marcuoira loop option** | [Lago di Sorapis — ET](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/) | Standard route is already 4–5 hrs and sufficiently challenging. | Upgrade option only if feeling extremely strong. |
+| **Freccia nel Cielo cable car** | [Freccia nel Cielo — ET](https://www.earthtrekkers.com/best-hikes-in-the-dolomites/) | Listed as a floating afternoon option — only viable if skies are clear. | Floating option |
 
 ---
 
