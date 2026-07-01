@@ -21,6 +21,9 @@ nav:
       - Day 9 (Tre Cime): day9_tre_cime_cadini.md
       - Day 10 (East Split Day): day10_east_split.md
       - Day 11 (Sorapis): day11_lago_di_sorapis.md
+  - Planning:
+      - Logistics: logistics.md
+      - To-Do List: todo.md
   - Extras:
       - Potential Activities: potential_activities.md
       - Ideas for Extra Days: ideas_for_extra.md
