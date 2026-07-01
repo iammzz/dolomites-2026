@@ -6,7 +6,9 @@ This page tracks all outstanding items required to successfully execute the trip
     **Flights, Hotels, and the Rental Car have NOT been booked yet!** These are the highest priority items as prices will increase significantly and availability will drop.
 
 ## High Priority (Book ASAP)
-- [ ] **Book Flights**: Round trip (Home → Venice, Venice → Madrid).
+- [ ] **Book Flights**: 
+  - *Outbound*: Sunny & Kevin He still need to book Toronto → Venice (aiming to align with the TS 306 arrival on Sept 12 at 11:30 AM).
+  - *Inbound*: Entire group needs to book Venice → Madrid for Sept 23.
 - [ ] **Book Rental Car**: Pickup/Drop-off at Venice Marco Polo (VCE). Ensure it has an automatic transmission if needed, and fits all luggage.
 - [ ] **Book Venice Hotel**: 1 night (Sept 12).
 - [ ] **Book Val Gardena Base**: 5 nights (Sept 13 - Sept 18).

@@ -5,10 +5,15 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 ---
 
 ## ✈️ Flights
-* **Outbound**: [Home City] to Venice Marco Polo (VCE)
-  * *Status*: 🔴 **NOT BOOKED**
-  * *Details*: Aiming to arrive by 11:30 AM on Sept 12.
-* **Inbound**: Venice Marco Polo (VCE) to Madrid (MAD)
+* **Outbound**: Toronto (YYZ) to Venice (VCE)
+  * *Status*: 🟢 **BOOKED (Partial Group)**
+  * *Airline*: Air Transat (Flight TS 306)
+  * *Booking Ref*: **KLEQPK**
+  * *Schedule*: Departs YYZ Terminal 3 on Fri, Sept 11 at 21:10. Arrives VCE on Sat, Sept 12 at 11:30.
+  * *Passengers*: Emma Zeng, Matthew Zhang, Kevin Yuan
+  * *Missing Passengers*: Sunny, Kevin He (Need to book)
+  * *Baggage Note*: Eco Budget fare — includes 1 carry-on and 1 personal item. **No checked bags included.**
+* **Inbound**: Venice (VCE) to Madrid (MAD)
   * *Status*: 🔴 **NOT BOOKED**
   * *Details*: Afternoon flight on Sept 23.
 

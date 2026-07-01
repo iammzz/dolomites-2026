@@ -5,7 +5,7 @@ This overview merges the absolute best of your plans into a seamless, perfectly-
 ---
 
 !!! danger "CRITICAL PLANNING STATUS"
-    **FLIGHTS, HOTELS, AND THE RENTAL CAR ARE NOT YET BOOKED!** 
+    **HOTELS, RENTAL CAR, AND SOME FLIGHTS ARE NOT YET BOOKED!** 
     
     See the [**Logistics Page**](logistics.md) for a detailed breakdown of what is required for each leg, and the [**To-Do List**](todo.md) for action items.
 
