@@ -8,17 +8,19 @@ theme:
 
 nav:
   - Welcome: index.md
-  - Part 1 - Eastern Dolomites:
-      - Day 1 (Venice / Cortina): day1_venice_cortina_arrival.md
-      - Day 2 (Passo Giau): day2_cinque_torri_passo_giau.md
-      - Day 3 (Tre Cime): day3_tre_cime_cadini.md
-      - Day 4 (Sorapis): day4_lago_di_sorapis.md
-  - Part 2 - Transit:
-      - Day 5 (Lagazuoi): day5_lagazuoi_sella_transit.md
-  - Part 3 - Western Dolomites:
-      - Day 6 (Val di Funes): day6_val_di_funes.md
-      - Day 7 (Alpe di Siusi): day7_alpe_di_siusi.md
-      - Day 8 (Seceda): day8_seceda_ridge.md
+  - Part 1 - Western Dolomites:
+      - Day 1 (Venice / Transit): day1_venice_val_gardena_arrival.md
+      - Day 3 (Val di Funes): day3_val_di_funes.md
+      - Day 4 (Alpe di Siusi): day4_alpe_di_siusi.md
+      - Day 5 (Seceda): day5_seceda_ridge.md
+      - Day 6 (West Split Day): day6_west_split.md
+  - Part 2 - Epic Transit:
+      - Day 7 (Val Gardena to Cortina): day7_val_gardena_cortina_transit.md
+  - Part 3 - Eastern Dolomites:
+      - Day 8 (Passo Giau): day8_cinque_torri_passo_giau.md
+      - Day 9 (Tre Cime): day9_tre_cime_cadini.md
+      - Day 10 (East Split Day): day10_east_split.md
+      - Day 11 (Sorapis): day11_lago_di_sorapis.md
   - Extras:
       - Potential Activities: potential_activities.md
       - Ideas for Extra Days: ideas_for_extra.md

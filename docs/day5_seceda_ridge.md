@@ -1,4 +1,4 @@
-# Day 8 — Sunday, Sept 20 🏔️ 
+# Day 5 — Sept 16 🏔️
 ## The Postcard Ridge: Seceda to Pieralongia
 **Base:** Val Gardena (Ortisei/Selva)
 

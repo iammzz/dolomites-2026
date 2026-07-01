@@ -1,4 +1,4 @@
-# Day 2 — Monday, Sept 14 🏔️
+# Day 8 — Sept 19 🏔️
 ## Cinque Torri + Rifugios Averau & Nuvolau + Passo Giau
 
 

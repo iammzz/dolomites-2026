@@ -1,4 +1,4 @@
-# 🏔️ Day 3 — Tuesday, September 15, 2026
+# Day 9 — Sept 20 🏔️
 ## Tre Cime di Lavaredo + Cadini di Misurina Viewpoint
 
 

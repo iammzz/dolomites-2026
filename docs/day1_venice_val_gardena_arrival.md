@@ -1,4 +1,4 @@
-# 🗓️ Day 1 — Sunday, Sept 13
+# Day 1 — Sept 12
 ## Venice → Prosecco Hills → Cortina d'Ampezzo
 
 

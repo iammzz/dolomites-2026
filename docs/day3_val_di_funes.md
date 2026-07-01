@@ -1,4 +1,4 @@
-# Day 6 — Friday, Sept 18 🏔️ 
+# Day 3 — Sept 14 🏔️
 ## Val di Funes & The Geisler Peaks
 **Base:** Val Gardena (Ortisei/Selva)
 

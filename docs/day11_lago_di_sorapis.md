@@ -1,5 +1,5 @@
-# Day 4 — Wednesday, September 16 · Lago di Sorapis 🏔️
-**Base:** Cortina d'Ampezzo · **ET Day:** #4
+# Day 11 — Sept 22 🏔️
+**Base:** Cortina d'Ampezzo
 
 
 ---

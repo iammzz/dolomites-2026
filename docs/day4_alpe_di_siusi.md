@@ -1,4 +1,4 @@
-# Day 7 — Saturday, Sept 19 🏔️ 
+# Day 4 — Sept 15 🏔️
 ## Seiser Alm (Alpe di Siusi) — The Highest Alpine Meadow
 **Base:** Val Gardena (Ortisei/Selva)
 

@@ -1,6 +1,7 @@
-# Day 5 — Thursday, Sept 17 🚗 
+# Day 7 — Sept 18 🚗
+## The Epic Transit: Val Gardena to Cortina via The Passes
 ## The Epic Transit: Cortina to Val Gardena via The Passes
-**Base:** Transit (Cortina → Ortisei/Selva)
+**Base:** Transit (Val Gardena → Cortina)
 
 
 ---
@@ -28,30 +29,31 @@ Today you shift your base from the Eastern to the Western Dolomites. Instead of 
 
 ## 📌 Logistics & Drive Breakdown
 
-[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Passo+Falzarego/Malga+Ciapela/Passo+Pordoi/Ortisei)
+[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Ortisei/Passo+Pordoi/Malga+Ciapela/Passo+Falzarego/Cortina+d'Ampezzo)
 
 | # | From | To | Distance | Drive Time | Road | Notes |
 |---|------|----|----------|------------|------|-------|
-| 1 | Cortina d'Ampezzo | Passo Falzarego (Lagazuoi) | 17 km | ~30 min | SR48 | Steep, winding climb out of Cortina. |
-| 2 | Passo Falzarego | Malga Ciapela (Marmolada) | 28 km | ~45 min | SP244, SP641 | Drive south toward the glacier. |
-| 3 | Malga Ciapela | Passo Pordoi | 24 km | ~40 min | SP641, SR48 | Drive over Passo Fedaia and up to Pordoi. |
-| 4 | Passo Pordoi | Val Gardena (Ortisei) | 26 km | ~45 min | SS242 | Stunning descent into Val Gardena. |
+| 1 | Val Gardena (Ortisei) | Passo Pordoi | 26 km | ~45 min | SS242 | Stunning climb out of Val Gardena. |
+| 2 | Passo Pordoi | Malga Ciapela (Marmolada) | 24 km | ~40 min | SR48, SP641 | Drive over Passo Fedaia and past the lake. |
+| 3 | Malga Ciapela | Passo Falzarego (Lagazuoi) | 28 km | ~45 min | SP641, SP244 | Drive north toward the WWI tunnels. |
+| 4 | Passo Falzarego | Cortina d'Ampezzo | 17 km | ~30 min | SR48 | Steep, winding descent into Cortina. |
 | — | **Total Transit Drive** | | **~95 km** | **~2.5–3 hours** | | *Does not include time at stops.* |
 
 ### 🕐 Hour-by-Hour Schedule
 
 | Time | Location | Activity | Detail |
 |------|----------|----------|--------|
-| 8:30 am | Cortina d'Ampezzo | 🚗 Depart | Car fully packed. Head west on SR48. |
-| 9:00 am | Passo Falzarego | 🅿️ Arrive & Park | Base of the Lagazuoi cable car. |
-| 9:15 am | Lagazuoi | 🚡 Cable Car / Hike | Ride up. Walk the tunnels down (or ride back down). |
-| 12:00 pm | Passo Falzarego | 🚗 Drive South | Head toward Marmolada. |
-| 12:45 pm | Malga Ciapela | 🅿️ Arrive & Park | Base of Marmolada cable car. |
-| 1:00 pm | Marmolada | 🚡 Cable Car | Ride to Punta Rocca (3,265m). Bring a jacket! |
-| 1:30 pm | Serauta Mid-station | 🏛️ Museum & Lunch | See the WWI museum, grab food at the restaurant. |
-| 3:00 pm | Malga Ciapela | 🚗 Drive | Head up Passo Fedaia, past the lake. |
-| 4:00 pm | Passo Pordoi | 📸 Viewpoint Stop | Optional: Ride the Sass Pordoi cable car if time permits. |
-| 5:00 pm | Val Gardena | 🏠 Arrive at Hotel | Check into your new base for the next 7 nights! |
+| 8:30 am | Val Gardena | 🚗 Depart | Car fully packed. Head east on SS242. |
+| 9:15 am | Passo Pordoi | 📸 Viewpoint Stop | Optional: Ride the Sass Pordoi cable car if time permits. |
+| 10:00 am | Passo Pordoi | 🚗 Drive South | Head toward Marmolada via Passo Fedaia. |
+| 10:45 am | Malga Ciapela | 🅿️ Arrive & Park | Base of Marmolada cable car. |
+| 11:00 am | Marmolada | 🚡 Cable Car | Ride to Punta Rocca (3,265m). Bring a jacket! |
+| 11:30 am | Serauta Mid-station | 🏛️ Museum & Lunch | See the WWI museum, grab food at the restaurant. |
+| 1:00 pm | Malga Ciapela | 🚗 Drive North | Head toward Lagazuoi. |
+| 1:45 pm | Passo Falzarego | 🅿️ Arrive & Park | Base of the Lagazuoi cable car. |
+| 2:00 pm | Lagazuoi | 🚡 Cable Car / Hike | Ride up. Walk the tunnels down (or ride back down). |
+| 5:00 pm | Passo Falzarego | 🚗 Drive East | Head down into the Cortina valley. |
+| 5:30 pm | Cortina d'Ampezzo | 🏠 Arrive at Hotel | Check into your new base for the rest of the trip! |
 
 ### Key Logistics Notes
 
