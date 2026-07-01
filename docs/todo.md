@@ -24,7 +24,8 @@ This page tracks all outstanding items required to successfully execute the trip
   - *Lunch*: **Rifugio Averau** (Cinque Torri day) is famous for its food and books up fast.
   - *Dinner*: Any Michelin-star or highly rated restaurants in Cortina or Ortisei.
 
-## Low Priority (1 Month Out)
+## Low Priority (1-2 Months Out)
+- [ ] **Pre-Book Cable Car Tickets**: Even though cable cars don't sell out, pre-booking popular lifts (like Mont Sëuc for Alpe di Siusi, and Seceda) online gives you a QR code to skip the morning ticket-buying lines. Alternatively, look into buying the *Dolomiti SuperSummer Card* or *Gardena Card* if the math makes sense for your total lift usage.
 - [ ] **E-Bike Rentals**: Reserve E-bikes in advance for the Alpe di Siusi day. Do not wait until you arrive.
 - [ ] **Via Ferrata Gear**: Map out rental shops in Ortisei and Cortina for helmets, harnesses, and lanyards (usually no need to book months out, but call a few days ahead).
 - [ ] **Withdraw Cash (Euros)**: Many mountain rifugios are **cash-only** due to poor cell service for card machines. Ensure you have plenty of Euros before heading up the mountains.
