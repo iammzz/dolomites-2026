@@ -10,6 +10,7 @@ nav:
   - Welcome: index.md
   - Part 1 - Western Dolomites:
       - Day 1 (Venice / Transit): day1_venice_val_gardena_arrival.md
+      - Day 2 (Acclimatization): day2_ortisei_acclimatization.md
       - Day 3 (Val di Funes): day3_val_di_funes.md
       - Day 4 (Alpe di Siusi): day4_alpe_di_siusi.md
       - Day 5 (Seceda): day5_seceda_ridge.md
@@ -21,6 +22,8 @@ nav:
       - Day 9 (Tre Cime): day9_tre_cime_cadini.md
       - Day 10 (East Split Day): day10_east_split.md
       - Day 11 (Sorapis): day11_lago_di_sorapis.md
+  - Part 4 - Departure:
+      - Day 12 (To Madrid): day12_venice_madrid_departure.md
   - Planning:
       - Logistics: logistics.md
       - To-Do List: todo.md
