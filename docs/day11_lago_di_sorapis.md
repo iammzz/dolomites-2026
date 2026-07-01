@@ -1,4 +1,5 @@
-# Day 11 — Sept 22 🏔️
+# Day 11 — Tuesday, Sept 22 🏔️
+## The Glacial Lake: Lago di Sorapis
 **Base:** Cortina d'Ampezzo
 
 

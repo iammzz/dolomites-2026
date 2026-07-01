@@ -1,6 +1,5 @@
-# Day 7 — Sept 18 🚗
+# Day 7 — Friday, Sept 18 🚗
 ## The Epic Transit: Val Gardena to Cortina via The Passes
-## The Epic Transit: Cortina to Val Gardena via The Passes
 **Base:** Transit (Val Gardena → Cortina)
 
 
@@ -9,7 +8,7 @@
 ## ✅ Main Activity: High Alpine Passes & WWI Tunnels
 
 **Expectation & Rationale:** 
-Today you shift your base from the Eastern to the Western Dolomites. Instead of taking the fast highway, you are driving the "Great Dolomite Road" — a stunning sequence of high-altitude mountain passes. Earth Trekkers calls this one of the most scenic drive days of the entire trip. Along the way, you'll break up the driving by riding cable cars to two epic viewpoints: the WWI tunnels of Lagazuoi, and the highest peak in the Dolomites, Marmolada.
+Today you shift your base from the Western to the Eastern Dolomites. Instead of taking the fast highway, you are driving the "Great Dolomite Road" — a stunning sequence of high-altitude mountain passes. Earth Trekkers calls this one of the most scenic drive days of the entire trip. Along the way, you'll break up the driving by riding cable cars to two epic viewpoints: the WWI tunnels of Lagazuoi, and the highest peak in the Dolomites, Marmolada.
 
 ### 1. Lagazuoi Cable Car & WWI Tunnels
 * **Elevation Change**: Cable car to 2,752m.

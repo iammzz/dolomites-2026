@@ -1,8 +1,6 @@
-# Day 2: Adjusting & Settling In
-
-**Date**: Sunday, September 13, 2026  
-**Region**: Val Gardena  
-**Base**: Ortisei / Selva  
+# Day 2 — Sunday, Sept 13 🏔️
+## The Drive North: Adjusting & Settling In
+**Base:** Val Gardena (Ortisei/Selva)
 
 ---
 

@@ -1,7 +1,6 @@
-# Day 12: Departure to Madrid
-
-**Date**: Wednesday, September 23, 2026  
-**Region**: Cortina d'Ampezzo → Venice (VCE)  
+# Day 12 — Wednesday, Sept 23 ✈️
+## Departure to Madrid
+**Base:** Transit (Cortina d'Ampezzo → Venice VCE)
 
 ---
 

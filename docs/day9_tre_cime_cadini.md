@@ -1,5 +1,6 @@
-# Day 9 — Sept 20 🏔️
+# Day 9 — Sunday, Sept 20 🏔️
 ## Tre Cime di Lavaredo + Cadini di Misurina Viewpoint
+**Base:** Cortina d'Ampezzo
 
 
 ---

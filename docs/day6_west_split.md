@@ -1,4 +1,4 @@
-# Day 6 — Wednesday, Sept 17 🧗‍♂️ 
+# Day 6 — Thursday, Sept 17 🧗‍♂️
 ## West Split Day: Via Ferrata vs. Town Relaxation
 **Base:** Val Gardena (Ortisei/Selva)
 

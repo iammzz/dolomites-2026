@@ -1,4 +1,4 @@
-# Day 10 — Sunday, Sept 21 🧗‍♂️ 
+# Day 10 — Monday, Sept 21 🧗‍♂️
 ## East Split Day: WWI Via Ferrata vs. Cortina Town
 **Base:** Cortina d'Ampezzo
 

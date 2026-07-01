@@ -1,4 +1,4 @@
-# Day 3 — Sept 14 🏔️
+# Day 3 — Monday, Sept 14 🏔️
 ## Val di Funes & The Geisler Peaks
 **Base:** Val Gardena (Ortisei/Selva)
 

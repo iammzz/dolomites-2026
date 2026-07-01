@@ -1,4 +1,4 @@
-# Day 5 — Sept 16 🏔️
+# Day 5 — Wednesday, Sept 16 🏔️
 ## The Postcard Ridge: Seceda to Pieralongia
 **Base:** Val Gardena (Ortisei/Selva)
 

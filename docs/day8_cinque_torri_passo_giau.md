@@ -1,5 +1,6 @@
-# Day 8 — Sept 19 🏔️
+# Day 8 — Saturday, Sept 19 🏔️
 ## Cinque Torri + Rifugios Averau & Nuvolau + Passo Giau
+**Base:** Cortina d'Ampezzo
 
 
 ---
