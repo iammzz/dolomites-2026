@@ -4,11 +4,11 @@ This overview merges the absolute best of your plans into a seamless, perfectly-
 
 ---
 
-!!! danger "CRITICAL PLANNING STATUS"
-    **HOTELS, RENTAL CAR, AND SOME FLIGHTS ARE NOT YET BOOKED!** 
-    
-    See the [**Logistics Page**](logistics.md) for a detailed breakdown of what is required for each leg, and the [**To-Do List**](todo.md) for action items.
-
+**📋 Immediate To-Dos (See the full [To-Do List](todo.md) & [Logistics](logistics.md))**:
+- Book remaining outbound flights (Sunny & Kevin He)
+- Book all inbound flights (Venice → Madrid)
+- Book the Rental Car (Venice Airport)
+- Book 3 Hotel Bases (Venice, Val Gardena, Cortina)
 ---
 
 ## ⛰️ Part 1: Western Dolomites (Base: Val Gardena)
