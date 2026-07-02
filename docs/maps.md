@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", function() {
     }).addTo(map);
 
     // Fetch and parse the CSV
-    Papa.parse('assets/data/my_maps_import.csv', {
+    Papa.parse('/assets/data/my_maps_import.csv', {
         download: true,
         header: true,
         complete: function(results) {
