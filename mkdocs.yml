@@ -37,3 +37,13 @@ nav:
   - Extras:
       - Potential Activities: potential_activities.md
       - Ideas for Extra Days: ideas_for_extra.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true

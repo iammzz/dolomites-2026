@@ -57,6 +57,8 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
 | 8:00 pm | Ortisei | 🚗 Return | Drive back to base for a late dinner. |
 
 ### Key Logistics Notes
-* **ROAD CLOSURE WARNING (CRITICAL)**: The road up to Seiser Alm is strictly closed to private cars from **9:00 am to 5:00 pm**. You **MUST** pass the San Valentino checkpoint before 9:00 AM. If you arrive at 9:01 AM, the police will turn you away. Leave Ortisei by 8:15 AM.
+!!! danger "ROAD CLOSURE WARNING (CRITICAL)"
+    The road up to Seiser Alm is strictly closed to private cars from **9:00 am to 5:00 pm**. You **MUST** pass the San Valentino checkpoint before 9:00 AM. If you arrive at 9:01 AM, the police will turn you away. Leave Ortisei by 8:15 AM.
+
 * **Bike Rental**: Rent from one of the shops in Compatsch (like K&K Sports or Sport Hans). It's wise to reserve e-bikes a day in advance.
 * **Total Freedom**: Because you drove up before the closure, you can leave at any time. You are not trapped until 5:00 PM (you just can't drive *up* between 9-5). This gives you the ultimate sunset experience.
