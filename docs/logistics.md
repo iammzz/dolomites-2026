@@ -19,10 +19,10 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 ---
 
 ## 🚗 Rental Car
-* **Provider**: TBD
-* **Pickup**: Venice Airport (VCE) or Piazzale Roma on Sept 12/13.
-* **Drop-off**: Venice Airport (VCE) on Sept 23.
-* *Status*: 🔴 **NOT BOOKED**
+* **Provider**: National Car Rental
+* **Pickup**: Venice Mestre Rail Station on Sun, Sept 13 at 12:00 PM
+* **Drop-off**: Venice Mestre Rail Station on Wed, Sept 23 at 12:00 PM
+* *Status*: 🟢 **BOOKED**
 * *Details*: Needs to comfortably fit the group and luggage. Must be automatic transmission (unless all drivers can drive manual on steep mountain passes).
 
 ---
@@ -53,3 +53,14 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 * **Paragliding in Val Gardena**: 🔴 **NOT BOOKED**
 * **DoloMithes Spa Passes**: 🔴 **NOT BOOKED**
 * **Via Ferrata Gear Rental**: Rent locally in Ortisei and Cortina.
+
+---
+
+## 🇪🇸 Madrid (Post-Trip)
+* **ANYMA presents ÆDEN - Madrid**
+  * *Dates*: Sept 26 - Sept 27, 2026
+  * *Location*: Venue to be announced (Madrid, España)
+  * *Status*: 🟢 **BOOKED (3 Tickets)**
+  * *Tickets*: Yi Yang Zeng, Matthew Zhang, Shu Cheng (Purchased by Emma Z)
+  * *Cost*: €89.00 each
+  * *Note*: QR codes for tickets will be available starting Sept 24, 2026 at 17:00.
