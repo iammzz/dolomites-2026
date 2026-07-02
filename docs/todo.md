@@ -28,8 +28,8 @@ This page tracks all outstanding items required to successfully execute the trip
 ## 📅 Phase 2: Book 2-3 Months Out (June - July 2026)
 - [ ] **International Driving Permit (IDP)**: [AAA IDP Portal](https://www.aaa.com/vacation/idpf.html)
   - *Nuance*: Legally required to carry an IDP to rent a car in Italy. Processing times by mail can take 4-6 weeks, so get this done early summer.
-- [ ] **E-Bike Rentals**: [Rent and Go Ortisei](https://www.rentandgo.it/)
-  - *Nuance*: Reserve E-bikes in advance for the Alpe di Siusi day. September is still busy, and stock runs out.
+- [ ] **E-Bike Rentals (Alpe di Siusi)**: [Sport Hans](https://www.sporthans.com/en/) or [Alpin Center](https://www.alpincenter.it/)
+  - *Nuance*: Reserve E-bikes in advance for the Alpe di Siusi day. It is highly recommended to rent directly in **Compatsch** (at the top of the plateau) so you don't have to carry bikes up the gondola from Ortisei. Both of these shops are right by the cable car station.
 - [ ] **Book Paragliding**: [Fly2 Dolomites](http://www.fly2.info)
   - *Nuance*: Highly weather dependent. Book early to secure a slot, but be prepared to shift the day. Cost is around €110-€290.
 - [ ] **Book Spa Passes**: [QC Terme Dolomiti](https://www.qcterme.com/en/val-di-fassa/qc-terme-dolomiti)
