@@ -3,7 +3,7 @@
 This page tracks all outstanding items required to successfully execute the trip. 
 
 !!! danger "CRITICAL ACTION REQUIRED"
-    **Flights, Hotels, and the Rental Car have NOT been booked yet!** These are the highest priority items as prices will increase significantly and availability will drop.
+    **Flights and Hotels have NOT been booked yet!** These are the highest priority items as prices will increase significantly and availability will drop. *(Note: Rental Car is successfully booked).*
 
 ## 🚨 Phase 1: Book ASAP (Right Now)
 - [ ] **Book Flights**: [Air Transat](https://www.airtransat.com) / [Google Flights](https://www.google.com/flights)
