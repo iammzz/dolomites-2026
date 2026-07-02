@@ -9,15 +9,15 @@ This page tracks all outstanding items required to successfully execute the trip
 - [ ] **Book Flights**: [Air Transat](https://www.airtransat.com) / [Google Flights](https://www.google.com/flights)
   - *Outbound*: 🟢 **BOOKED** (Entire group is booked on TS 306).
   - *Inbound*: Entire group needs to book Venice → Madrid for Sept 23.
-- [ ] **Book Rental Car**: [DiscoverCars](https://www.discovercars.com) / [Rentalcars.com](https://www.rentalcars.com)
-  - *Nuance*: Pickup/Drop-off at Venice Marco Polo (VCE). Ensure it has an **automatic transmission** (manuals are brutal on these mountain passes) and physically fits all 5 of you plus your heavy luggage.
+- [x] **Book Rental Car**: Booked with National Car Rental
+  - *Nuance*: Pickup/Drop-off at Venice Mestre Rail Station (VCE). Ensure it has an **automatic transmission** (manuals are brutal on these mountain passes) and physically fits all 5 of you plus your heavy luggage.
 - [ ] **Book Venice Hotel**: [Booking.com](https://www.booking.com)
   - *Nuance*: 1 night (Sept 12). If picking up the car on arrival, book a hotel in Mestre (mainland) rather than Venice Island, as you cannot drive a car onto the island.
 - [ ] **Book Val Gardena Base**: [ValGardena.it](https://www.valgardena.it) or [Booking.com](https://www.booking.com)
   - *Nuance*: 5 nights (Sept 13 - Sept 18). Target Ortisei or Selva. Ensure the property has dedicated parking.
 - [ ] **Book Cortina Base**: [Booking.com](https://www.booking.com)
   - *Nuance*: 5 nights (Sept 18 - Sept 23). Ensure the property has dedicated parking, ideally walking distance to Corso Italia.
-- [ ] **Madrid Concert Tickets**: [Ticketmaster / Anyma Official]
+- [x] **Madrid Concert Tickets**: Booked ANYMA presents ÆDEN tickets.
   - *Nuance*: Electronic concerts sell out instantly. Secure the Anyma tickets as soon as they drop.
 
 ## 📅 Phase 2: Book 2-3 Months Out (June - July 2026)
