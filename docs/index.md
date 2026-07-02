@@ -15,14 +15,14 @@ This overview merges the absolute best of your plans into a seamless, perfectly-
 
 **Day 1 | Saturday, Sept 12: Arrival in Venice**
 * **Morning**: Arrive at Venice Marco Polo (VCE) via TS 306 at 11:30 AM. 
-* **Midday**: Pick up your rental car at the airport. Ensure it fits all luggage!
-* **Afternoon**: Check into your Venice/Mestre hotel. Rest and recover from jetlag.
+* **Midday**: Transit from the airport to your hotel in Mestre.
+* **Afternoon**: Check in, rest, and recover from jetlag.
 * *Sleep: Venice / Mestre*
 
-**Day 2 | Sunday, Sept 13: Drive North & Settle In**
-* **Morning**: Drive from Venice to Val Gardena (approx. 3 hours via A22).
-* **Midday**: Arrive in Ortisei, check into your base, and grab groceries at Despar.
-* **Afternoon**: Walk around town, or ride the Resciesa funicular for an easy warmup walk to get adjusted to the altitude.
+**Day 2 | Sunday, Sept 13: Car Pickup, Drive North & Settle In**
+* **Morning**: Relaxed morning in Mestre.
+* **Midday**: Pick up your National Car Rental at **Venice Mestre Rail Station** at 12:00 PM.
+* **Afternoon**: Drive from Mestre to Val Gardena (approx. 3 hours via A22). Arrive in Ortisei, check into your base, and walk around town.
 * *Sleep: Val Gardena (Ortisei)*
 
 **Day 3 | Monday, Sept 14: Val di Funes & The Geisler Peaks**
