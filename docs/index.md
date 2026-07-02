@@ -1,8 +1,5 @@
 # 🗓️ The Ultimate Dolomites 2026 Itinerary
 
-This overview merges the absolute best of your plans into a seamless, perfectly-paced 16-day trip. We start in Venice, head straight to the Western Dolomites, slowly make our way East, return to Venice, and finally cap the trip off with an epic electronic concert in Madrid!
-
----
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
