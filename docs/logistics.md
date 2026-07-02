@@ -65,6 +65,11 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 * **Paragliding in Val Gardena**: 🔴 **NOT BOOKED**
 * **DoloMithes Spa Passes**: 🔴 **NOT BOOKED**
 * **Via Ferrata Gear Rental**: Rent locally in Ortisei and Cortina.
+* **E-Bike Rentals (Compatsch / Alpe di Siusi)**: 🔴 **NOT BOOKED**
+  * *[Alpin Center (Bike Rent Lodge)](https://www.alpincenter.it/)*: ~€65-€80/day | **Distance**: 0m (Located directly in the main Compatsch parking lot P2).
+  * *[Sport Hans](https://www.sporthans.com/en/)*: ~€60-€80/day | **Distance**: 200m from main parking.
+  * *[K&K Sports](https://www.kksports.com/)*: ~€55-€60/day | **Distance**: ~300m (at the cable car mountain station).
+  * *[GASKO E.Bike](https://www.gasko-ebike.it/)*: ~€45-€55/day | **Distance**: N/A (Main shop in valley, requires coordinating drop-off/shuttle to the plateau).
 
 ---
 

@@ -32,9 +32,9 @@ This overview merges the absolute best of your plans into a seamless, perfectly-
 * *Sleep: Val Gardena (Ortisei)*
 
 **Day 4 | Tuesday, Sept 15: The Highest Alpine Meadow**
-* **Morning**: Take the cable car up to **Seiser Alm (Alpe di Siusi)**.
+* **Morning**: Drive up to Compatsch (MUST pass checkpoint before 9:00 AM closure) and park at P2.
 * **Midday**: Rent e-bikes to hop between rifugios for food and views.
-* **Afternoon**: Drive to the medieval village of **Castelrotto** on the way back down.
+* **Afternoon**: Stay on the plateau for sunset alpenglow, then drive down to the medieval village of **Castelrotto**.
 * *Sleep: Val Gardena (Ortisei)*
 
 **Day 5 | Wednesday, Sept 16: The Postcard Ridge**
