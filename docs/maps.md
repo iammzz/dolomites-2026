@@ -36,11 +36,59 @@ To make navigation on the ground as easy as possible, here are click-to-open Goo
 
 ---
 
-## 🌍 Google My Maps (Custom Interactive Map)
+## 🌍 Interactive Trip Map
+*This map automatically syncs with the itinerary data repository!*
 
-If you want to visualize the entire trip at a glance on a custom map, you can use **Google My Maps**:
-1. Download the `my_maps_import.csv` file from the root of this project's repository.
-2. Go to [Google My Maps](https://mymaps.google.com/) and click **Create a New Map**.
-3. Click **Import** on the first map layer and upload the CSV file.
-4. When prompted, select the **Location** column to place the placemarks, and the **Name** column to title the markers.
-5. Google will automatically plot every hotel base, hike, and cable car onto a single interactive map that you can share with your group!
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+
+<div id="map" style="height: 600px; width: 100%; border-radius: 8px; border: 1px solid #ccc; z-index: 1;"></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    // Initialize the map, centered roughly on the Dolomites
+    var map = L.map('map').setView([46.4, 11.8], 9);
+
+    // Add OpenStreetMap tiles
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 18,
+        attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    // Fetch and parse the CSV
+    Papa.parse('assets/data/my_maps_import.csv', {
+        download: true,
+        header: true,
+        complete: function(results) {
+            var bounds = [];
+            results.data.forEach(function(row) {
+                if (row.Lat && row.Lng) {
+                    var lat = parseFloat(row.Lat);
+                    var lng = parseFloat(row.Lng);
+                    
+                    if (!isNaN(lat) && !isNaN(lng)) {
+                        var marker = L.marker([lat, lng]).addTo(map);
+                        
+                        // Create popup content
+                        var popupContent = `
+                            <div style="font-family: sans-serif;">
+                                <h3 style="margin-bottom: 5px; color: #333;">${row.Name}</h3>
+                                <strong>${row.Day}</strong><br>
+                                <span style="color: #666;">${row.Description}</span>
+                            </div>
+                        `;
+                        marker.bindPopup(popupContent);
+                        bounds.push([lat, lng]);
+                    }
+                }
+            });
+            // Automatically fit the map to show all pins (excluding Madrid to not zoom out too far)
+            var italyBounds = bounds.filter(b => b[1] > 0); 
+            if(italyBounds.length > 0) {
+                map.fitBounds(italyBounds, {padding: [50, 50]});
+            }
+        }
+    });
+});
+</script>
