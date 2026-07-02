@@ -38,21 +38,10 @@ Today you shift your base from the Western to the Eastern Dolomites. Instead of 
 | 4 | Passo Falzarego | Cortina d'Ampezzo | 17 km | ~30 min | SR48 | Steep, winding descent into Cortina. |
 | — | **Total Transit Drive** | | **~95 km** | **~2.5–3 hours** | | *Does not include time at stops.* |
 
-### 🗺️ Visual Timeline
+### 🗺️ Visual Route Map
+*(Click the map to open the live interactive Google Maps directions)*
 
-```mermaid
-journey
-    title Day 7 - The Epic Transit Route
-    section Morning
-      Depart Val Gardena: 5: Driver
-      Passo Pordoi Viewpoint: 4: Group
-    section Midday
-      Marmolada Cable Car: 5: Group
-      Museum & Lunch: 4: Group
-    section Afternoon
-      Lagazuoi Tunnels: 5: Group
-      Arrive in Cortina: 5: Driver
-```
+[![Transit Route Map](assets/images/transit_map.png)](https://www.google.com/maps/dir/Ortisei/Passo+Pordoi/Malga+Ciapela/Passo+Falzarego/Cortina+d'Ampezzo)
 
 
 ### 🕐 Hour-by-Hour Schedule
