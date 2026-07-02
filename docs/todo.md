@@ -8,7 +8,8 @@ This page tracks all outstanding items required to successfully execute the trip
 ## 🚨 Phase 1: Book ASAP (Right Now)
 - [ ] **Book Flights**: [Air Transat](https://www.airtransat.com) / [Google Flights](https://www.google.com/flights)
   - *Outbound*: 🟢 **BOOKED** (Entire group is booked on TS 306).
-  - *Inbound*: Entire group needs to book Venice → Madrid for Sept 23.
+  - *Intra-Europe*: Entire group needs to book a morning flight from Venice → Madrid for Sept 25 (likely Ryanair).
+  - *Return*: Entire group needs to book Madrid → Toronto for Sept 27.
 - [x] **Book Rental Car**: Booked with National Car Rental
   - *Nuance*: Pickup/Drop-off at Venice Mestre Rail Station (VCE). Ensure it has an **automatic transmission** (manuals are brutal on these mountain passes) and physically fits all 5 of you plus your heavy luggage.
 - [ ] **Book Venice Hotel**: [Booking.com](https://www.booking.com)
@@ -17,6 +18,10 @@ This page tracks all outstanding items required to successfully execute the trip
   - *Nuance*: 5 nights (Sept 13 - Sept 18). Target Ortisei or Selva. Ensure the property has dedicated parking.
 - [ ] **Book Cortina Base**: [Booking.com](https://www.booking.com)
   - *Nuance*: 5 nights (Sept 18 - Sept 23). Ensure the property has dedicated parking, ideally walking distance to Corso Italia.
+- [ ] **Book Venice Return Base**: [Booking.com](https://www.booking.com)
+  - *Nuance*: 2 nights (Sept 23 - Sept 25) on Venice Island.
+- [ ] **Book Madrid Base**: [Airbnb / Booking.com]
+  - *Nuance*: 2 nights (Sept 25 - Sept 27). Decide on a neighborhood (Malasaña, Chueca, Centro, etc.).
 - [x] **Madrid Concert Tickets**: Booked ANYMA presents ÆDEN tickets.
   - *Nuance*: Electronic concerts sell out instantly. Secure the Anyma tickets as soon as they drop.
 

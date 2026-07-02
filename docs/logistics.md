@@ -12,9 +12,12 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
   * *Schedule*: Departs YYZ Terminal 3 on Fri, Sept 11 at 21:10. Arrives VCE on Sat, Sept 12 at 11:30.
   * *Passengers*: Emma Zeng, Matthew Zhang, Kevin Yuan, Sunny, Kevin He
   * *Baggage Note*: Eco Budget fare — includes 1 carry-on and 1 personal item. **No checked bags included.**
-* **Inbound**: Venice (VCE) to Madrid (MAD)
+* **Intra-Europe**: Venice (VCE/TSF) to Madrid (MAD)
   * *Status*: 🔴 **NOT BOOKED**
-  * *Details*: Afternoon flight on Sept 23.
+  * *Details*: Morning flight on Sept 25 (likely Ryanair).
+* **Return**: Madrid (MAD) to Toronto (YYZ)
+  * *Status*: 🔴 **NOT BOOKED**
+  * *Details*: Flight on Sept 27.
 
 ---
 
@@ -46,6 +49,15 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 * *Status*: 🔴 **NOT BOOKED**
 * *Details*: Needs parking. Proximity to Corso Italia is a bonus.
 
+### Base 4: Venice Island (2 Nights)
+* **Dates**: Sept 23 - Sept 25
+* **Location**: Venice Island
+* *Status*: 🔴 **NOT BOOKED**
+
+### Base 5: Madrid (2 Nights)
+* **Dates**: Sept 25 - Sept 27
+* **Location**: Madrid (TBD Neighborhood)
+* *Status*: 🔴 **NOT BOOKED**
 ---
 
 ## 🎟️ Activities & Permits

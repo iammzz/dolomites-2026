@@ -88,9 +88,36 @@ This overview merges the absolute best of your plans into a seamless, perfectly-
 
 ---
 
-## ✈️ Part 4: Departure
+## 🛶 Part 4: Venice Return
 
-**Day 12 | Wednesday, Sept 23: To Madrid**
-* **Morning**: 2-hour drive back to Venice Marco Polo (VCE) airport.
-* **Afternoon**: Flight to Madrid.
-* **Evening**: Arrive in Madrid, rest. (Anyma concert is Sept 26).
+**Day 12 | Wednesday, Sept 23: Drive Down & Check In**
+* **Morning**: Drive from Cortina to Mestre. Drop off rental car at 12:00 PM.
+* **Afternoon**: Take the train or water taxi into Venice Island. Check into the hotel.
+* **Evening**: Wandering and cicchetti.
+* *Sleep: Venice Island*
+
+**Day 13 | Thursday, Sept 24: Venice Highlights**
+* **Morning**: Early start at St. Mark's Square (Basilica & Doge's Palace).
+* **Midday**: Rialto Bridge and lunch in San Polo.
+* **Afternoon**: Gondola ride or a trip to Murano/Burano.
+* *Sleep: Venice Island*
+
+---
+
+## 🇪🇸 Part 5: Madrid & Departure
+
+**Day 14 | Friday, Sept 25: Transit to Spain**
+* **Morning**: Ryanair flight from Venice to Madrid (MAD).
+* **Afternoon**: Check into Madrid base, late lunch/tapas near Plaza Mayor.
+* **Evening**: Royal Palace and San Miguel Market.
+* *Sleep: Madrid*
+
+**Day 15 | Saturday, Sept 26: ANYMA presents ÆDEN**
+* **Morning**: Sleep in, brunch in Malasaña or Chueca.
+* **Afternoon**: Siesta and pre-game dinner.
+* **Evening/Night**: ANYMA concert at TBA venue.
+* *Sleep: Madrid*
+
+**Day 16 | Sunday, Sept 27: Return to Toronto**
+* **Morning**: Recovery and final Spanish breakfast.
+* **Afternoon**: Head to MAD for flight back to Toronto (YYZ).
