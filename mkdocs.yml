@@ -8,22 +8,27 @@ theme:
 
 nav:
   - Welcome: index.md
-  - Part 1 - Western Dolomites:
-      - Day 1 (Venice / Transit): day1_venice_val_gardena_arrival.md
+  - Part 1 - Venice:
+      - Day 1 (Venice Arrival): day1_venice_val_gardena_arrival.md
+  - Part 2 - Western Dolomites:
       - Day 2 (Acclimatization): day2_ortisei_acclimatization.md
       - Day 3 (Val di Funes): day3_val_di_funes.md
       - Day 4 (Alpe di Siusi): day4_alpe_di_siusi.md
       - Day 5 (Seceda): day5_seceda_ridge.md
       - Day 6 (West Split Day): day6_west_split.md
-  - Part 2 - Epic Transit:
+  - Part 3 - Epic Transit:
       - Day 7 (Val Gardena to Cortina): day7_val_gardena_cortina_transit.md
-  - Part 3 - Eastern Dolomites:
+  - Part 4 - Eastern Dolomites:
       - Day 8 (Passo Giau): day8_cinque_torri_passo_giau.md
       - Day 9 (Tre Cime): day9_tre_cime_cadini.md
       - Day 10 (East Split Day): day10_east_split.md
       - Day 11 (Sorapis): day11_lago_di_sorapis.md
-  - Part 4 - Departure:
-      - Day 12 (To Madrid): day12_venice_madrid_departure.md
+  - Part 5 - Madrid:
+      - Day 12 (Transit to Madrid): day12_venice_madrid_departure.md
+      - Day 13 (Historic Madrid): day13_madrid_highlights.md
+      - Day 14 (Culture & Day Trips): day14_madrid_culture_or_daytrip.md
+      - Day 15 (ANYMA Concert): day15_madrid_anyma.md
+      - Day 16 (Departure to YYZ): day16_madrid_toronto_departure.md
   - Planning:
       - Logistics: logistics.md
       - To-Do List: todo.md
