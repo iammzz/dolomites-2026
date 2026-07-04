@@ -11,15 +11,15 @@ Today is about making it across the Atlantic, gathering your rental car, and rec
 
 ### 1. The Airport Logistics (11:30 AM)
 * **Arrival**: Flight TS 306 lands at Venice Marco Polo Airport (VCE) at 11:30 AM.
-* **Customs**: Budget around 1 to 1.5 hours to get through customs and grab your luggage (since the outbound flight has no checked bags, you should be fast!).
-* **Transit to Hotel**: Take the bus or a taxi from the airport to your hotel in Mestre.
+* **Customs & Baggage** (~1 hr): Budget around 1 hour to clear EU customs and grab your luggage.
+* **Transit to Hotel** (~30 min): Take the **ATVO shuttle bus** (€10, runs every 30 min) or **Bus 15** (~€8) from the airport directly to Mestre Station. A taxi is ~€35-40. Your hotel is in Mestre, so do NOT take the water bus into Venice Island.
 
 ### 2. The Check-In (Afternoon)
 * **Check-In**: Because you cannot drive a car onto Venice Island (and you don't have the rental car yet anyway), you will be staying at a hotel on the mainland (Mestre) tonight.
 * **Rest**: Check in and take a much-needed shower/nap.
 
-### 3. Evening in Venice (Optional)
-* If the group has energy, you can take a bus or train (15 mins) from Mestre directly onto Venice Island for dinner. Walk around the canals, grab some cicchetti (Venetian tapas) and Aperol Spritzes, and head to bed early.
+### 3. Evening in Venice (Optional — ~3 hrs)
+* If the group has energy, take a **15-minute train** from Mestre Station to **Venezia Santa Lucia** (trains run every 5-10 min, ~€1.50). Walk around the canals near the station, grab some *cicchetti* (Venetian tapas) and Aperol Spritzes at a canal-side *bacaro*, and take the last train back. Head to bed early — tomorrow you drive into the mountains!
 
 ---
 

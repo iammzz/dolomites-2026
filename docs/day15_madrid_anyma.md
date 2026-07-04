@@ -7,14 +7,14 @@
 ## 🎶 Overview
 Today is the day! You have tickets for **ANYMA presents ÆDEN**. Since electronic music events often run late into the night (and sometimes into the morning in Spain), the strategy for today is to rest up, eat well, and prepare for an incredible audiovisual experience.
 
-## ☕ Morning: Sleep In & Brunch
+## ☕ Morning: Sleep In & Brunch (~2 hrs)
 * **Sleep In**: Take it easy this morning. You don't want to burn yourselves out before the concert.
-* **Brunch**: Find a great brunch spot in Chueca or Malasaña. 
-* **Shopping/Wandering**: Stroll down Gran Vía (Madrid's Broadway) for some shopping, or just people-watch from a café.
+* **Brunch** (~1.5 hrs): Find a great brunch spot in Chueca or Malasaña. Madrid's brunch scene is massive — expect elaborate spreads with eggs, avocado toast, fresh juice, and strong coffee.
+* **Shopping/Wandering** (~1 hr): Stroll down **Gran Vía** (Madrid's Broadway) for some shopping, or just people-watch from a café.
 
-## 🥘 Afternoon: The Pre-Game
-* **Siesta**: A true Spanish siesta might be in order this afternoon to ensure you have energy for the night.
-* **Big Meal**: Eat a substantial dinner before heading to the venue.
+## 🥘 Afternoon: The Pre-Game (~3 hrs)
+* **Siesta** (~2 hrs): A true Spanish siesta might be in order this afternoon to ensure you have energy for the night. Go back to the hotel, close the blinds, and sleep.
+* **Big Meal** (~1 hr): Eat a substantial, carb-heavy dinner by 7-8 PM before heading to the venue. You need fuel for a long night of dancing.
 
 ## 🎫 Evening/Night: The Event
 * **ANYMA presents ÆDEN**: 

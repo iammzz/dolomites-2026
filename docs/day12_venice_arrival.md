@@ -7,15 +7,15 @@
 ## 🏔️ Overview
 Today you pack up your cars, leave the stunning peaks of the Dolomites behind, and head down to the Venetian lagoon for a couple of days of relaxation before flying to Spain.
 
-## 🚗 Morning: The Drive Down & Car Return
+## 🚗 Morning: The Drive Down & Car Return (~3.5 hrs)
 * **8:30 AM**: Pack the car and check out of your Cortina base. You need to leave early to make it to Mestre by noon.
-* **The Route**: You will drive South from Cortina on the A27 highway. It is a very easy, straightforward drive out of the mountains, taking approximately 2 to 2.5 hours.
-* **Refueling**: Make sure to stop at a gas station near Mestre to fill up the rental car before dropping it off.
-* **12:00 PM**: **Rental Return**: Drop off the car exactly at 12:00 PM at **Venice Mestre Rail Station** (as per your National Car Rental booking). 
+* **The Route** (~2.5 hrs driving): You will drive South from Cortina on the A27 highway. It is a very easy, straightforward drive out of the mountains.
+* **Refueling** (~15 min): Make sure to stop at a gas station near Mestre to fill up the rental car before dropping it off. Returning with a non-full tank incurs steep refueling charges.
+* **12:00 PM**: **Rental Return**: Drop off the car exactly at 12:00 PM at **Venice Mestre Rail Station** (as per your National Car Rental booking). Inspect the car with the agent and get a return receipt.
 
-## 🛶 Afternoon: Checking into Venice
-* **Transit to Venice Island**: From Mestre Station, you can easily take a 10-minute train ride directly into Venezia Santa Lucia station.
-* **Water Taxi / Vaporetto**: Depending on where your hotel is on the island, take the Vaporetto (water bus) or a private water taxi.
+## 🚶 Afternoon: Checking into Venice (~1.5 hrs)
+* **Transit to Venice Island** (~15 min): From Mestre Station, take a 10-minute train to **Venezia Santa Lucia** station (€1.50).
+* **Vaporetto** (~30 min): Buy a **24-hour Vaporetto pass (€25)** from the ACTV booth at Santa Lucia station. This covers unlimited water bus rides for the next 24 hours. Take Line 1 (the slow scenic route down the Grand Canal) or Line 2 (express) to your hotel's nearest stop.
 * **Check-In**: Check into your Venetian hotel and drop your bags.
 
 ## 🍝 Evening: Cicchetti & Canals
