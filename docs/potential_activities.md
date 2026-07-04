@@ -232,3 +232,57 @@ This is your final full day in the Dolomites. Tomorrow is a pure travel day driv
 
 ---
 
+## 8. Torri del Vajolet (Vajolet Towers) Hike
+The Vajolet Towers are three sheer spires rising dramatically out of the Rosengarten (Catinaccio) massif. The hike to the base is a classic Dolomite experience, offering a steep and rocky challenge with a monumental visual payoff.
+
+* **Distance**: 8 km round trip (using lifts)
+* **Elevation Change**: ~650m
+* **Difficulty**: ⭐⭐⭐⭐ Strenuous (Includes a steep, rocky scramble up a gorge using some steel cables for balance near the top).
+* **Duration**: 4.5 hrs total (Approx. 1.5 hrs hiking from the lift to Rifugio Vajolet, 1 hr steep scramble to the towers at Rifugio Re Alberto, 45 min enjoying the towers, and 1.5 hrs returning).
+* **The Route**: Take the lifts from Pera di Fassa (Vajolet 1 and 2 chairlifts) or the Vigo-Ciampedie cable car. Walk to Rifugio Gardeccia, then follow trail 546 up to Rifugio Vajolet. From there, take the steep, rocky scramble up trail 542 to Rifugio Re Alberto right at the base of the towers.
+* **Resources**:
+  * [The Common Wanderer: Vajolet Towers Guide](https://thecommonwanderer.com/vajolet-towers-hike-dolomites/)
+  * [Anywhere We Roam: Vajolet Towers](https://anywhereweroam.com/vajolet-towers-hike/)
+* **Notes**: Very steep; hiking boots with solid ankle support and good grip are mandatory. Not recommended in wet or icy weather as the rocky gorge can be slippery.
+
+---
+
+## 9. Viel del Pan (Bindelweg)
+A historic trade path running along a high grassy ridge directly opposite the Marmolada Glacier. Because the trail stays high, it delivers continuous, jaw-dropping views of the glacier and Lake Fedaia below with minimal climbing.
+
+* **Distance**: 7.5 km point-to-point (Passo Pordoi to Lago di Fedaia)
+* **Elevation Change**: ~350m ascent, ~700m descent
+* **Difficulty**: ⭐⭐ Moderate
+* **Duration**: 3.5 hrs total (Approx. 2.5 hrs hiking, plus 1 hr stopping at Rifugio Viel dal Pan for lunch or coffee).
+* **Logistics**: Park at Passo Pordoi (near the Sass Pordoi cable car). Hike trail 601 past Rifugio Baita Fredarola to Rifugio Viel dal Pan. Descend down to Lake Fedaia. To get back to Passo Pordoi, take the local SAD bus Line 472 (or Line 130) from the lake.
+* **Resources**:
+  * [Moon & Honey Travel: Viel del Pan Guide](https://www.moonhoneytravel.com/viel-dal-pan-hike-dolomites/)
+* **Notes**: A popular trail for mountain bikers; stay alert. Easy footing compared to other high-altitude routes, making it a great option if your legs are tired but you still want big views.
+
+---
+
+## 10. Lago di Carezza (Karersee)
+Known as the "Rainbow Lake," this is a small, highly protected alpine lake that perfectly mirrors the jagged Latemar peaks. The forest surrounding the lake is incredibly photogenic.
+
+* **Distance**: 1.2 km flat loop
+* **Elevation Change**: Negligible
+* **Difficulty**: ⭐ Easy
+* **Duration**: 45 mins total (Approx. 25 min walking the perimeter trail, plus 20 min taking photos from the wooden platforms).
+* **Logistics**: Located in Eggental (Val d'Ega), about 40 min drive from Bolzano. Paid parking at P1 (Karersee) directly at the lake (€5 for 1 hr). Arrive before 9:00 AM or after 5:00 PM to avoid heavy tour bus crowds.
+* **Resources**:
+  * [Eggental Tourism: Lago di Carezza Guide](https://www.eggental.com/en/Karersee)
+* **Notes**: **Swimming, boating, and crossing the wooden barriers are strictly prohibited** and subject to heavy fines. Drones are also banned to protect the local wildlife.
+
+---
+
+## 11. Val Fiscalina (Fischleintal)
+A quiet, stunning valley in the Sesto (Sexten) Dolomites. It serves as a gentle, picturesque alternative to the high-elevation climbs, running through larch forests and green pastures directly below the towering Sundial Peaks.
+
+* **Distance**: 4.5 km round trip (to Rifugio Fondovalle)
+* **Elevation Change**: ~100m
+* **Difficulty**: ⭐ Easy (flat, gravel path suitable for all fitness levels)
+* **Duration**: 1.5 hrs total (Approx. 1 hr walking, plus 30 min at Rifugio Fondovalle for coffee and cake).
+* **Logistics**: Located near Sesto/Moso. Parking is available at the valley entrance near Hotel Dolomitenhof. Note that from mid-June to early October, the road is closed to private vehicles from 9:00 AM to 4:00 PM (access is via the local shuttle bus).
+* **Resources**:
+  * [Moon & Honey Travel: Val Fiscalina Guide](https://www.moonhoneytravel.com/fischleintal-val-fiscalina-hike/)
+* **Notes**: A fantastic, peaceful recovery-day option. For those wanting a challenge, you can continue past the hut up the steep trail to Rifugio Locatelli (Three Peaks).
