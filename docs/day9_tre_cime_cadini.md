@@ -11,39 +11,35 @@
 This is the absolute signature hiking day of the Dolomites. Tre Cime di Lavaredo is the most famous rock formation in the region, and doing the full loop gives you 360-degree views of the massive peaks. By adding the short Cadini di Misurina viewpoint hike afterwards, you get a completely different, wildly jagged landscape for minimal extra effort. Because this is the most popular area in the Dolomites, **you must arrive early**.
 
 > [!IMPORTANT]
-> **PARKING PRE-BOOKING IS MANDATORY.** Reserve at [auronzo.info](https://auronzo.s-dolomiti.it/) — **€45/vehicle**. Arrive at the toll road entrance by **7:15–7:30am** even with a reservation.
+> **PARKING PRE-BOOKING IS MANDATORY.** Reserve at [pass.auronzo.info](https://pass.auronzo.info) — **€40/vehicle (2026 price).** Ticket valid for 12 hours. Arrive at the toll road entrance by **7:15–7:30am** even with a reservation.
 
 ### 1. 🏔️ Tre Cime di Lavaredo Loop (Counterclockwise)
 * **Distance**: 8.8–10 km loop
 * **Elevation Change**: ~400–500m
 * **Difficulty**: ⭐⭐⭐ Moderate
-* **Duration**: 3–5 hours
-* **Extensions**: Detour to the Laghi dei Piani (+1.5km, flat) at the north face junction.
+* **Duration**: 4 hrs total (Approx. 2.5 hrs of moving time hiking, plus 30 min at Rifugio Locatelli for the iconic north-face photo and a coffee, 30 min at Rifugio Lavaredo for snacks, and 30 min at other photo stops along the loop).
+* **The Route**: Start counterclockwise from Rifugio Auronzo. This saves the dramatic north face reveal (near Rifugio Locatelli) for the midpoint — arguably the most dramatic moment of the entire trip.
 * **Resources**:
-  * [Earth Trekkers: Tre Cime Loop](https://www.google.com/search?q=site:earthtrekkers.com+hiking+tre+cime+di+lavaredo+loop)
-  * [AllTrails: Tre Cime Loop](https://www.alltrails.com/search?q=tre%20cime%20di%20lavaredo%20loop)
-* **Notes**: Hiking counterclockwise saves the dramatic north face reveal (near Rifugio Locatelli) for the midpoint.
+  * [In a Faraway Land: Tre Cime Guide](https://inafarawayland.com/tre-cime-di-lavaredo/)
 
 ### 2. 🏔️ Cadini di Misurina Viewpoint Hike
 * **Distance**: 3.2–3.7 km round trip
 * **Elevation Change**: 180–260m
 * **Difficulty**: ⭐⭐ Easy–Moderate (narrow, exposed ridge at final viewpoint)
-* **Duration**: 1–2 hours
-* **Extensions**: Can continue past the viewpoint down to Rifugio Fonda Savio for a much longer, strenuous day.
+* **Duration**: 1.5 hrs total (Approx. 30 min hiking up to the viewpoint, 30 min at the top soaking in the jagged pinnacles, and 30 min hiking back down).
+* **The Crux**: The final approach is a narrow, exposed rocky ridge. Trekking poles are helpful. Not suitable if you have a fear of heights.
 * **Resources**:
-  * [Earth Trekkers: Cadini di Misurina](https://www.google.com/search?q=site:earthtrekkers.com+cadini+di+misurina+viewpoint+hike)
-  * [AllTrails: Cadini di Misurina](https://www.alltrails.com/search?q=cadini%20di%20misurina%20viewpoint)
-* **Notes**: Trailhead departs from the exact same parking lot as Tre Cime. Provides stunning jagged pinnacles in the foreground with Tre Cime in the background. Not suitable if you have a fear of heights.
+  * [In a Faraway Land: Cadini di Misurina](https://inafarawayland.com/tre-cime-di-lavaredo/)
+* **Notes**: Trailhead departs from the exact same parking lot as Tre Cime. Provides stunning jagged pinnacles in the foreground with Tre Cime in the background.
 
 ### 3. 🏞️ Lago di Misurina — Afternoon Lunch
 * **Distance**: 2–3 km partial lakeside walk (flat)
 * **Elevation Change**: ~0m
 * **Difficulty**: ⭐ Easy
-* **Duration**: ~1.5 hrs total
-* **Extensions**: You can walk the full perimeter of the lake (~2.6km total).
+* **Duration**: 1.5 hrs total (Approx. 15 min driving from the toll road exit to the lakeside, 30 min walking the lakeside path, and 45 min eating lunch at a lakeside restaurant).
 * **Resources**:
-  * [Earth Trekkers: Things to do in Cortina](https://www.google.com/search?q=site:earthtrekkers.com+things+to+do+in+cortina+dampezzo)
-* **Notes**: On the drive back down the toll road, stop at Lago di Misurina. Eat at Pizzeria Edelweiss and enjoy a relaxed stroll around the 1,756m altitude lake.
+  * [In a Faraway Land: Tre Cime Guide](https://inafarawayland.com/tre-cime-di-lavaredo/)
+* **Notes**: On the drive back down the toll road, stop at Lago di Misurina. It's a serene, flat-water lake at 1,756m surrounded by dramatic peaks. Walk the lakeside path and grab a leisurely lunch — you've earned it.
 
 ---
 

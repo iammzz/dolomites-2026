@@ -14,18 +14,18 @@ This is your second **Split Day**, allowing the group to choose their own advent
     * **Distance**: 4.5 km round trip
     * **Elevation Gain**: ~500m
     * **Difficulty**: ⭐⭐⭐⭐ Intermediate (Steep and exposed, requires physical exertion and pulling yourself up on the cables in places).
-    * **Duration**: 3.5 - 4.5 hours
-    * **Required Gear**: Helmet, harness, and via ferrata lanyard (rent in Cortina).
-    * **Logistics**: Drive to the Strobel parking lot (near Falzarego Pass). The approach hike is about 45 minutes, the climb is 2 hours, and the descent is a hiking trail back to the car.
+    * **Duration**: 4.5 hrs total (Approx. 45 min approach hike from the Strobel parking lot, 2 hrs on the secured cable route climbing through WWI positions, 30 min at the summit enjoying the panorama, and 1.5 hrs descending the hiking trail back to the car).
+    * **Required Gear**: Helmet, harness, and via ferrata lanyard. Rent in Cortina the evening before from **Cortina Sport** or **Franz Sports** — typical rental ~€25-30/set.
+    * **Trailhead**: Drive to the **Strobel parking lot** near Passo Falzarego (~25 min from Cortina). Free parking.
 
 === "☕ Group B: The Relaxers (Cortina d'Ampezzo)"
 
     **Expectation & Rationale:** 
-    Cortina d'Ampezzo is known as the "Pearl of the Dolomites". It's a chic, upscale town that hosted the 1956 Winter Olympics. 
+    Cortina d'Ampezzo is known as the "Pearl of the Dolomites". It's a chic, upscale town that hosted the 1956 Winter Olympics and the 2026 Winter Olympics. 
 
-    * **Morning**: Sleep in and stroll down **Corso Italia**, the main pedestrian shopping street lined with cafes and boutiques. 
-    * **Midday Option**: Have a luxurious lunch at one of the upscale restaurants in town.
-    * **Alternative Drive**: If you want to see some sights without hiking, take the car and drive 20 minutes to **Lago di Misurina** to walk around the lake and grab an espresso with a view of the mountains.
+    * **Morning** (~2 hrs): Sleep in and stroll down **Corso Italia**, the main pedestrian shopping street lined with high-end boutiques, cafés, and gelaterias. Grab a late breakfast at one of the outdoor terraces.
+    * **Midday Lunch** (~1.5 hrs): Treat yourself to a luxurious sit-down lunch at one of Cortina's upscale restaurants — you've been eating trail food for days.
+    * **Afternoon Option** (~2 hrs): Drive 20 minutes to **Lago di Braies** (if you reserved parking in advance — **mandatory online reservation, ~€10/vehicle at [pragsparking.com](https://www.pragsparking.com)**) for a leisurely walk around the stunning emerald-green lake, or stay in town and explore the Olympic venues.
 
 ---
 

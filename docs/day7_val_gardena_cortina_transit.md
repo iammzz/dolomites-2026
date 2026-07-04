@@ -13,16 +13,16 @@ Today you shift your base from the Western to the Eastern Dolomites. Instead of 
 ### 1. Lagazuoi Cable Car & WWI Tunnels
 * **Elevation Change**: Cable car to 2,752m.
 * **Difficulty**: ⭐⭐ Moderate (downhill walk through tunnels if you choose to hike it).
-* **Duration**: 2-3 hours
-* **Resources**: [Earth Trekkers: Lagazuoi Tunnels](https://www.google.com/search?q=site:earthtrekkers.com+hiking+the+lagazuoi+tunnels+dolomites)
-* **Notes**: You can take the cable car up and back down just for the views, OR you can take it up, rent a helmet/headlamp at the top, and walk 4km downhill *inside* the mountain through the WWI tunnels excavated by Italian soldiers. 
+* **Duration**: 2.5 hrs total (Approx. 10 min cable car ride up, 30 min enjoying the summit panorama and Rifugio Lagazuoi terrace, 1 hr descending through the dark WWI tunnels inside the mountain, and 30 min walking back to the Falzarego parking lot).
+* **Cable Car**: Runs every 15 min from 9:00 AM. **5% discount if paying by credit card.** Check current pricing at [lagazuoi.it](https://lagazuoi.it). Dolomiti SuperSummer card accepted.
+* **The Tunnel Walk**: You ride the cable car up, rent a helmet and headlamp at the Rifugio Lagazuoi (at the summit), and walk 4 km downhill *inside* the mountain through restored WWI tunnels excavated by Italian soldiers. The tunnels are dark, damp, cold, and steep — phone flashlights are **not enough**. Wear warm layers and bring gloves.
+* **Resources**: [Earth Trekkers: Lagazuoi Tunnels](https://www.earthtrekkers.com/hiking-the-lagazuoi-tunnels-dolomites/)
 
 ### 2. Marmolada (The Queen of the Dolomites)
 * **Elevation Change**: Cable car in 3 stages to Punta Rocca (3,265m).
 * **Difficulty**: ⭐ Easy
-* **Duration**: 1.5–2 hours
-* **Resources**: [Earth Trekkers: Marmolada](https://www.google.com/search?q=site:earthtrekkers.com+marmolada+highest+mountain+in+the+dolomites)
-* **Notes**: Marmolada is the only remaining large glacier in the Dolomites. The Malga Ciapela cable car whisks you to the top. Visit the Museum of the Great War at the Serauta mid-station (included in ticket). 
+* **Duration**: 1.5 hrs total (Approx. 30 min for the 3-stage cable car ride up, 20 min at the summit viewing platform, 15 min at the WWI Museum at the Serauta mid-station on the way down, and 15 min cable car descent).
+* **Notes**: Marmolada is the highest peak in the Dolomites and home to its last remaining glacier. The Malga Ciapela cable car whisks you to 3,265m — the highest point you'll reach on the entire trip. Visit the Museum of the Great War at the Serauta mid-station (included in ticket). **Bring a warm jacket — it is freezing at the top even in September.**
 
 ---
 

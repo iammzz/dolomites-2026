@@ -14,12 +14,12 @@ Earth Trekkers rates this as one of the standout hikes of the eastern Dolomites.
 * **Distance**: 11.5–13 km round trip
 * **Elevation Change**: ~434m (trailhead 1,805m → lake 1,920m, with undulation)
 * **Difficulty**: ⭐⭐⭐ Moderate (narrow rocky sections, exposed cliff traverse with fixed cables)
-* **Duration**: 4–5 hrs round trip
-* **Extensions**: Forcella Marcuoira loop option for significantly more elevation gain and panoramic ridge views.
+* **Duration**: 5 hrs total (Approx. 2 hrs hiking in through forest and along the cliff traverse, 1 hr at the lake soaking in the surreal turquoise water and taking photos, and 2 hrs hiking back out on the same trail).
+* **The Cable Section**: About 2/3 of the way in, the trail narrows dramatically to a cliff ledge with fixed steel cables bolted into the rock. You grip the cable, face the rock, and sidestep along. It is the psychological crux of the hike — not technically difficult, but exposed. Yield to descending hikers as there's limited space to pass.
+* **The Lake**: The water is opaque and luminous turquoise due to glacial rock flour suspended in the meltwater. **No swimming allowed. No dogs. Pack out all rubbish.**
+* **Footwear**: Hiking boots with ankle support strongly recommended. The rocks on the cable section are polished smooth by thousands of hikers — trail runners are not safe here.
 * **Resources**:
-  * [Earth Trekkers: Lago di Sorapis](https://www.google.com/search?q=site:earthtrekkers.com+how+to+hike+lago+di+sorapis)
-  * [AllTrails: Lago di Sorapis](https://www.alltrails.com/search?q=passo%20tre%20croci%20lago%20sorapis)
-* **Notes**: No via ferrata gear required, but you must have solid footwear. The cliff traverse is the psychological crux; grip the cable, face the rock, and don't rush. The lake's water is opaque and luminous due to glacial rock flour. No swimming allowed.
+  * [In a Faraway Land: Lago di Sorapis](https://inafarawayland.com/lago-di-sorapis/)
 
 ---
 

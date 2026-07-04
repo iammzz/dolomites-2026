@@ -14,33 +14,26 @@ This is one of the absolute best days you can have in the Dolomites. It perfectl
 * **Distance**: ~2 km loop
 * **Elevation Change**: +80m
 * **Difficulty**: ⭐⭐ Easy-Moderate
-* **Duration**: 45–60 min
-* **Extensions**: Connect directly into the Averau/Nuvolau hike (Activity #2 below).
+* **Duration**: 1 hr total (Approx. 30 min walking the loop trail around the towers, plus 30 min exploring the restored WWI open-air trench museum — one of the best-preserved frontline sites in the Alps).
+* **Chairlift**: Take the 5 Torri chairlift from Baita Bai de Dones to Rifugio Scoiattoli. **Return ticket ~€27.50** (5% discount paying by card). Opens 9:00 AM. Children under 8 free.
 * **Resources**:
-  * [Earth Trekkers: Cinque Torri](https://www.google.com/search?q=site:earthtrekkers.com+cinque+torri+hike+dolomites)
-  * [AllTrails: Cinque Torri Loop](https://www.alltrails.com/search?q=cinque%20torri)
-* **Notes**: The WWI Cinque Torri open-air museum is one of the best-preserved frontline sites in the Alps. The chairlift removes the serious elevation commitment, making this a perfect warm-up activity.
+  * [Earth Trekkers: Cinque Torri](https://www.earthtrekkers.com/cinque-torri-hike-dolomites/)
 
 ### 2. Rifugio Averau & Rifugio Nuvolau Add-On
 * **Distance**: ~4 km round trip
 * **Elevation Change**: +335m
 * **Difficulty**: ⭐⭐⭐ Moderate (exposed ridge section approaching Nuvolau)
-* **Duration**: ~2–2.5 hrs
-* **Extensions**: Instead of hiking back down to the chairlift, you can hike trail #439 all the way down to Passo Giau, but that requires navigating car logistics.
+* **Duration**: 2.5 hrs total (Approx. 25 min hike from Scoiattoli to Rifugio Averau, 20 min exposed ridge traverse to Rifugio Nuvolau summit, 45 min at Nuvolau enjoying the 360° panorama and a coffee, and 1 hr descending back to Scoiattoli).
+* **The Highlight**: **Rifugio Nuvolau (2,575m)** is the oldest rifugio in the Dolomites. The final ridge traverse is narrow and exposed — you will need solid footwear and steady nerves. **Do not attempt in rain, wet rock, ice, or high winds.** Bail out at Averau if conditions deteriorate.
 * **Resources**:
-  * [Earth Trekkers: Averau & Nuvolau](https://www.google.com/search?q=site:earthtrekkers.com+rifugio+averau+rifugio+nuvolau+hike+dolomites)
-  * [AllTrails: Scoiattoli to Nuvolau](https://www.alltrails.com/search?q=rifugio%20scoiattoli%20rifugio%20nuvolau)
-* **Notes**: Nuvolau (2,575m) is one of the highest rifugios in the Dolomites accessible on foot. The ridge traverse between Averau and Nuvolau is exposed—solid footwear required. Do not attempt in wet, icy, or high-wind conditions.
+  * [Earth Trekkers: Averau & Nuvolau](https://www.earthtrekkers.com/rifugio-averau-rifugio-nuvolau-hike-dolomites/)
 
 ### 3. Passo Giau Scenic Drive & Viewpoint
 * **Distance**: 10–15 min walk from car park
 * **Elevation Change**: Minimal
 * **Difficulty**: ⭐ Easy
-* **Duration**: ~30–40 min stop
-* **Extensions**: From Passo Giau, you can hike up to Forcella Giau (start of the Croda da Lago hike) for an extra 1 hour round-trip.
-* **Resources**:
-  * [The Photo Hikes: Passo Giau](https://thephotohikes.com/the-passo-giau-hike/)
-* **Notes**: Passo Giau sits at 2,236m and delivers sweeping views of Pelmo, Civetta, and the Nuvolau group. It's on the same SP638 road used all day—no detour required. 
+* **Duration**: 40 min total (Approx. 10 min drive from Baita Bai de Dones, 15 min walking to the viewpoint, and 15 min enjoying the panorama and photos).
+* **Notes**: Passo Giau sits at 2,236m and delivers sweeping views of Pelmo, Civetta, and the Nuvolau group. It's on the same SP638 road used all day — no detour required. Free parking at the pass.
 
 ---
 
