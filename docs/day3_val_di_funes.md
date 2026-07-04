@@ -67,3 +67,16 @@ Since the drive out to Val di Funes takes you out of Val Gardena and into the ma
 * **Chiusa (Klausen)**: Right on the route back to Ortisei. It's officially listed as one of the "Most Beautiful Villages in Italy" (I Borghi più belli d'Italia). It has a stunning medieval center with colorful facades.
 * **Sabiona Monastery (Kloster Säben)**: Perched on a massive rock cliff looming over Chiusa. It requires a steep 45-minute walk up from town, but the views are commanding.
 * **Bressanone (Brixen)**: About 15 minutes north of the Funes exit. It's the oldest town in South Tyrol, famous for its grand Cathedral (Duomo di Bressanone) and beautiful piazza. Great place for a late afternoon coffee.
+
+---
+
+## 🍽️ Dining & Restaurant Options
+*Recommendations based on the Val di Funes hike and your Ortisei base.*
+
+| Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
+|------------|-----------|-------|-------------------|----------------------|-----|
+| **Geisleralm** | Alpine / Tyrolean | €€ | On Hike (Val di Funes) | **THE** absolute must-stop lunch spot. Phenomenal dumplings, "Geisler Cinema" lounge chairs, and epic views. | [📍 Map](https://maps.app.goo.gl/geisleralm) |
+| **Gschnagenhardt-Alm** | Alpine / Local | €€ | On Hike (Val di Funes) | Right next to Geisleralm. Slightly quieter, incredible authentic Kaiserschmarrn and local dishes. | [📍 Map](https://maps.app.goo.gl/gschnagen) |
+| **Waldschenke** | Tyrolean / Pizza | €€ | Funes Valley | Great dinner spot to hit after the hike before driving back to Ortisei. Cozy and rustic. | [📍 Map](https://maps.app.goo.gl/waldschenke) |
+| **Tubladel** | Tyrolean / Steak | €€€ | Ortisei Center | A great dinner option once you return to base if you want a premium meat-focused meal. | [📍 Map](https://maps.app.goo.gl/tubladel) |
+| **Mauriz Keller** | Traditional / Pizza | €€ | Ortisei Center | Reliable and cozy, right in the center for a hearty post-hike dinner. | [📍 Map](https://maps.app.goo.gl/mauriz) |

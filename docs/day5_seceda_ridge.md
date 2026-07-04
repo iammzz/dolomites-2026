@@ -54,3 +54,16 @@ If there is one photograph that defines the Dolomites on Instagram, it's the plu
 ### Key Logistics Notes
 * **Weather**: Like all high ridges, Seceda can get socked in by clouds very quickly. Go **early in the morning** for the best chance of clear skies. If the webcam shows total fog at 8:30 am, flip this day with another Val Gardena day.
 * **Cable Car**: The Seceda ascent is actually two connected lifts (a gondola from Ortisei to Furnes, then a large cable car to Seceda). 
+
+---
+
+## 🍽️ Dining & Restaurant Options
+*Recommendations based on the Seceda hike.*
+
+| Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
+|------------|-----------|-------|-------------------|----------------------|-----|
+| **Sofie Hütte** | High-end Alpine | €€€ | Seceda (Top) | Famous for its exceptional wine cellar and elevated Tyrolean dishes. Located right near the summit. | [📍 Map](https://maps.app.goo.gl/sofie) |
+| **Baita Daniel** | Ladin / Tyrolean | €€ | Seceda | Family-run gem blending traditional hospitality with high-quality seasonal cuisine. | [📍 Map](https://maps.app.goo.gl/daniel) |
+| **Baita Troier** | Casual Alpine | € | Seceda | Cozy, traditional mountain hut experience that is heavily frequented by hikers doing the loop. | [📍 Map](https://maps.app.goo.gl/troier) |
+| **Costamula Restaurant** | Elegant / Dinner | €€€ | Seceda (Lower) | Located on the slopes, this historic hut turns into a gorgeous, romantic dinner spot in the evening. | [📍 Map](https://maps.app.goo.gl/costamula) |
+| **La Cërcia** | Wine Bar / Aperitivo | €€ | Ortisei Center | Grab drinks and a massive charcuterie board back in town instead of a heavy dinner. | [📍 Map](https://maps.app.goo.gl/lacercia) |

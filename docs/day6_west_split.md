@@ -32,3 +32,16 @@ This is a **Split Day**, meaning the group can divide and conquer based on energ
 
 ### 🍻 Evening Reconvene
 Meet up for dinner in Ortisei to swap stories about the day's adventures!
+
+---
+
+## 🍽️ Dining & Restaurant Options
+*Farewell to the Western Dolomites.*
+
+| Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
+|------------|-----------|-------|-------------------|----------------------|-----|
+| **Jimmi Hütte** | Alpine / Lunch | €€ | Passo Gardena | Perfect for the Thrill Group doing Gran Cir. High-quality food right near the pass. | [📍 Map](https://maps.app.goo.gl/jimmi) |
+| **Dantercepies** | Modern Alpine | €€ | Passo Gardena | Stunning modern architecture with massive glass windows and a great lunch menu. | [📍 Map](https://maps.app.goo.gl/dantercepies) |
+| **Tubladel** | Tyrolean / Steak | €€€ | Ortisei Center | Book this for your final farewell dinner in Val Gardena! | [📍 Map](https://maps.app.goo.gl/tubladel) |
+| **Mauriz Keller** | Traditional / Pizza | €€ | Ortisei Center | Always a reliable fallback if you didn't book anything else. | [📍 Map](https://maps.app.goo.gl/mauriz) |
+| **Sneton Stube** | Local Tavern | €€ | Ortisei Center | A tiny, very traditional Ladin stube (tavern) offering authentic, unpretentious local dishes. | [📍 Map](https://maps.app.goo.gl/sneton) |

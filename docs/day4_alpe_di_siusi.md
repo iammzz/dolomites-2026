@@ -62,3 +62,16 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
 
 * **Bike Rental**: Rent from one of the shops in Compatsch (like K&K Sports or Sport Hans). It's wise to reserve e-bikes a day in advance.
 * **Total Freedom**: Because you drove up before the closure, you can leave at any time. You are not trapped until 5:00 PM (you just can't drive *up* between 9-5). This gives you the ultimate sunset experience.
+
+---
+
+## 🍽️ Dining & Restaurant Options
+*Recommendations based on E-biking the Alpe di Siusi plateau.*
+
+| Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
+|------------|-----------|-------|-------------------|----------------------|-----|
+| **Gostner Schwaige** | Alpine / Soups | €€ | Alpe di Siusi | Famous for their incredible hay-flower soup served in bread bowls. Small, authentic, and memorable. | [📍 Map](https://maps.app.goo.gl/gostner) |
+| **Malga Sanon** | Tyrolean / Steak | €€ | Alpe di Siusi | Breathtaking views of the Sassolungo with phenomenal steaks and traditional South Tyrolean fare. | [📍 Map](https://maps.app.goo.gl/sanon) |
+| **Rauch Hütte** | Refined Tyrolean | €€ | Alpe di Siusi | Exceptional wine list and slightly more refined dishes than typical mountain huts. Amazing sunny terrace. | [📍 Map](https://maps.app.goo.gl/rauch) |
+| **Restaurant Concordia** | Fine Dining / Game | €€€ | Ortisei | Great option for an elevated dinner once you are back in town. | [📍 Map](https://maps.app.goo.gl/concordia) |
+| **Vives** | Casual / Italian | €€ | Ortisei Center | Very popular with locals for easy, satisfying dinners after a long day outside. | [📍 Map](https://maps.app.goo.gl/vives) |

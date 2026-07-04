@@ -90,3 +90,16 @@ This is the absolute signature hiking day of the Dolomites. Tre Cime di Lavaredo
 * **Altitude**: Rifugio Auronzo sits at 2,320m. Take it easy the first 30 min.
 * **Weather**: Alpine afternoon thunderstorms are common in September. The 7:45am start provides a solid safety margin.
 * **Toll Road Fee**: The 7 km private toll road fee is **included in the €45 parking reservation** — no separate payment at the booth.
+
+---
+
+## 🍽️ Dining & Restaurant Options
+*Recommendations based on the Tre Cime loop.*
+
+| Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
+|------------|-----------|-------|-------------------|----------------------|-----|
+| **Dreizinnenhütte** | Alpine / Sausage | €€ | Tre Cime (Midway) | Located at the halfway point of the hike with the absolute best, dead-center view of the Three Peaks. | [📍 Map](https://maps.app.goo.gl/dreizinnen) |
+| **Rifugio Auronzo** | Quick Bites | € | Tre Cime (Start) | Right at the parking lot. Good for a quick coffee before the hike or a celebratory beer after. | [📍 Map](https://maps.app.goo.gl/auronzo) |
+| **Baita Fraina** | Traditional / Meat | €€€ | Near Cortina | A beautiful, cozy cabin in the woods serving high-end traditional meats and pastas. | [📍 Map](https://maps.app.goo.gl/fraina) |
+| **Ristorante Lago Pianozes** | Romantic / Refined | €€€ | Near Cortina | Set right on a stunning, quiet lake just south of Cortina. High-end, romantic dinner spot. | [📍 Map](https://maps.app.goo.gl/pianozes) |
+| **La Tavernetta** | Pizza / Pasta | €€ | Cortina Center | Cozy, wood-paneled spot right near the church for a hearty, carb-heavy post-hike dinner. | [📍 Map](https://maps.app.goo.gl/tavernetta) |

@@ -21,3 +21,16 @@ Today you pack up your cars, leave the stunning peaks of the Dolomites behind, a
 ## 🍝 Evening: Cicchetti & Canals
 * **Wander**: Spend the evening wandering the winding streets. Get lost—it's part of the Venice experience!
 * **Dinner**: Stop at various *bacari* (traditional Venetian wine bars) to eat *cicchetti* (small tapas-like plates) and drink Aperol Spritzes along the canals.
+
+---
+
+## 🍽️ Dining & Restaurant Options
+*Recommendations based on your return to Venice Island.*
+
+| Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
+|------------|-----------|-------|-------------------|----------------------|-----|
+| **Osteria alle Testiere** | Fine Seafood | €€€ | Castello | Legendary, tiny seafood spot. Hard to get into (must book well in advance), but unforgettable. | [📍 Map](https://maps.app.goo.gl/testiere) |
+| **Cantina Do Mori** | Cicchetti | € | San Polo | The oldest cicchetti bar in Venice. Allegedly Casanova's favorite spot. Standing room only! | [📍 Map](https://maps.app.goo.gl/domori) |
+| **Bacarando in Corte dell'Orso**| Cicchetti & Dinner | €€ | San Marco | Hidden in an alleyway, it's massive, lively, and offers both cheap tapas and sit-down dinners. | [📍 Map](https://maps.app.goo.gl/bacarando) |
+| **Al Timon** | Steak & Cicchetti | €€ | Cannaregio | Famous for eating cicchetti on the boats moored in the canal right outside the bar. | [📍 Map](https://maps.app.goo.gl/altimon) |
+| **Suso Gelatoteca** | Gelato | € | San Marco | Arguably the best gelato in Venice. Expect a line, but it moves fast. | [📍 Map](https://maps.app.goo.gl/suso) |

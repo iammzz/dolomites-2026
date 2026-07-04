@@ -65,3 +65,16 @@ Today you shift your base from the Western to the Eastern Dolomites. Instead of 
 * **Baggage Security**: You will have your luggage in the car all day. Park in high-visibility areas, lock doors, and try to keep bags covered in the trunk. The Dolomites are very safe, but standard transit-day precautions apply.
 * **Weather Dependency**: High-altitude cable cars (Marmolada, Sass Pordoi) are pointless in heavy clouds. If visibility is zero, skip the cable cars and enjoy the driving route. 
 * **Tunnel Walk**: If you decide to do the Lagazuoi tunnel walk, you **must** have a headlamp (phone flashlights are not enough) and decent hiking shoes. The tunnels are dark, steep, and wet. You can rent helmets/lamps at the cable car station.
+
+---
+
+## 🍽️ Dining & Restaurant Options
+*Recommendations based on the transit route and arrival in Cortina.*
+
+| Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
+|------------|-----------|-------|-------------------|----------------------|-----|
+| **Rifugio Luigi Gorza** | Modern Alpine | €€ | Porta Vescovo | Great lunch spot during the drive. Take the cable car up for head-on views of the Marmolada glacier. | [📍 Map](https://maps.app.goo.gl/gorza) |
+| **Rifugio Lagazuoi** | Traditional | €€ | Passo Falzarego | Have a late lunch or coffee at 2,752m with some of the most dramatic 360-degree views in the region. | [📍 Map](https://maps.app.goo.gl/lagazuoi) |
+| **Il Vizietto** | Seafood / Italian | €€€ | Cortina Center | One of Cortina's best. Highly rated for beautifully plated seafood and fresh pasta. | [📍 Map](https://maps.app.goo.gl/vizietto) |
+| **Pizzeria Porto Rotondo** | Pizza / Casual | € | Cortina Center | Very popular, bustling local pizzeria to grab an easy dinner on your first night in town. | [📍 Map](https://maps.app.goo.gl/rotando) |
+| **Croda Cafe** | Italian / Tyrolean | €€ | Cortina Center | Centrally located with a diverse menu, perfect for a casual group dinner. | [📍 Map](https://maps.app.goo.gl/croda) |

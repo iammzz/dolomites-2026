@@ -87,3 +87,16 @@ This is one of the absolute best days you can have in the Dolomites. It perfectl
 * **Chairlift**: Opens 8:30–9:00am in September.
 * **Lunch**: Rifugio Scoiattoli terrace is prime real estate. Call ahead to reserve.
 * **Safety Warning**: The final ridge approach to Nuvolau is narrow and exposed. **Do not attempt in rain, wet rock, ice, or high winds.** Bail out at Averau if needed.
+
+---
+
+## 🍽️ Dining & Restaurant Options
+*Recommendations based on Cinque Torri and Passo Giau.*
+
+| Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
+|------------|-----------|-------|-------------------|----------------------|-----|
+| **Rifugio Averau** | Elevated Pasta | €€€ | Cinque Torri | Known as one of the best restaurants in the *entire* Dolomites. Their pappardelle and casunziei are legendary. **Must book lunch!** | [📍 Map](https://maps.app.goo.gl/averau) |
+| **Rifugio Scoiattoli** | Alpine / Casual | €€ | Cinque Torri | Located directly in front of the Five Towers. Massive outdoor terrace and great pasta. | [📍 Map](https://maps.app.goo.gl/scoiattoli) |
+| **El Brite de Larieto** | Agriturismo (Farm) | €€€ | Near Cortina | Michelin Green Star. They make all their own cheese, butter, and meat on-site. Incredible rustic luxury dinner. | [📍 Map](https://maps.app.goo.gl/elbrite) |
+| **Ristorante Ariston** | Fine Italian | €€ | Cortina Center | Elegant dining in the heart of Cortina with a classic old-school Italian atmosphere. | [📍 Map](https://maps.app.goo.gl/ariston) |
+| **Enoteca Cortina** | Wine & Cicchetti | € | Cortina Center | Perfect place to grab pre-dinner drinks and small bites to soak in the Cortina nightlife. | [📍 Map](https://maps.app.goo.gl/enoteca) |

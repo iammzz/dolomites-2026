@@ -23,3 +23,16 @@ If your accommodation has a pool or spa, this is the time to use it. Alternative
 
 ## 🍝 Evening: Welcome to the Dolomites Dinner
 Book a nice dinner in town. The food here is a unique blend of Italian and Tyrolean (Austrian/German) cuisine. Try some local *canederli* (dumplings) or *schlutzkrapfen* (stuffed pasta).
+
+---
+
+## 🍽️ Dining & Restaurant Options
+*Recommendations based on your base in Ortisei.*
+
+| Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
+|------------|-----------|-------|-------------------|----------------------|-----|
+| **Tubladel** | Tyrolean / Steak | €€€ | Ortisei Center | One of the most hyped spots in Val Gardena. Incredible local meats cooked in a Catalan oven. | [📍 Map](https://maps.app.goo.gl/tubladel) |
+| **Mauriz Keller** | Traditional / Pizza | €€ | Ortisei Center | Rustic-elegant atmosphere in the pedestrian zone. Great mix of local specialties and wood-fired pizza. | [📍 Map](https://maps.app.goo.gl/mauriz) |
+| **Restaurant Concordia** | Fine Dining / Game | €€€ | Ortisei | Family-run with a cozy traditional stove setting. Famous for elegant preparations of local game. | [📍 Map](https://maps.app.goo.gl/concordia) |
+| **La Cërcia** | Wine Bar / Aperitivo | €€ | Ortisei Center | Perfect for a relaxed evening of wine, craft beer, and high-quality local chopping boards. | [📍 Map](https://maps.app.goo.gl/lacercia) |
+| **Ristorante Pizzeria Lamm** | Casual / Pizza | € | Ortisei Center | Reliable, easy, and comfortable spot for a classic Italian pizza night. | [📍 Map](https://maps.app.goo.gl/lamm) |

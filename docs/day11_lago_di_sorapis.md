@@ -64,3 +64,16 @@ Earth Trekkers rates this as one of the standout hikes of the eastern Dolomites.
 * **The Cable Section**: A narrow ledge traverses a cliff face with fixed steel cables. Yield to descending hikers — limited space to pass.
 * **The Lake**: **No swimming**. **No dogs.** Pack out all rubbish.
 * **Footwear**: Hiking boots with ankle support strongly recommended. Not suitable for trail runners.
+
+---
+
+## 🍽️ Dining & Restaurant Options
+*Farewell to the Eastern Dolomites.*
+
+| Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
+|------------|-----------|-------|-------------------|----------------------|-----|
+| **Rifugio Vandelli** | Simple Alpine | € | Lago di Sorapis | The only rifugio at the lake. Very simple pasta and sandwiches, but a necessary fuel stop. | [📍 Map](https://maps.app.goo.gl/vandelli) |
+| **Ristorante Ospitale** | Historic Inn | €€ | North of Cortina | One of the oldest inns in the region. Incredible ambiance and massive portions of traditional food. | [📍 Map](https://maps.app.goo.gl/ospitale) |
+| **Ristorante Tivoli** | Michelin Star | €€€€ | Cortina | Another Michelin-starred powerhouse in Cortina for a final, unforgettable farewell dinner. | [📍 Map](https://maps.app.goo.gl/tivoli) |
+| **El Brite de Larieto** | Agriturismo (Farm) | €€€ | Near Cortina | The perfect final dinner if you want rustic luxury rather than Michelin formality. | [📍 Map](https://maps.app.goo.gl/elbrite) |
+| **Croda Cafe** | Italian / Casual | €€ | Cortina Center | Easy, central, and a crowd-pleaser for the last night. | [📍 Map](https://maps.app.goo.gl/croda) |
