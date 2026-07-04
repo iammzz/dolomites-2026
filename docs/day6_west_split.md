@@ -14,19 +14,21 @@ This is a **Split Day**, meaning the group can divide and conquer based on energ
     * **Distance**: 3 km round trip
     * **Elevation Gain**: ~400m
     * **Difficulty**: ⭐⭐⭐ Moderate (Easy for a Via Ferrata, requires no technical climbing skills but you must not be afraid of heights).
-    * **Duration**: 2.5 - 3.5 hours
-    * **Required Gear**: Helmet, harness, and via ferrata lanyard (can be rented in Ortisei).
-    * **Logistics**: Drive to Passo Gardena (Dantercepies cable car upper station area), hike up to the start of the cables.
+    * **Duration**: 4 hrs total (Approx. 45 min approach hike to the cable start, 1 hr on the secured cable section, 30 min at the summit enjoying the views, and 1.5 hrs descending and returning to the car).
+    * **Required Gear**: Helmet, harness, and via ferrata lanyard (can be rented in Selva di Val Gardena the evening before from **Sport Bruno Riffeser** or **Intersport Val Gardena** — typical rental ~€25-30/set). Pick up gear the evening before your climb.
+    * **Trailhead**: Drive to **Passo Gardena** (free parking along the roadside near the Dantercëpies cable car). You can also take the Dantercëpies lift for a faster approach to the base.
+    * **Guided Option**: If anyone in the group is nervous, book a guide through **Alpine School Catores** (based in Val Gardena) — they run regular small-group via ferrata tours. Book at [catores.com](https://www.catores.com/).
+    * **Resources**: [Val Gardena: Gran Cir Guide](https://www.val-gardena.com/)
 
 === "☕ Group B: The Relaxers (Ortisei & Bolzano)"
 
     **Expectation & Rationale:** 
     While the others are dangling off a rock, this group can take it easy. 
     
-    * **Morning**: Sleep in and enjoy a slow morning in the pedestrian center of Ortisei. Check out the wood-carving boutiques.
-    * **Midday Option**: Drive ~40 minutes down the valley to the city of **Bolzano**. It is a beautiful, warm, Italian/Austrian city. 
-    * **Main Attraction**: Visit the **South Tyrol Museum of Archaeology** to see **Ötzi the Iceman**, a perfectly preserved 5,300-year-old mummy found in a glacier. It is genuinely fascinating.
-    * **Alternative**: Book a day-pass at the **DoloMithes Spa** for saunas and thermal pools.
+    * **Morning** (~2 hrs): Sleep in and enjoy a slow morning in the pedestrian center of Ortisei. Check out the woodcarving boutiques, grab a pastry and coffee at one of the main street cafés.
+    * **Midday Option** (~3 hrs): Drive ~40 minutes down the valley to the city of **Bolzano**. It is a beautiful, warm, Italian/Austrian city with palm-lined promenades and a bustling market square.
+    * **Main Attraction — Ötzi the Iceman** (~1.5 hrs in the museum): Visit the **South Tyrol Museum of Archaeology** to see **Ötzi the Iceman**, a perfectly preserved 5,300-year-old mummy found in a glacier in 1991. It is genuinely fascinating. **Tickets: €13/adult.** Open Tue-Sun 10AM-6PM (daily in July/August). Online reservation recommended. [Official Website](https://www.iceman.it/en/)
+    * **Alternative — Spa Day** (~2-3 hrs): Book a day-pass at **Mar Dolomit** in Ortisei (€14 for 3hrs) for saunas and pools, or check if your accommodation has its own wellness area.
 
 ---
 

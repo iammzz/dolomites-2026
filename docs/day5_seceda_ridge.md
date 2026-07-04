@@ -8,23 +8,24 @@
 ## ✅ Main Activity: The Jagged Edge of the Earth
 
 **Expectation & Rationale:** 
-If there is one photograph that defines the Dolomites on Instagram, it's the plunging, knife-edge ridge of Seceda. You ride a cable car straight to 2,500m, step out, and the view is instantly in your face. But instead of just taking the photo and leaving, Earth Trekkers highly recommends hiking along the ridge to the Pieralongia pinnacles. It is one of the highest effort-to-reward ratios in the entire region.
+If there is one photograph that defines the Dolomites on Instagram, it's the plunging, knife-edge ridge of Seceda. You ride a cable car straight to 2,500m, step out, and the view is instantly in your face. But instead of just taking the photo and leaving, the best move is hiking along the ridge to the Pieralongia pinnacles. It is one of the highest effort-to-reward ratios in the entire region.
 
 ### 1. Seceda Viewpoint & Pieralongia Hike
-* **Distance**: 3–5 km (highly customizable depending on route)
-* **Elevation Change**: Minimal if staying high (mostly rolling descent)
+* **Distance**: 5 km (one way to Pieralongia and back)
+* **Elevation Change**: Minimal — mostly rolling ridgeline and gentle descent
 * **Difficulty**: ⭐ Easy to Moderate
-* **Duration**: 2–3 hours
-* **Extensions**: You can hike all the way down to the Col Raiser gondola in Santa Cristina (which is a longer, downhill hike) and bus back to Ortisei, or just hike to Pieralongia and walk back to the Seceda cable car.
+* **Duration**: 3.5 hrs total (Approx. 5 min walk to the iconic viewpoint, 25 min hike to Pieralongia, 1 hr at Malga Pieralongia for coffee/Kaiserschmarrn among the donkeys, 25 min walk back, and 30 min more at the summit for photos).
+* **The Viewpoint**: The classic Seceda photo spot is literally a 5-minute walk from the upper cable car station. Get there first thing to beat the crowds and clouds.
+* **The Hike**: From the summit, follow Trail 2B along the dramatic ridge edge toward the Pieralongia rock formations. You'll pass the spectacular **Panascharte (Forcella Pana)** — a dramatic notch in the Odle peaks with vertigo-inducing views down both sides. Continue to **Malga Pieralongia**, a rustic hut with friendly donkeys roaming around and great Kaiserschmarrn.
+* **Cable Car**: The Seceda ascent is actually two connected lifts: a gondola from Ortisei to Furnes, then a large cable car to the summit. **Round-trip ticket: ~€74 per adult.** As of 2026, online pre-booking for a specific 30-minute time slot is mandatory — **book at [seceda.it](https://www.seceda.it) as early as possible**, slots sell out quickly on clear days.
 * **Resources**: 
-  * [Earth Trekkers: Seceda Ridge](https://www.google.com/search?q=site:earthtrekkers.com+seceda+hike+dolomites)
-* **Notes**: The classic photo spot is literally a 5-minute walk from the upper cable car station. The hike toward Pieralongia takes you right along the edge of the jagged Odle peaks, passing the dramatic Panascharte (Forcella Pana) notch along the way.
+  * [Earth Trekkers: Seceda](https://www.earthtrekkers.com/seceda-dolomites/)
 
-### 2. Sella Pass Scenic Drive (Optional)
-* **Distance**: N/A
-* **Difficulty**: ⭐ Easy
-* **Duration**: 1–2 hrs drive
-* **Notes**: If you were too tired to finish the Sella Pass drive on the Transit Day (Day 5), today is a great afternoon to drive the 30 minutes up from Ortisei to Passo Sella for epic views of the Sassolungo group.
+### 2. Sella Pass Scenic Drive (Optional Afternoon)
+* **Distance**: 20 km from Ortisei to Passo Sella
+* **Difficulty**: ⭐ Easy (driving)
+* **Duration**: 1.5 hrs (Approx. 35 min driving each way, plus 20 min at the pass for photos and a quick coffee)
+* **Notes**: If the weather is great and you still have energy after the morning, drive the 30 minutes up from Ortisei to Passo Sella (2,244m) for epic views of the Sassolungo group. There are several cafés and shops right at the pass. The drive itself is half the experience — dramatic hairpin bends through the Dolomite towers.
 
 ---
 

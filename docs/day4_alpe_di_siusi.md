@@ -14,21 +14,22 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
 * **Distance**: 20-30 km (E-bike assisted)
 * **Elevation Change**: Minimal to moderate (rolling hills)
 * **Difficulty**: ⭐ Easy
-* **Duration**: Full Day (Stay for sunset!)
+* **Duration**: Full day — ~7 hrs total on the plateau (Approx. 3 hrs of actual riding time, plus 4 hrs of eating, drinking, and lounging at huts).
 * **Route Idea**: Compatsch → Gostner Schwaige (Morning snack) → Saltria (valley basin) → Malga Sanon (Lunch with Sassolungo views) → Almrosenhütte (Afternoon drink) → Compatsch.
 * **Top Places to Visit**:
-  * **Gostner Schwaige**: A tiny, famous hut known for its gourmet hay-flower soup and edible flower salads. Perfect for a mid-morning coffee or light snack.
-  * **Malga Sanon (Sanon Hütte)**: One of the best lunch spots on the plateau, featuring a massive outdoor terrace with direct, towering views of the Sassolungo peaks.
-  * **Almrosenhütte**: A beautiful spot on the southern edge of the plateau, great for an afternoon Apfelstrudel and a cold drink.
+  * **Gostner Schwaige** (~30 min stop): A tiny, famous hut known for its gourmet hay-flower soup and edible flower salads. Perfect for a mid-morning coffee or light snack. Extremely small and intimate — only a handful of tables.
+  * **Malga Sanon (Sanon Hütte)** (~1.5 hr lunch stop): One of the best lunch spots on the plateau, featuring a massive outdoor terrace with direct, towering views of the Sassolungo peaks. Excellent steaks and local game dishes.
+  * **Almrosenhütte** (~45 min afternoon stop): A beautiful spot on the southern edge of the plateau, great for an afternoon Apfelstrudel and a cold drink while watching paragliders land.
   * **Saltria**: The lowest point (the basin) of the plateau, surrounded by dense woods. It's a fun, long descent on the e-bike, and the motor will help you cruise right back out!
-  * **Edelweiß Hütte**: Another excellent option for authentic Tyrolean food with sweeping panoramic views.
+* **E-Bike Rental**: Rent from shops in Compatsch near the P2 parking lot. **Sport Hans** or **K&K Sports** are the main options. Half-day rental ~€35, full-day ~€50. **Reserve online at least one day in advance** — they sell out on good weather days.
 * **Resources**: 
-  * [Earth Trekkers: How to Visit Alpe di Siusi](https://www.google.com/search?q=site:earthtrekkers.com+alpe+di+siusi+seiser+alm+dolomites)
-* **Notes**: Because you are driving up, you have total freedom to stay until sunset. Rent your bikes in Compatsch near the P2 parking lot.
+  * [In a Faraway Land: Alpe di Siusi Guide](https://inafarawayland.com/seiser-alm-alpe-di-siusi/)
+  * [Throne & Vine: Alpe di Siusi](https://throneandvine.com/seiser-alm-alpe-di-siusi/)
 
 ### 2. Sunset on the Plateau
 * **Difficulty**: ⭐ Easy
-* **Notes**: Since you aren't bound by cable car closing times, stay on the plateau for the legendary "Alpenglow" on the Sassolungo peaks. Drive down in the dark whenever you are ready.
+* **Duration**: ~1 hr (Just walking back out to the meadows and sitting)
+* **Notes**: Since you aren't bound by cable car closing times, stay on the plateau for the legendary "Alpenglow" on the Sassolungo peaks. The massive meadow turns golden as the sun drops behind the Schlern. Drive down in the dark whenever you are ready.
 
 ---
 
@@ -47,7 +48,7 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
 |------|----------|----------|--------|
 | 8:15 am | Ortisei | 🚗 Depart | Leave early to beat the 9:00 AM road closure! |
 | 8:45 am | Seiser Alm Road | ⏱️ Pass Checkpoint | Drive through the control point before 9:00 AM. |
-| 9:00 am | Compatsch | 🅿️ Park | Park at the massive P2 lot in Compatsch (~€24/day). |
+| 9:00 am | Compatsch | 🅿️ Park | Park at the massive P2 lot in Compatsch (**€30/day, mandatory online reservation as of 2026** — book at least 6 days ahead). |
 | 9:30 am | Compatsch | 🚲 Rent Bikes | Grab your e-bikes from a shop near the parking lot (K&K Sports, etc). |
 | 10:30 am | Gostner Schwaige | ☕ Morning Snack | Coffee and flower-hay soup at the tiny famous hut. |
 | 12:30 pm | Malga Sanon | 🍽️ Lunch | Long lunch with incredible views of Sassolungo. |

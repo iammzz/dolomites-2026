@@ -11,18 +11,19 @@ After a long travel day and navigating Italian highways, today is about slowing 
 Since your car rental starts at 12:00 PM, enjoy a slow morning in Mestre.
 * **10:00 AM**: Grab a leisurely breakfast and check out of your hotel.
 * **12:00 PM**: Head to **Venice Mestre Rail Station** to pick up your National Car Rental. Make sure you inspect the car and load all the luggage comfortably.
-* **12:30 PM - 3:30 PM**: Drive North! It’s approximately a 3-hour drive from Mestre to Val Gardena (Ortisei). The drive is easy highway at first, transitioning into stunning winding mountain passes.
+* **12:30 PM - 3:30 PM**: Drive North! It's approximately a 3-hour drive from Mestre to Val Gardena (Ortisei). The drive is easy highway (A4 → A22 Brenner Motorway) at first, transitioning into stunning winding mountain passes once you exit at Chiusa/Val Gardena. The last 30 minutes through the gorge into Val Gardena are beautiful — enjoy it!
 
-## 🏔️ Afternoon: Arrival & Settling In
+## 🏔️ Afternoon: Arrival & Settling In (1–1.5 hrs active)
 * **3:30 PM**: Arrive in Ortisei or Selva and check into your base accommodation.
-* **4:00 PM**: Walk around the pedestrian-only center of Ortisei.
-* **Supermarket Run**: Hit the local Despar or Conad to stock up on trail snacks, water, and lunch supplies for the upcoming hiking days.
+* **4:00 PM - 5:30 PM**: Walk around the **pedestrian-only center of Ortisei** (~1 hour strolling). This is one of the most charming town centers in the Alps. Ortisei has a long woodcarving tradition dating back to the 17th century — browse the boutiques selling handmade figurines, nativity scenes, and sculptures. The main street (Str. Rezia) is lined with cafés perfect for a first aperitivo with views of the Sassolungo massif.
+* **Supermarket Run** (~30 min): Hit the **Despar** (right in the center on Str. Rezia) or **Conad City** to stock up on trail snacks, water, and lunch supplies for the upcoming hiking days. You'll want dry snacks (nuts, bars), bread, speck (cured ham), and cheese for mountain picnics.
 
-## 🧖‍♀️ Afternoon: Relax or Spa
-If your accommodation has a pool or spa, this is the time to use it. Alternatively, just relax on your balcony and enjoy the crisp mountain air.
+## 🧖‍♀️ Late Afternoon: Relax or Spa (~1.5 hrs)
+If your accommodation has a pool or spa, this is the time to use it. Alternatively, visit **Mar Dolomit** — Ortisei's modern public swimming and wellness complex with indoor/outdoor pools, saunas, and steam baths. It's right in town and perfect for loosening up after a long drive.
+* **Mar Dolomit**: Adults ~€14 for a 3-hour entry. Open daily. [Official Website](https://www.mardolomit.com/)
 
-## 🍝 Evening: Welcome to the Dolomites Dinner
-Book a nice dinner in town. The food here is a unique blend of Italian and Tyrolean (Austrian/German) cuisine. Try some local *canederli* (dumplings) or *schlutzkrapfen* (stuffed pasta).
+## 🍝 Evening: Welcome to the Dolomites Dinner (~1.5 hrs)
+Book a nice dinner in town. The food here is a unique blend of Italian and Tyrolean (Austrian/German) cuisine. Try some local *canederli* (bread dumplings in broth), *schlutzkrapfen* (spinach-stuffed half-moon pasta), or a classic *Wiener Schnitzel*. This is the perfect introduction to the region's cuisine.
 
 ---
 
