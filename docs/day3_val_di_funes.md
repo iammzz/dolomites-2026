@@ -13,21 +13,23 @@ Val di Funes is arguably the most picturesque valley in the entire Dolomites. Th
 ### 1. Adolf Munkel Weg (Adolf Munkel Trail)
 * **Distance**: 9.2 km loop
 * **Elevation Change**: ~400m
-* **Difficulty**: ⭐⭐ Moderate
-* **Duration**: 3–4 hrs
-* **Extensions**: Stop at Geisler Alm (Rifugio delle Odle) for lunch — an absolute must.
+* **Difficulty**: ⭐⭐ Moderate (Not overly steep, but rocky in sections. Wear sturdy shoes!)
+* **Duration**: 3–4 hrs of moving time
+* **Trailhead**: Zanser Alm (Malga Zannes) car park (approx. €8 parking fee). Arrive by 9:30 AM to guarantee a spot.
+* **The Route**: You will start at Zanser Alm and follow Trail 35 through dense pine forests before emerging right at the foot of the dramatic north faces of the Geisler group. The trail rolls gently along the base of the sheer cliffs.
+* **The Highlight**: You will eventually connect to trails leading to **Geisleralm (Rifugio delle Odle)**. This is widely considered one of the best rifugios in the Dolomites. It features the famous "Geisler Cinema"—wooden lounge chairs laid out in the grass facing the peaks. Grab a beer, order the dumplings (Knödel) or Kaiserschmarrn (shredded pancake), and soak in the view before looping back to your car.
 * **Resources**: 
   * [Earth Trekkers: Adolf Munkel Weg](https://www.google.com/search?q=site:earthtrekkers.com+adolf+munkel+weg+hike+val+di+funes)
-  * [AllTrails: Adolf Munkel Trail](https://www.alltrails.com/search?q=adolf%20munkel%20weg%20rifugio%20delle%20odle)
-* **Notes**: The trail starts in the forest and emerges right at the foot of the dramatic north faces of the Geisler group. Geisler Alm is widely considered one of the best rifugios in the Dolomites for food and atmosphere.
+  * [AllTrails: Adolf Munkel Trail](https://www.alltrails.com/search?q=adolf+munkel+weg+rifugio+delle+odle)
 
 ### 2. Santa Maddalena Viewpoints (The Postcard Shots)
-* **Distance**: Short walks from parking areas
-* **Elevation Change**: Minimal
-* **Difficulty**: ⭐ Easy
-* **Duration**: 1 hour total
+* **Distance**: 2-3 km of total walking
+* **Difficulty**: ⭐ Easy (Paved farm roads)
+* **Duration**: 1–1.5 hours
+* **The Logistics**: After your hike, you will drive 15 minutes down into the village of Santa Maddalena. **Important**: You cannot drive directly to the viewpoints as the roads are restricted to local residents. You must park in the village and walk.
+* **Church of St. John (San Giovanni in Ranui)**: This is the tiny, solitary onion-domed church sitting in a massive green meadow. You can walk right up to the famous wooden fence photo spot. There is a small turnstile fee (~€4) if you want to walk closer to the church itself.
+* **Santa Maddalena Church Viewpoint**: From the village center, follow the signs for "Panoramaweg" (Panorama Trail). It's a short, slightly uphill walk on a paved farm road that leads you to the iconic bench overlooking the Santa Maddalena church with the Geisler peaks perfectly framed behind it. Late afternoon/early evening is the absolute best time for this photo as the sun illuminates the peaks.
 * **Resources**: [Earth Trekkers: Val di Funes](https://www.google.com/search?q=site:earthtrekkers.com+best+things+to+do+val+di+funes)
-* **Notes**: There are two main photo spots: the Church of St. John (San Giovanni in Ranui) and the Santa Maddalena viewpoint. They are heavily photographed for a reason!
 
 ---
 
