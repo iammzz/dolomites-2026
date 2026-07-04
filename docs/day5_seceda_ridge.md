@@ -17,7 +17,7 @@ If there is one photograph that defines the Dolomites on Instagram, it's the plu
 * **Duration**: 2–3 hours
 * **Extensions**: You can hike all the way down to the Col Raiser gondola in Santa Cristina (which is a longer, downhill hike) and bus back to Ortisei, or just hike to Pieralongia and walk back to the Seceda cable car.
 * **Resources**: 
-  * [Earth Trekkers: Seceda Ridge](https://www.earthtrekkers.com/seceda-hike-dolomites/)
+  * [Earth Trekkers: Seceda Ridge](https://www.google.com/search?q=site:earthtrekkers.com+seceda+hike+dolomites)
 * **Notes**: The classic photo spot is literally a 5-minute walk from the upper cable car station. The hike toward Pieralongia takes you right along the edge of the jagged Odle peaks, passing the dramatic Panascharte (Forcella Pana) notch along the way.
 
 ### 2. Sella Pass Scenic Drive (Optional)
@@ -62,8 +62,8 @@ If there is one photograph that defines the Dolomites on Instagram, it's the plu
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|
-| **Sofie Hütte** | High-end Alpine | €€€ | Seceda (Top) | Famous for its exceptional wine cellar and elevated Tyrolean dishes. Located right near the summit. | [📍 Map](https://maps.app.goo.gl/sofie) |
-| **Baita Daniel** | Ladin / Tyrolean | €€ | Seceda | Family-run gem blending traditional hospitality with high-quality seasonal cuisine. | [📍 Map](https://maps.app.goo.gl/daniel) |
-| **Baita Troier** | Casual Alpine | € | Seceda | Cozy, traditional mountain hut experience that is heavily frequented by hikers doing the loop. | [📍 Map](https://maps.app.goo.gl/troier) |
-| **Costamula Restaurant** | Elegant / Dinner | €€€ | Seceda (Lower) | Located on the slopes, this historic hut turns into a gorgeous, romantic dinner spot in the evening. | [📍 Map](https://maps.app.goo.gl/costamula) |
-| **La Cërcia** | Wine Bar / Aperitivo | €€ | Ortisei Center | Grab drinks and a massive charcuterie board back in town instead of a heavy dinner. | [📍 Map](https://maps.app.goo.gl/lacercia) |
+| **Sofie Hütte** | High-end Alpine | €€€ | Seceda (Top) | Famous for its exceptional wine cellar and elevated Tyrolean dishes. Located right near the summit. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Sofie+H%C3%BCtte+Dolomites) |
+| **Baita Daniel** | Ladin / Tyrolean | €€ | Seceda | Family-run gem blending traditional hospitality with high-quality seasonal cuisine. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Baita+Daniel+Dolomites) |
+| **Baita Troier** | Casual Alpine | € | Seceda | Cozy, traditional mountain hut experience that is heavily frequented by hikers doing the loop. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Baita+Troier+Dolomites) |
+| **Costamula Restaurant** | Elegant / Dinner | €€€ | Seceda (Lower) | Located on the slopes, this historic hut turns into a gorgeous, romantic dinner spot in the evening. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Costamula+Restaurant+Dolomites) |
+| **La Cërcia** | Wine Bar / Aperitivo | €€ | Ortisei Center | Grab drinks and a massive charcuterie board back in town instead of a heavy dinner. | [📍 Map](https://www.google.com/maps/search/?api=1&query=La+C%C3%ABrcia+Dolomites) |

@@ -17,8 +17,8 @@ This is one of the absolute best days you can have in the Dolomites. It perfectl
 * **Duration**: 45–60 min
 * **Extensions**: Connect directly into the Averau/Nuvolau hike (Activity #2 below).
 * **Resources**:
-  * [Earth Trekkers: Cinque Torri](https://www.earthtrekkers.com/cinque-torri-hike-dolomites/)
-  * [AllTrails: Cinque Torri Loop](https://www.alltrails.com/explore?b_q=cinque%20torri)
+  * [Earth Trekkers: Cinque Torri](https://www.google.com/search?q=site:earthtrekkers.com+cinque+torri+hike+dolomites)
+  * [AllTrails: Cinque Torri Loop](https://www.alltrails.com/search?q=cinque%20torri)
 * **Notes**: The WWI Cinque Torri open-air museum is one of the best-preserved frontline sites in the Alps. The chairlift removes the serious elevation commitment, making this a perfect warm-up activity.
 
 ### 2. Rifugio Averau & Rifugio Nuvolau Add-On
@@ -28,8 +28,8 @@ This is one of the absolute best days you can have in the Dolomites. It perfectl
 * **Duration**: ~2–2.5 hrs
 * **Extensions**: Instead of hiking back down to the chairlift, you can hike trail #439 all the way down to Passo Giau, but that requires navigating car logistics.
 * **Resources**:
-  * [Earth Trekkers: Averau & Nuvolau](https://www.earthtrekkers.com/rifugio-averau-rifugio-nuvolau-hike-dolomites/)
-  * [AllTrails: Scoiattoli to Nuvolau](https://www.alltrails.com/explore?b_q=rifugio%20scoiattoli%20rifugio%20nuvolau)
+  * [Earth Trekkers: Averau & Nuvolau](https://www.google.com/search?q=site:earthtrekkers.com+rifugio+averau+rifugio+nuvolau+hike+dolomites)
+  * [AllTrails: Scoiattoli to Nuvolau](https://www.alltrails.com/search?q=rifugio%20scoiattoli%20rifugio%20nuvolau)
 * **Notes**: Nuvolau (2,575m) is one of the highest rifugios in the Dolomites accessible on foot. The ridge traverse between Averau and Nuvolau is exposed—solid footwear required. Do not attempt in wet, icy, or high-wind conditions.
 
 ### 3. Passo Giau Scenic Drive & Viewpoint
@@ -48,8 +48,8 @@ This is one of the absolute best days you can have in the Dolomites. It perfectl
 
 | Activity | ET Link | Why Passed Today | Scheduled For |
 |----------|---------|------------------|---------------|
-| Freccia nel Cielo cable car (Tofana di Mezzo) | [ET: Freccia nel Cielo](https://www.earthtrekkers.com/freccia-nel-cielo-to-cima-tofana-tofana-di-mezzo/) | Today's schedule is full. Kept as a floating Cortina afternoon option for any day with good visibility. | Optional float |
-| Lagazuoi Cable Car + WWI Tunnel Walk | [ET: Lagazuoi Tunnels](https://www.earthtrekkers.com/hiking-the-lagazuoi-tunnels-dolomites/) | Distinct full-morning activity; would overlap with Cinque Torri area. | Sept 19 transit day |
+| Freccia nel Cielo cable car (Tofana di Mezzo) | [ET: Freccia nel Cielo](https://www.google.com/search?q=site:earthtrekkers.com+freccia+nel+cielo+to+cima+tofana+tofana+di+mezzo) | Today's schedule is full. Kept as a floating Cortina afternoon option for any day with good visibility. | Optional float |
+| Lagazuoi Cable Car + WWI Tunnel Walk | [ET: Lagazuoi Tunnels](https://www.google.com/search?q=site:earthtrekkers.com+hiking+the+lagazuoi+tunnels+dolomites) | Distinct full-morning activity; would overlap with Cinque Torri area. | Sept 19 transit day |
 
 ---
 
@@ -95,8 +95,8 @@ This is one of the absolute best days you can have in the Dolomites. It perfectl
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|
-| **Rifugio Averau** | Elevated Pasta | €€€ | Cinque Torri | Known as one of the best restaurants in the *entire* Dolomites. Their pappardelle and casunziei are legendary. **Must book lunch!** | [📍 Map](https://maps.app.goo.gl/averau) |
-| **Rifugio Scoiattoli** | Alpine / Casual | €€ | Cinque Torri | Located directly in front of the Five Towers. Massive outdoor terrace and great pasta. | [📍 Map](https://maps.app.goo.gl/scoiattoli) |
-| **El Brite de Larieto** | Agriturismo (Farm) | €€€ | Near Cortina | Michelin Green Star. They make all their own cheese, butter, and meat on-site. Incredible rustic luxury dinner. | [📍 Map](https://maps.app.goo.gl/elbrite) |
-| **Ristorante Ariston** | Fine Italian | €€ | Cortina Center | Elegant dining in the heart of Cortina with a classic old-school Italian atmosphere. | [📍 Map](https://maps.app.goo.gl/ariston) |
-| **Enoteca Cortina** | Wine & Cicchetti | € | Cortina Center | Perfect place to grab pre-dinner drinks and small bites to soak in the Cortina nightlife. | [📍 Map](https://maps.app.goo.gl/enoteca) |
+| **Rifugio Averau** | Elevated Pasta | €€€ | Cinque Torri | Known as one of the best restaurants in the *entire* Dolomites. Their pappardelle and casunziei are legendary. **Must book lunch!** | [📍 Map](https://www.google.com/maps/search/?api=1&query=Rifugio+Averau+Dolomites) |
+| **Rifugio Scoiattoli** | Alpine / Casual | €€ | Cinque Torri | Located directly in front of the Five Towers. Massive outdoor terrace and great pasta. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Rifugio+Scoiattoli+Dolomites) |
+| **El Brite de Larieto** | Agriturismo (Farm) | €€€ | Near Cortina | Michelin Green Star. They make all their own cheese, butter, and meat on-site. Incredible rustic luxury dinner. | [📍 Map](https://www.google.com/maps/search/?api=1&query=El+Brite+de+Larieto+Dolomites) |
+| **Ristorante Ariston** | Fine Italian | €€ | Cortina Center | Elegant dining in the heart of Cortina with a classic old-school Italian atmosphere. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Ristorante+Ariston+Dolomites) |
+| **Enoteca Cortina** | Wine & Cicchetti | € | Cortina Center | Perfect place to grab pre-dinner drinks and small bites to soak in the Cortina nightlife. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Enoteca+Cortina+Dolomites) |

@@ -23,7 +23,7 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
   * **Saltria**: The lowest point (the basin) of the plateau, surrounded by dense woods. It's a fun, long descent on the e-bike, and the motor will help you cruise right back out!
   * **Edelweiß Hütte**: Another excellent option for authentic Tyrolean food with sweeping panoramic views.
 * **Resources**: 
-  * [Earth Trekkers: How to Visit Alpe di Siusi](https://www.earthtrekkers.com/alpe-di-siusi-seiser-alm-dolomites/)
+  * [Earth Trekkers: How to Visit Alpe di Siusi](https://www.google.com/search?q=site:earthtrekkers.com+alpe+di+siusi+seiser+alm+dolomites)
 * **Notes**: Because you are driving up, you have total freedom to stay until sunset. Rent your bikes in Compatsch near the P2 parking lot.
 
 ### 2. Sunset on the Plateau
@@ -70,8 +70,8 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|
-| **Gostner Schwaige** | Alpine / Soups | €€ | Alpe di Siusi | Famous for their incredible hay-flower soup served in bread bowls. Small, authentic, and memorable. | [📍 Map](https://maps.app.goo.gl/gostner) |
-| **Malga Sanon** | Tyrolean / Steak | €€ | Alpe di Siusi | Breathtaking views of the Sassolungo with phenomenal steaks and traditional South Tyrolean fare. | [📍 Map](https://maps.app.goo.gl/sanon) |
-| **Rauch Hütte** | Refined Tyrolean | €€ | Alpe di Siusi | Exceptional wine list and slightly more refined dishes than typical mountain huts. Amazing sunny terrace. | [📍 Map](https://maps.app.goo.gl/rauch) |
-| **Restaurant Concordia** | Fine Dining / Game | €€€ | Ortisei | Great option for an elevated dinner once you are back in town. | [📍 Map](https://maps.app.goo.gl/concordia) |
-| **Vives** | Casual / Italian | €€ | Ortisei Center | Very popular with locals for easy, satisfying dinners after a long day outside. | [📍 Map](https://maps.app.goo.gl/vives) |
+| **Gostner Schwaige** | Alpine / Soups | €€ | Alpe di Siusi | Famous for their incredible hay-flower soup served in bread bowls. Small, authentic, and memorable. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Gostner+Schwaige+Dolomites) |
+| **Malga Sanon** | Tyrolean / Steak | €€ | Alpe di Siusi | Breathtaking views of the Sassolungo with phenomenal steaks and traditional South Tyrolean fare. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Malga+Sanon+Dolomites) |
+| **Rauch Hütte** | Refined Tyrolean | €€ | Alpe di Siusi | Exceptional wine list and slightly more refined dishes than typical mountain huts. Amazing sunny terrace. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Rauch+H%C3%BCtte+Dolomites) |
+| **Restaurant Concordia** | Fine Dining / Game | €€€ | Ortisei | Great option for an elevated dinner once you are back in town. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Restaurant+Concordia+Dolomites) |
+| **Vives** | Casual / Italian | €€ | Ortisei Center | Very popular with locals for easy, satisfying dinners after a long day outside. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Vives+Dolomites) |

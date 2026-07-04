@@ -31,8 +31,8 @@ A full day dedicated to the Queen of the Adriatic. With no driving or hiking on 
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|
-| **Trattoria Al Gatto Nero** | Local Seafood | €€€ | Burano (Island) | If you take the boat to the colorful islands, this is the most famous seafood lunch spot in the lagoon. | [📍 Map](https://maps.app.goo.gl/gattonero) |
-| **Osteria Bancogiro** | Refined Venetian | €€ | Rialto | Incredible Grand Canal views right next to the Rialto market. Excellent wine list. | [📍 Map](https://maps.app.goo.gl/bancogiro) |
-| **Rosticceria Gislon** | Street Food | € | San Marco | Famous for *mozzarella in carrozza* (fried mozzarella sandwiches). Extremely cheap and delicious. | [📍 Map](https://maps.app.goo.gl/gislon) |
-| **Paradiso Perduto** | Seafood / Music | €€ | Cannaregio | Huge plates of seafood pasta, very loud, very local, often with live music. | [📍 Map](https://maps.app.goo.gl/paradiso) |
-| **Cantina Schiavi** | Cicchetti | € | Dorsoduro | A picturesque canal-side wine shop creating some of the most inventive crostini in the city. | [📍 Map](https://maps.app.goo.gl/schiavi) |
+| **Trattoria Al Gatto Nero** | Local Seafood | €€€ | Burano (Island) | If you take the boat to the colorful islands, this is the most famous seafood lunch spot in the lagoon. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Trattoria+Al+Gatto+Nero+Dolomites) |
+| **Osteria Bancogiro** | Refined Venetian | €€ | Rialto | Incredible Grand Canal views right next to the Rialto market. Excellent wine list. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Osteria+Bancogiro+Dolomites) |
+| **Rosticceria Gislon** | Street Food | € | San Marco | Famous for *mozzarella in carrozza* (fried mozzarella sandwiches). Extremely cheap and delicious. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Rosticceria+Gislon+Dolomites) |
+| **Paradiso Perduto** | Seafood / Music | €€ | Cannaregio | Huge plates of seafood pasta, very loud, very local, often with live music. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Paradiso+Perduto+Dolomites) |
+| **Cantina Schiavi** | Cicchetti | € | Dorsoduro | A picturesque canal-side wine shop creating some of the most inventive crostini in the city. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Cantina+Schiavi+Dolomites) |

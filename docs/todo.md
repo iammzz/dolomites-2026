@@ -45,7 +45,7 @@ This page tracks all outstanding items required to successfully execute the trip
 ## 🎒 Phase 4: Book 1 Week Out / On Arrival (Sept 2026)
 - [ ] **Pre-Book Cable Car Tickets**: [Seceda Cable Car](https://www.seceda.it/en) / [Dolomiti SuperSummer](https://www.dolomitisuperski.com/en/SuperSummer)
   - *Nuance*: Cable cars don't sell out. Pre-book online 1-2 days before just to skip the morning ticket-buying lines.
-- [ ] **Via Ferrata Gear**: [Sport Kostner (Ortisei)](https://www.sportkostner.com/) / [Snow Service (Cortina)](https://www.snowservice.it/)
+- [ ] **Via Ferrata Gear**: [Sport Kostner (Ortisei)](https://www.sportkostner.com/) / [Snow Service (Cortina)](https://www.snowservice.it/en/)
   - *Nuance*: Map out rental shops for helmets, harnesses, and lanyards. Call 2-3 days ahead to reserve sizes once you confirm the weather is good for climbing.
 - [ ] **Withdraw Cash (Euros)**: 
   - *Nuance*: Many mountain rifugios are **cash-only** due to poor cell service for card machines. 

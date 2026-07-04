@@ -17,8 +17,8 @@ Earth Trekkers rates this as one of the standout hikes of the eastern Dolomites.
 * **Duration**: 4–5 hrs round trip
 * **Extensions**: Forcella Marcuoira loop option for significantly more elevation gain and panoramic ridge views.
 * **Resources**:
-  * [Earth Trekkers: Lago di Sorapis](https://www.earthtrekkers.com/how-to-hike-lago-di-sorapis/)
-  * [AllTrails: Lago di Sorapis](https://www.alltrails.com/explore?b_q=passo%20tre%20croci%20lago%20sorapis)
+  * [Earth Trekkers: Lago di Sorapis](https://www.google.com/search?q=site:earthtrekkers.com+how+to+hike+lago+di+sorapis)
+  * [AllTrails: Lago di Sorapis](https://www.alltrails.com/search?q=passo%20tre%20croci%20lago%20sorapis)
 * **Notes**: No via ferrata gear required, but you must have solid footwear. The cliff traverse is the psychological crux; grip the cable, face the rock, and don't rush. The lake's water is opaque and luminous due to glacial rock flour. No swimming allowed.
 
 ---
@@ -27,8 +27,8 @@ Earth Trekkers rates this as one of the standout hikes of the eastern Dolomites.
 
 | Activity | ET Link | Why Passed Today | Scheduled For |
 |----------|---------|-----------------|---------------|
-| **Forcella Marcuoira loop option** | [Lago di Sorapis — ET](https://www.earthtrekkers.com/how-to-hike-lago-di-sorapis/) | Standard route is already 4–5 hrs and sufficiently challenging. | Upgrade option only if feeling extremely strong. |
-| **Freccia nel Cielo cable car** | [Freccia nel Cielo — ET](https://www.earthtrekkers.com/freccia-nel-cielo-to-cima-tofana-tofana-di-mezzo/) | Listed as a floating afternoon option — only viable if skies are clear. | Floating option |
+| **Forcella Marcuoira loop option** | [Lago di Sorapis — ET](https://www.google.com/search?q=site:earthtrekkers.com+how+to+hike+lago+di+sorapis) | Standard route is already 4–5 hrs and sufficiently challenging. | Upgrade option only if feeling extremely strong. |
+| **Freccia nel Cielo cable car** | [Freccia nel Cielo — ET](https://www.google.com/search?q=site:earthtrekkers.com+freccia+nel+cielo+to+cima+tofana+tofana+di+mezzo) | Listed as a floating afternoon option — only viable if skies are clear. | Floating option |
 
 ---
 
@@ -72,8 +72,8 @@ Earth Trekkers rates this as one of the standout hikes of the eastern Dolomites.
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|
-| **Rifugio Vandelli** | Simple Alpine | € | Lago di Sorapis | The only rifugio at the lake. Very simple pasta and sandwiches, but a necessary fuel stop. | [📍 Map](https://maps.app.goo.gl/vandelli) |
-| **Ristorante Ospitale** | Historic Inn | €€ | North of Cortina | One of the oldest inns in the region. Incredible ambiance and massive portions of traditional food. | [📍 Map](https://maps.app.goo.gl/ospitale) |
-| **Ristorante Tivoli** | Michelin Star | €€€€ | Cortina | Another Michelin-starred powerhouse in Cortina for a final, unforgettable farewell dinner. | [📍 Map](https://maps.app.goo.gl/tivoli) |
-| **El Brite de Larieto** | Agriturismo (Farm) | €€€ | Near Cortina | The perfect final dinner if you want rustic luxury rather than Michelin formality. | [📍 Map](https://maps.app.goo.gl/elbrite) |
-| **Croda Cafe** | Italian / Casual | €€ | Cortina Center | Easy, central, and a crowd-pleaser for the last night. | [📍 Map](https://maps.app.goo.gl/croda) |
+| **Rifugio Vandelli** | Simple Alpine | € | Lago di Sorapis | The only rifugio at the lake. Very simple pasta and sandwiches, but a necessary fuel stop. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Rifugio+Vandelli+Dolomites) |
+| **Ristorante Ospitale** | Historic Inn | €€ | North of Cortina | One of the oldest inns in the region. Incredible ambiance and massive portions of traditional food. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Ristorante+Ospitale+Dolomites) |
+| **Ristorante Tivoli** | Michelin Star | €€€€ | Cortina | Another Michelin-starred powerhouse in Cortina for a final, unforgettable farewell dinner. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Ristorante+Tivoli+Dolomites) |
+| **El Brite de Larieto** | Agriturismo (Farm) | €€€ | Near Cortina | The perfect final dinner if you want rustic luxury rather than Michelin formality. | [📍 Map](https://www.google.com/maps/search/?api=1&query=El+Brite+de+Larieto+Dolomites) |
+| **Croda Cafe** | Italian / Casual | €€ | Cortina Center | Easy, central, and a crowd-pleaser for the last night. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Croda+Cafe+Dolomites) |

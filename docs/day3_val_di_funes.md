@@ -17,8 +17,8 @@ Val di Funes is arguably the most picturesque valley in the entire Dolomites. Th
 * **Duration**: 3–4 hrs
 * **Extensions**: Stop at Geisler Alm (Rifugio delle Odle) for lunch — an absolute must.
 * **Resources**: 
-  * [Earth Trekkers: Adolf Munkel Weg](https://www.earthtrekkers.com/adolf-munkel-weg-hike-val-di-funes/)
-  * [AllTrails: Adolf Munkel Trail](https://www.alltrails.com/explore?b_q=adolf%20munkel%20weg%20rifugio%20delle%20odle)
+  * [Earth Trekkers: Adolf Munkel Weg](https://www.google.com/search?q=site:earthtrekkers.com+adolf+munkel+weg+hike+val+di+funes)
+  * [AllTrails: Adolf Munkel Trail](https://www.alltrails.com/search?q=adolf%20munkel%20weg%20rifugio%20delle%20odle)
 * **Notes**: The trail starts in the forest and emerges right at the foot of the dramatic north faces of the Geisler group. Geisler Alm is widely considered one of the best rifugios in the Dolomites for food and atmosphere.
 
 ### 2. Santa Maddalena Viewpoints (The Postcard Shots)
@@ -26,7 +26,7 @@ Val di Funes is arguably the most picturesque valley in the entire Dolomites. Th
 * **Elevation Change**: Minimal
 * **Difficulty**: ⭐ Easy
 * **Duration**: 1 hour total
-* **Resources**: [Earth Trekkers: Val di Funes](https://www.earthtrekkers.com/best-things-to-do-val-di-funes/)
+* **Resources**: [Earth Trekkers: Val di Funes](https://www.google.com/search?q=site:earthtrekkers.com+best+things+to+do+val+di+funes)
 * **Notes**: There are two main photo spots: the Church of St. John (San Giovanni in Ranui) and the Santa Maddalena viewpoint. They are heavily photographed for a reason!
 
 ---
@@ -75,8 +75,8 @@ Since the drive out to Val di Funes takes you out of Val Gardena and into the ma
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|
-| **Geisleralm** | Alpine / Tyrolean | €€ | On Hike (Val di Funes) | **THE** absolute must-stop lunch spot. Phenomenal dumplings, "Geisler Cinema" lounge chairs, and epic views. | [📍 Map](https://maps.app.goo.gl/geisleralm) |
-| **Gschnagenhardt-Alm** | Alpine / Local | €€ | On Hike (Val di Funes) | Right next to Geisleralm. Slightly quieter, incredible authentic Kaiserschmarrn and local dishes. | [📍 Map](https://maps.app.goo.gl/gschnagen) |
-| **Waldschenke** | Tyrolean / Pizza | €€ | Funes Valley | Great dinner spot to hit after the hike before driving back to Ortisei. Cozy and rustic. | [📍 Map](https://maps.app.goo.gl/waldschenke) |
-| **Tubladel** | Tyrolean / Steak | €€€ | Ortisei Center | A great dinner option once you return to base if you want a premium meat-focused meal. | [📍 Map](https://maps.app.goo.gl/tubladel) |
-| **Mauriz Keller** | Traditional / Pizza | €€ | Ortisei Center | Reliable and cozy, right in the center for a hearty post-hike dinner. | [📍 Map](https://maps.app.goo.gl/mauriz) |
+| **Geisleralm** | Alpine / Tyrolean | €€ | On Hike (Val di Funes) | **THE** absolute must-stop lunch spot. Phenomenal dumplings, "Geisler Cinema" lounge chairs, and epic views. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Geisleralm+Dolomites) |
+| **Gschnagenhardt-Alm** | Alpine / Local | €€ | On Hike (Val di Funes) | Right next to Geisleralm. Slightly quieter, incredible authentic Kaiserschmarrn and local dishes. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Gschnagenhardt-Alm+Dolomites) |
+| **Waldschenke** | Tyrolean / Pizza | €€ | Funes Valley | Great dinner spot to hit after the hike before driving back to Ortisei. Cozy and rustic. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Waldschenke+Dolomites) |
+| **Tubladel** | Tyrolean / Steak | €€€ | Ortisei Center | A great dinner option once you return to base if you want a premium meat-focused meal. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Tubladel+Dolomites) |
+| **Mauriz Keller** | Traditional / Pizza | €€ | Ortisei Center | Reliable and cozy, right in the center for a hearty post-hike dinner. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Mauriz+Keller+Dolomites) |

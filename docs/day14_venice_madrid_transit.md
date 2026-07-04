@@ -25,8 +25,8 @@
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|
-| **Mercado de San Miguel** | Tapas Market | €€ | Centro / Sol | Famous glass-walled market. Crowded, but perfect for grazing on oysters, jamón, and vermouth. | [📍 Map](https://maps.app.goo.gl/sanmiguel) |
-| **Sobrino de Botín** | Roast Suckling Pig | €€€ | La Latina | Officially the oldest restaurant in the world. Famous for its wood-fired suckling pig. Must book! | [📍 Map](https://maps.app.goo.gl/botin) |
-| **Chocolatería San Ginés** | Churros & Choc | € | Centro | Open 24/7. The most iconic spot in Madrid for thick, hot chocolate and fresh churros. | [📍 Map](https://maps.app.goo.gl/sangines) |
-| **La Campana** | Calamari Sandwich | € | Plaza Mayor | Madrid is landlocked, but famous for the *Bocadillo de Calamares*. This is the best, cheapest spot. | [📍 Map](https://maps.app.goo.gl/campana) |
-| **Casa Macareno** | Traditional Tavern | €€ | Malasaña | Classic tiled tavern offering a step back in time with fantastic croquetas and traditional tapas. | [📍 Map](https://maps.app.goo.gl/macareno) |
+| **Mercado de San Miguel** | Tapas Market | €€ | Centro / Sol | Famous glass-walled market. Crowded, but perfect for grazing on oysters, jamón, and vermouth. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Mercado+de+San+Miguel+Dolomites) |
+| **Sobrino de Botín** | Roast Suckling Pig | €€€ | La Latina | Officially the oldest restaurant in the world. Famous for its wood-fired suckling pig. Must book! | [📍 Map](https://www.google.com/maps/search/?api=1&query=Sobrino+de+Bot%C3%ADn+Dolomites) |
+| **Chocolatería San Ginés** | Churros & Choc | € | Centro | Open 24/7. The most iconic spot in Madrid for thick, hot chocolate and fresh churros. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Chocolater%C3%ADa+San+Gin%C3%A9s+Dolomites) |
+| **La Campana** | Calamari Sandwich | € | Plaza Mayor | Madrid is landlocked, but famous for the *Bocadillo de Calamares*. This is the best, cheapest spot. | [📍 Map](https://www.google.com/maps/search/?api=1&query=La+Campana+Dolomites) |
+| **Casa Macareno** | Traditional Tavern | €€ | Malasaña | Classic tiled tavern offering a step back in time with fantastic croquetas and traditional tapas. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Casa+Macareno+Dolomites) |

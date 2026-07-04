@@ -39,8 +39,8 @@ Meet up for dinner in Cortina. Tomorrow is the hike to Lago di Sorapis!
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|
-| **Pizzeria Edelweiss** | Pizza / Casual | €€ | Lago di Misurina | Perfect easy lunch spot for the Relax Group while hanging out by the lake. | [📍 Map](https://maps.app.goo.gl/edelweiss) |
-| **Ristorante Duca D'Aosta** | Alpine | €€ | Near Tofana | Great lunch spot for the Thrill Group after tackling the Alpini Via Ferrata. | [📍 Map](https://maps.app.goo.gl/duca) |
-| **SanBrite** | Michelin Star | €€€€ | Near Cortina | The ultimate splurge. Michelin-starred "agricucina" focused on sustainable mountain ingredients. | [📍 Map](https://maps.app.goo.gl/sanbrite) |
-| **Il Vizietto** | Seafood / Italian | €€€ | Cortina Center | Book this if you didn't get a chance earlier in the week! | [📍 Map](https://maps.app.goo.gl/vizietto) |
-| **Janbo** | Burgers / Pub | € | Cortina Center | If you are sick of pasta and just want a good burger and a lively bar atmosphere. | [📍 Map](https://maps.app.goo.gl/janbo) |
+| **Pizzeria Edelweiss** | Pizza / Casual | €€ | Lago di Misurina | Perfect easy lunch spot for the Relax Group while hanging out by the lake. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Pizzeria+Edelweiss+Dolomites) |
+| **Ristorante Duca D'Aosta** | Alpine | €€ | Near Tofana | Great lunch spot for the Thrill Group after tackling the Alpini Via Ferrata. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Ristorante+Duca+D%27Aosta+Dolomites) |
+| **SanBrite** | Michelin Star | €€€€ | Near Cortina | The ultimate splurge. Michelin-starred "agricucina" focused on sustainable mountain ingredients. | [📍 Map](https://www.google.com/maps/search/?api=1&query=SanBrite+Dolomites) |
+| **Il Vizietto** | Seafood / Italian | €€€ | Cortina Center | Book this if you didn't get a chance earlier in the week! | [📍 Map](https://www.google.com/maps/search/?api=1&query=Il+Vizietto+Dolomites) |
+| **Janbo** | Burgers / Pub | € | Cortina Center | If you are sick of pasta and just want a good burger and a lively bar atmosphere. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Janbo+Dolomites) |

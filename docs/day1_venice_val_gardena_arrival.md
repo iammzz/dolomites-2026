@@ -32,8 +32,8 @@ Today is about making it across the Atlantic, gathering your rental car, and rec
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|
-| **Osteria Al Diplomatico** | Venetian Tavern | €€ | 10 min walk (Mestre) | Buzzing local tavern in Mestre with excellent cicchetti and live music. Perfect if you don't want to leave the mainland. | [📍 Map](https://maps.app.goo.gl/diplomatico) |
-| **Ostaria da Mariano** | Seafood / Local | €€ | 15 min walk (Mestre) | Open since 1963. Famous for lagoon seafood and *risotto di gò*. | [📍 Map](https://maps.app.goo.gl/mariano) |
-| **Pizzium** | Neapolitan Pizza | € | 5 min walk (Mestre) | Reliable, high-quality, modern pizza in Mestre if you just want easy comfort food after the flight. | [📍 Map](https://maps.app.goo.gl/pizzium) |
-| **Bacareto da Lele** | Cicchetti & Wine | € | 5 min from Train (Venice) | The most famous standing-room cicchetti spot near the Venice train station. €1 mini-paninis and tiny glasses of wine. | [📍 Map](https://maps.app.goo.gl/dalele) |
-| **Osteria al Cicheto** | Authentic Venetian | €€ | 5 min from Train (Venice) | Tucked away from the tourist traps near the station. Great for a more substantial meal and fantastic local vibe. | [📍 Map](https://maps.app.goo.gl/alcicheto) |
+| **Osteria Al Diplomatico** | Venetian Tavern | €€ | 10 min walk (Mestre) | Buzzing local tavern in Mestre with excellent cicchetti and live music. Perfect if you don't want to leave the mainland. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Osteria+Al+Diplomatico+Dolomites) |
+| **Ostaria da Mariano** | Seafood / Local | €€ | 15 min walk (Mestre) | Open since 1963. Famous for lagoon seafood and *risotto di gò*. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Ostaria+da+Mariano+Dolomites) |
+| **Pizzium** | Neapolitan Pizza | € | 5 min walk (Mestre) | Reliable, high-quality, modern pizza in Mestre if you just want easy comfort food after the flight. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Pizzium+Dolomites) |
+| **Bacareto da Lele** | Cicchetti & Wine | € | 5 min from Train (Venice) | The most famous standing-room cicchetti spot near the Venice train station. €1 mini-paninis and tiny glasses of wine. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Bacareto+da+Lele+Dolomites) |
+| **Osteria al Cicheto** | Authentic Venetian | €€ | 5 min from Train (Venice) | Tucked away from the tourist traps near the station. Great for a more substantial meal and fantastic local vibe. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Osteria+al+Cicheto+Dolomites) |

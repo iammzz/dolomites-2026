@@ -31,8 +31,8 @@ Book a nice dinner in town. The food here is a unique blend of Italian and Tyrol
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|
-| **Tubladel** | Tyrolean / Steak | €€€ | Ortisei Center | One of the most hyped spots in Val Gardena. Incredible local meats cooked in a Catalan oven. | [📍 Map](https://maps.app.goo.gl/tubladel) |
-| **Mauriz Keller** | Traditional / Pizza | €€ | Ortisei Center | Rustic-elegant atmosphere in the pedestrian zone. Great mix of local specialties and wood-fired pizza. | [📍 Map](https://maps.app.goo.gl/mauriz) |
-| **Restaurant Concordia** | Fine Dining / Game | €€€ | Ortisei | Family-run with a cozy traditional stove setting. Famous for elegant preparations of local game. | [📍 Map](https://maps.app.goo.gl/concordia) |
-| **La Cërcia** | Wine Bar / Aperitivo | €€ | Ortisei Center | Perfect for a relaxed evening of wine, craft beer, and high-quality local chopping boards. | [📍 Map](https://maps.app.goo.gl/lacercia) |
-| **Ristorante Pizzeria Lamm** | Casual / Pizza | € | Ortisei Center | Reliable, easy, and comfortable spot for a classic Italian pizza night. | [📍 Map](https://maps.app.goo.gl/lamm) |
+| **Tubladel** | Tyrolean / Steak | €€€ | Ortisei Center | One of the most hyped spots in Val Gardena. Incredible local meats cooked in a Catalan oven. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Tubladel+Dolomites) |
+| **Mauriz Keller** | Traditional / Pizza | €€ | Ortisei Center | Rustic-elegant atmosphere in the pedestrian zone. Great mix of local specialties and wood-fired pizza. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Mauriz+Keller+Dolomites) |
+| **Restaurant Concordia** | Fine Dining / Game | €€€ | Ortisei | Family-run with a cozy traditional stove setting. Famous for elegant preparations of local game. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Restaurant+Concordia+Dolomites) |
+| **La Cërcia** | Wine Bar / Aperitivo | €€ | Ortisei Center | Perfect for a relaxed evening of wine, craft beer, and high-quality local chopping boards. | [📍 Map](https://www.google.com/maps/search/?api=1&query=La+C%C3%ABrcia+Dolomites) |
+| **Ristorante Pizzeria Lamm** | Casual / Pizza | € | Ortisei Center | Reliable, easy, and comfortable spot for a classic Italian pizza night. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Ristorante+Pizzeria+Lamm+Dolomites) |

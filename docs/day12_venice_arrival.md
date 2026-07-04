@@ -29,8 +29,8 @@ Today you pack up your cars, leave the stunning peaks of the Dolomites behind, a
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|
-| **Osteria alle Testiere** | Fine Seafood | €€€ | Castello | Legendary, tiny seafood spot. Hard to get into (must book well in advance), but unforgettable. | [📍 Map](https://maps.app.goo.gl/testiere) |
-| **Cantina Do Mori** | Cicchetti | € | San Polo | The oldest cicchetti bar in Venice. Allegedly Casanova's favorite spot. Standing room only! | [📍 Map](https://maps.app.goo.gl/domori) |
-| **Bacarando in Corte dell'Orso**| Cicchetti & Dinner | €€ | San Marco | Hidden in an alleyway, it's massive, lively, and offers both cheap tapas and sit-down dinners. | [📍 Map](https://maps.app.goo.gl/bacarando) |
-| **Al Timon** | Steak & Cicchetti | €€ | Cannaregio | Famous for eating cicchetti on the boats moored in the canal right outside the bar. | [📍 Map](https://maps.app.goo.gl/altimon) |
-| **Suso Gelatoteca** | Gelato | € | San Marco | Arguably the best gelato in Venice. Expect a line, but it moves fast. | [📍 Map](https://maps.app.goo.gl/suso) |
+| **Osteria alle Testiere** | Fine Seafood | €€€ | Castello | Legendary, tiny seafood spot. Hard to get into (must book well in advance), but unforgettable. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Osteria+alle+Testiere+Dolomites) |
+| **Cantina Do Mori** | Cicchetti | € | San Polo | The oldest cicchetti bar in Venice. Allegedly Casanova's favorite spot. Standing room only! | [📍 Map](https://www.google.com/maps/search/?api=1&query=Cantina+Do+Mori+Dolomites) |
+| **Bacarando in Corte dell'Orso**| Cicchetti & Dinner | €€ | San Marco | Hidden in an alleyway, it's massive, lively, and offers both cheap tapas and sit-down dinners. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Bacarando+in+Corte+dell%27Orso+Dolomites) |
+| **Al Timon** | Steak & Cicchetti | €€ | Cannaregio | Famous for eating cicchetti on the boats moored in the canal right outside the bar. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Al+Timon+Dolomites) |
+| **Suso Gelatoteca** | Gelato | € | San Marco | Arguably the best gelato in Venice. Expect a line, but it moves fast. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Suso+Gelatoteca+Dolomites) |

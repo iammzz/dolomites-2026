@@ -14,14 +14,14 @@ Today you shift your base from the Western to the Eastern Dolomites. Instead of 
 * **Elevation Change**: Cable car to 2,752m.
 * **Difficulty**: ⭐⭐ Moderate (downhill walk through tunnels if you choose to hike it).
 * **Duration**: 2-3 hours
-* **Resources**: [Earth Trekkers: Lagazuoi Tunnels](https://www.earthtrekkers.com/hiking-the-lagazuoi-tunnels-dolomites/)
+* **Resources**: [Earth Trekkers: Lagazuoi Tunnels](https://www.google.com/search?q=site:earthtrekkers.com+hiking+the+lagazuoi+tunnels+dolomites)
 * **Notes**: You can take the cable car up and back down just for the views, OR you can take it up, rent a helmet/headlamp at the top, and walk 4km downhill *inside* the mountain through the WWI tunnels excavated by Italian soldiers. 
 
 ### 2. Marmolada (The Queen of the Dolomites)
 * **Elevation Change**: Cable car in 3 stages to Punta Rocca (3,265m).
 * **Difficulty**: ⭐ Easy
 * **Duration**: 1.5–2 hours
-* **Resources**: [Earth Trekkers: Marmolada](https://www.earthtrekkers.com/marmolada-highest-mountain-in-the-dolomites/)
+* **Resources**: [Earth Trekkers: Marmolada](https://www.google.com/search?q=site:earthtrekkers.com+marmolada+highest+mountain+in+the+dolomites)
 * **Notes**: Marmolada is the only remaining large glacier in the Dolomites. The Malga Ciapela cable car whisks you to the top. Visit the Museum of the Great War at the Serauta mid-station (included in ticket). 
 
 ---
@@ -73,8 +73,8 @@ Today you shift your base from the Western to the Eastern Dolomites. Instead of 
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|
-| **Rifugio Luigi Gorza** | Modern Alpine | €€ | Porta Vescovo | Great lunch spot during the drive. Take the cable car up for head-on views of the Marmolada glacier. | [📍 Map](https://maps.app.goo.gl/gorza) |
-| **Rifugio Lagazuoi** | Traditional | €€ | Passo Falzarego | Have a late lunch or coffee at 2,752m with some of the most dramatic 360-degree views in the region. | [📍 Map](https://maps.app.goo.gl/lagazuoi) |
-| **Il Vizietto** | Seafood / Italian | €€€ | Cortina Center | One of Cortina's best. Highly rated for beautifully plated seafood and fresh pasta. | [📍 Map](https://maps.app.goo.gl/vizietto) |
-| **Pizzeria Porto Rotondo** | Pizza / Casual | € | Cortina Center | Very popular, bustling local pizzeria to grab an easy dinner on your first night in town. | [📍 Map](https://maps.app.goo.gl/rotando) |
-| **Croda Cafe** | Italian / Tyrolean | €€ | Cortina Center | Centrally located with a diverse menu, perfect for a casual group dinner. | [📍 Map](https://maps.app.goo.gl/croda) |
+| **Rifugio Luigi Gorza** | Modern Alpine | €€ | Porta Vescovo | Great lunch spot during the drive. Take the cable car up for head-on views of the Marmolada glacier. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Rifugio+Luigi+Gorza+Dolomites) |
+| **Rifugio Lagazuoi** | Traditional | €€ | Passo Falzarego | Have a late lunch or coffee at 2,752m with some of the most dramatic 360-degree views in the region. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Rifugio+Lagazuoi+Dolomites) |
+| **Il Vizietto** | Seafood / Italian | €€€ | Cortina Center | One of Cortina's best. Highly rated for beautifully plated seafood and fresh pasta. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Il+Vizietto+Dolomites) |
+| **Pizzeria Porto Rotondo** | Pizza / Casual | € | Cortina Center | Very popular, bustling local pizzeria to grab an easy dinner on your first night in town. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Pizzeria+Porto+Rotondo+Dolomites) |
+| **Croda Cafe** | Italian / Tyrolean | €€ | Cortina Center | Centrally located with a diverse menu, perfect for a casual group dinner. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Croda+Cafe+Dolomites) |

@@ -29,8 +29,8 @@ Today is the day! You have tickets for **ANYMA presents ÆDEN**. Since electroni
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|
-| **Sala de Despiece** | Modern / Theatrical| €€€ | Chamberí | Served on a butcher block, this is a highly interactive, modern tapas experience. | [📍 Map](https://maps.app.goo.gl/saladespiece) |
-| **Juana La Loca** | Basque Pintxos | €€ | La Latina | Famous for having one of the absolute best, jammy *Tortilla de Patatas* (Spanish omelets) in Madrid. | [📍 Map](https://maps.app.goo.gl/juana) |
-| **Pez Tortilla** | Craft Beer & Tapas | € | Malasaña | Casual, loud, and incredibly fun. Great craft beer and gooey, creative tortillas. | [📍 Map](https://maps.app.goo.gl/peztortilla) |
-| **Takos Al Pastor** | Mexican / Tacos | € | Gran Via | Often has a massive line out the door for €1 tacos. An absolute lifesaver for late-night post-concert food. | [📍 Map](https://maps.app.goo.gl/takos) |
-| **Salmon Guru** | Cocktails & Snacks | €€€ | Huertas | Voted one of the World's 50 Best Bars. Wild neon decor and crazy cocktail presentations. | [📍 Map](https://maps.app.goo.gl/salmonguru) |
+| **Sala de Despiece** | Modern / Theatrical| €€€ | Chamberí | Served on a butcher block, this is a highly interactive, modern tapas experience. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Sala+de+Despiece+Dolomites) |
+| **Juana La Loca** | Basque Pintxos | €€ | La Latina | Famous for having one of the absolute best, jammy *Tortilla de Patatas* (Spanish omelets) in Madrid. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Juana+La+Loca+Dolomites) |
+| **Pez Tortilla** | Craft Beer & Tapas | € | Malasaña | Casual, loud, and incredibly fun. Great craft beer and gooey, creative tortillas. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Pez+Tortilla+Dolomites) |
+| **Takos Al Pastor** | Mexican / Tacos | € | Gran Via | Often has a massive line out the door for €1 tacos. An absolute lifesaver for late-night post-concert food. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Takos+Al+Pastor+Dolomites) |
+| **Salmon Guru** | Cocktails & Snacks | €€€ | Huertas | Voted one of the World's 50 Best Bars. Wild neon decor and crazy cocktail presentations. | [📍 Map](https://www.google.com/maps/search/?api=1&query=Salmon+Guru+Dolomites) |
