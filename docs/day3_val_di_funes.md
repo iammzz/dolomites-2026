@@ -29,7 +29,7 @@ Val di Funes is arguably the most picturesque valley in the entire Dolomites. Th
 * **The Logistics**: After your hike, you will drive 15 minutes down into the village of Santa Maddalena. **Important**: You cannot drive directly to the viewpoints as the roads are restricted to local residents. You must park in the village and walk.
 * **Church of St. John (San Giovanni in Ranui)**: This is the tiny, solitary onion-domed church sitting in a massive green meadow. You can walk right up to the famous wooden fence photo spot. There is a small turnstile fee (~€4) if you want to walk closer to the church itself.
 * **Santa Maddalena Church Viewpoint**: From the village center, follow the signs for "Panoramaweg" (Panorama Trail). It's a short, slightly uphill walk on a paved farm road that leads you to the iconic bench overlooking the Santa Maddalena church with the Geisler peaks perfectly framed behind it. Late afternoon/early evening is the absolute best time for this photo as the sun illuminates the peaks.
-* **Resources**: [Earth Trekkers: Dolomites Best Things To Do](https://www.earthtrekkers.com/best-things-to-do-in-the-dolomites/)
+* **Resources**: [Moon & Honey Travel: Val di Funes Guide](https://www.moonhoneytravel.com/val-di-funes-dolomites/)
 
 ---
 
