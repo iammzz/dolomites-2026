@@ -23,6 +23,7 @@ An Antigravity trip planning project is structured as a static website using **M
 │   ├── index.md                # Site welcome page & overview table
 │   ├── logistics.md            # Flight/Hotel/Car bookings status & information
 │   ├── maps.md                 # Interactive Leaflet maps routing page
+│   ├── packing_list.md         # Comprehensive hiking, via ferrata, and travel gear list
 │   ├── potential_activities.md # Dropped/back-pocket activities vault
 │   └── todo.md                 # Checked-off phase list & completed bookings
 ├── CNAME                       # GitHub Pages custom domain configuration
@@ -69,6 +70,7 @@ Equip the project with a workspace-scoped rules file in `.agents/AGENTS.md`. Ant
 * **Logistics Auto-Sync**: Whenever a change is made to an itinerary, the agent must automatically cross-check and synchronize `index.md`, `todo.md`, `logistics.md`, and the daily itinerary pages.
 * **Dining Enforcements**: Every daily itinerary page (where location changes) must have a `"🍽️ Dining & Restaurant Options"` section at the bottom featuring 5–6 curated choices with: Drive distance, Food type, Typical price, Google Maps link, and recommendation details.
 * **Deep Activity Research**: Activity descriptions must avoid generic placeholders and provide granular times (physical effort vs. lounging), trailhead parking fees, access restrictions, and direct URLs to specific guides (AllTrails or blog posts).
+* **Gear Scanning & Sync**: Automatically scan itineraries for any specialty gear (like via ferrata sets, trekking poles, WWI tunnel headlamps) and synchronize them into `docs/packing_list.md` to keep the list up to date.
 * **Auto-Push Policy**: Stage, commit, and push modifications to remote repository branches immediately to maintain live website builds without requiring separate prompts.
 
 ---
@@ -77,11 +79,12 @@ Equip the project with a workspace-scoped rules file in `.agents/AGENTS.md`. Ant
 
 1. **Step 1: Raw Schedule Skeleton**: Write down the date, day of week, base town, and draft activity in `sheet.csv` or a central table.
 2. **Step 2: Initialize Docs**: Set up `mkdocs.yml` navigation and create daily markdown files (e.g., `docs/day1_*.md`).
-3. **Step 3: Define Logistics & Checklists**: Populate `docs/logistics.md` and `docs/todo.md` with flights, accommodation requirements, and bookings checklist.
-4. **Step 4: Draft Day Details**: Ask Antigravity to build detailed files for each day. Guide the agent to include:
+3. **Step 3: Define Logistics, Checklists, & Gear**: Populate `docs/logistics.md`, `docs/todo.md`, and `docs/packing_list.md` with flights, accommodation requirements, bookings checklist, and baseline hiking/via ferrata gear.
+4. **Step 4: Draft Day Details & Scan Gear**: Ask Antigravity to build detailed files for each day. Guide the agent to include:
    * Hour-by-hour schedules.
    * Drive times/distances (Google Maps link routes).
    * Detailed trail stats (km, elevation, difficulty).
+   * Specialty gear requirements (to be automatically scanned and synced to `docs/packing_list.md`).
 5. **Step 5: Map Coordinates**: Extract latitudes and longitudes for each major stop and save them to `docs/assets/data/my_maps_import.csv` to populate the Leaflet map.
 6. **Step 6: Build & Test Links**: Run the link-checker python script to resolve any broken URLs.
 

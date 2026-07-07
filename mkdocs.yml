@@ -33,6 +33,7 @@ nav:
   - Planning:
       - Logistics: logistics.md
       - To-Do List: todo.md
+      - Packing List: packing_list.md
       - Maps & Routing: maps.md
   - Extras:
       - Potential Activities: potential_activities.md
