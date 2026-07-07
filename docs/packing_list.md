@@ -19,6 +19,7 @@ This comprehensive packing list is tailored to the specific requirements of our 
 *   **Daypack (20L - 30L)**: With a built-in waterproof rain cover.
 *   **Hiking Boots**: High-cut or mid-cut boots with deep Vibram soles. Make sure they are thoroughly broken in before the trip to avoid blisters.
 *   **Trekking Poles**: Highly recommended to save your knees on steep descents (such as the Lago di Sorapis hike on Day 11).
+    *   **[BAGGAGE WARNING]**: Trekking poles are **strictly prohibited in carry-on luggage** by aviation security (both outbound from Canada/US and intra-Europe on Ryanair). If you try to bring them in carry-on, security will confiscate them. You must check them in a bag or rent them locally in Val Gardena / Cortina to avoid checked baggage fees.
 *   **Water Bladder / Bottles**: Minimum **2L capacity** per person.
 *   **Offline Navigation Apps**: Download offline areas on **Google Maps** and save GPX routes on **AllTrails** or **Outdooractive** before heading into valleys with no cellular reception.
 *   **Sun & Wind Protection**:

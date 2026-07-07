@@ -23,6 +23,15 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
   * *Status*: 🔴 **NOT BOOKED**
   * *Details*: Flight on Sept 27.
 
+### ✈️ Venice Airport (VCE) Transit Logistics
+
+*   **Day 1 Arrival (Airport → Venice-Mestre Beautiful Apartment)**:
+    *   **Direct Taxi (Recommended)**: A flat-rate taxi from VCE Airport directly to your Mestre apartment (Via della Brenta Vecchia, 34) is approximately **€35–40** and takes 15–20 minutes. For a group of 5 adults with heavy luggage, this is the most convenient door-to-door option.
+    *   **Express Bus**: The **ATVO Fly Bus** (€10 per person, departs every 20-30 min) or **ACTV Bus Line 15** (€8 per person) runs directly to Mestre Railway Station. From the station, you will need a local bus or taxi to the apartment.
+*   **Day 14 Departure (Venice Island → VCE Airport)**:
+    *   **Private Water Taxi (Highly Recommended)**: Since your flight departs VCE at 09:20 AM (checkout by 05:45 AM), lugging heavy bags over Venice's stair-stepped bridges to public docks is exhausting. A private water taxi from the canal nearest your hotel directly to the airport dock costs **€120–€140 total for 5 people**. It takes ~25 minutes and avoids all bridge-crossing hassles. **Action**: Pre-book a water taxi 1-2 weeks in advance.
+    *   **Alilaguna Water Bus**: The Blue or Orange Line runs early morning from major docks to VCE Airport (~€15 per person, takes 45–60 mins). Requires walking to the nearest Alilaguna dock.
+
 ---
 
 ## 🚗 Rental Car
@@ -75,6 +84,7 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 * **Tre Cime Toll Road**: Pay on arrival (no pre-booking).
 * **DoloMithes Spa Passes**: 🔴 **NOT BOOKED**
 * **Via Ferrata Gear Rental**: Rent locally in Ortisei and Cortina.
+* **Trekking Poles Rental (Baggage Alert)**: Trekking poles are **strictly prohibited in carry-on luggage** by aviation security (both outbound on Air Transat and intra-Europe on Ryanair). If you do not plan to pay for checked bags, you should rent poles locally along with your via ferrata gear. Local shops in Ortisei (e.g. *Sport Kostner*, *Sport Bruno Riffeser*) and Cortina (e.g. *Snow Service*) offer pole rentals.
 * **Val Gardena Lifts (Gardena Card)**: Individual lift tickets are recommended instead of the pass. See the [Gardena Card Cost-Benefit Analysis](research.md#gardena-card-cost-benefit-analysis-summer-2026) for details.
 * **E-Bike Rentals (Compatsch / Alpe di Siusi)**: 🔴 **NOT BOOKED**
   * *[Alpin Center (Bike Rent Lodge)](https://www.alpincenter.it/)*: ~€65-€80/day | **Distance**: 0m (Located directly in the main Compatsch parking lot P2).
