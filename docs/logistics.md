@@ -12,9 +12,14 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
   * *Schedule*: Departs YYZ Terminal 3 on Fri, Sept 11 at 21:10. Arrives VCE on Sat, Sept 12 at 11:30.
   * *Passengers*: Emma Zeng, Matthew Zhang, Kevin Yuan, Sunny, Kevin He
   * *Baggage Note*: Eco Budget fare — includes 1 carry-on and 1 personal item. **No checked bags included.**
-* **Intra-Europe**: Venice (VCE/TSF) to Madrid (MAD)
-  * *Status*: 🔴 **NOT BOOKED**
-  * *Details*: Morning flight on Sept 25 (likely Ryanair).
+* **Intra-Europe**: Venice (VCE) to Madrid (MAD)
+  * *Status*: 🟡 **PARTIALLY BOOKED** (Matthew, Emma, Kevin booked; Sunny, Kevin He pending)
+  * *Airline*: Ryanair (Flight FR1207)
+  * *Booking Ref*: **T4P9FG**
+  * *Schedule*: Departs VCE on Fri, Sept 25 at 09:20. Arrives MAD at 12:00.
+  * *Passengers*: Matthew Ming Zhou Zhang, Yi Yang Zeng, Liang Kun Yuan
+  * *Cost*: $274.93 USD total (Visa ending in 9196)
+  * *Baggage Note*: Priority & 2 Cabin Bags.
 * **Return**: Madrid (MAD) to Toronto (YYZ)
   * *Status*: 🔴 **NOT BOOKED**
   * *Details*: Flight on Sept 27.

@@ -8,7 +8,7 @@ This page tracks all outstanding items required to successfully execute the trip
 ## 🚨 Phase 1: Book ASAP (Right Now)
 - [ ] **Book Flights**: [Air Transat](https://www.airtransat.com) / [Google Flights](https://www.google.com/flights)
   - *Outbound*: 🟢 **BOOKED** (Entire group is booked on TS 306).
-  - *Intra-Europe*: Entire group needs to book a morning flight from Venice → Madrid for Sept 25 (likely Ryanair).
+  - *Intra-Europe*: 🟡 **PARTIALLY BOOKED** (Matthew, Emma, Kevin booked on Ryanair FR1207, Ref: **T4P9FG**; Sunny & Kevin He need to book).
   - *Return*: Entire group needs to book Madrid → Toronto for Sept 27.
 - [x] **Book Rental Car**: Booked with National Car Rental
   - *Nuance*: Pickup/Drop-off at Venice Mestre Rail Station (VCE). Ensure it has an **automatic transmission** (manuals are brutal on these mountain passes) and physically fits all 5 of you plus your heavy luggage.

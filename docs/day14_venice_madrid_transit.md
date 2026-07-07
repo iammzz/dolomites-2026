@@ -5,9 +5,9 @@
 ---
 
 ## 🛣 Morning: Venice to Madrid (~5 hrs total)
-* **Check-Out** (~30 min): Grab a quick espresso and pastry, then check out of your Venice hotel.
-* **Transit to Airport** (~1.5 hrs): Take the **Alilaguna water bus** (Blue or Orange line, ~€15, runs every 30 min from major Vaporetto stops) directly to Venice Marco Polo Airport. Allow 1.5 hours door-to-gate. Alternatively, take the train to Mestre and then the ATVO bus.
-* **The Flight** (~2.5 hrs): **Ryanair Flight to Madrid (MAD)**. *(Note: Penciled in for Friday morning; exact booking pending)*. Budget airlines have strict baggage requirements — weigh your bags before going to the airport! Ryanair charges €50+ at the gate for oversized carry-ons.
+* **Check-Out & Early Departure** (05:45 AM): Grab a quick coffee, check out of your Venice hotel, and head to the airport.
+* **Transit to Airport** (06:00 AM - 07:15 AM): Take the **Alilaguna water bus** (Blue or Orange line, ~€15, runs early morning) or a water taxi directly to Venice Marco Polo Airport. Ensure you arrive at VCE by 07:15 AM (2 hours prior to departure).
+* **The Flight** (09:20 AM - 12:00 PM): **Ryanair Flight FR1207** to Madrid (MAD). Booked for Matthew, Emma, and Kevin (Ref: **T4P9FG**; Sunny & Kevin He pending). Includes Priority & 2 Cabin Bags. Note that Ryanair has very strict baggage size/weight checks at the gate.
 
 ## 🇪🇸 Afternoon: Hola Madrid! (~3 hrs)
 * **Arrival** (~1 hr): Land at Adolfo Suárez Madrid–Barajas Airport (MAD). Take the **Metro Line 8** (~€5, 30 min to Sol/Gran Vía) or a **Cabify** (~€25-30) to your accommodation.

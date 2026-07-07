@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 **📋 Immediate To-Dos (See the full [To-Do List](todo.md) & [Logistics](logistics.md))**:
 - Book remaining outbound flights (Sunny & Kevin He)
-- Book all inbound flights (Venice → Madrid)
+- Book remaining inbound flights Venice → Madrid (Sunny & Kevin He)
 - Book 3 Hotel Bases (Venice, Val Gardena, Cortina)
 *(Note: Rental Car and ANYMA Concert are successfully booked!)*
 

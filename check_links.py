@@ -5,12 +5,13 @@ import sys
 
 def get_urls_from_files():
     urls = set()
-    for file in glob.glob("*.md"):
-        with open(file, 'r') as f:
-            content = f.read()
-            # Extract URLs
-            found = re.findall(r'https?://[^\s)\]"\']+', content)
-            urls.update(found)
+    for file_pattern in ["*.md", "docs/*.md"]:
+        for file in glob.glob(file_pattern):
+            with open(file, 'r', encoding='utf-8') as f:
+                content = f.read()
+                # Extract URLs
+                found = re.findall(r'https?://[^\s)\]"\']+', content)
+                urls.update(found)
     return sorted(list(urls))
 
 broken = []
