@@ -26,6 +26,8 @@ This page tracks all outstanding items required to successfully execute the trip
   - *Nuance*: Multi-currency card essential for low-fee Euro transactions and ATM cash withdrawals in Italy. Order at least 1 month before departure.
 - [ ] **E-Bike Rentals (Alpe di Siusi)**: [Sport Hans](https://www.sporthans.com/en/) or [Alpin Center](https://www.alpincenter.it/)
   - *Nuance*: Reserve E-bikes in advance for the Alpe di Siusi day. It is highly recommended to rent directly in **Compatsch** (at the top of the plateau) so you don't have to carry bikes up the gondola from Ortisei. Both of these shops are right by the cable car station.
+- [ ] **Reserve Lago di Braies Parking (Day 10 Option)**: [pragsparking.com](https://www.pragsparking.com)
+  - *Nuance*: Mandatory online reservation required for vehicles entering the valley during summer peak hours. Book this in advance if Group B plans to do the Lago di Braies excursion on the East Split Day (Sept 21).
 - [ ] **Research Via Ferrata Gear Rentals**: Research and identify rental shops in Ortisei (e.g., Sport Kostner, Sport Bruno Riffeser) and Cortina (e.g., Snow Service) for helmets, harnesses, and lanyards to map out logistics and confirm pricing/reservation rules.
 - [ ] **Book Spa Passes**: [QC Terme Dolomiti](https://www.qcterme.com/en/val-di-fassa/qc-terme-dolomiti)
   - *Nuance*: Needed for the relax group on Split Days. Spas have capacity limits.
