@@ -22,6 +22,8 @@ This page tracks all outstanding items required to successfully execute the trip
 ## 📅 Phase 2: Book 2-3 Months Out (June - July 2026)
 - [ ] **International Driving Permit (IDP)**: [AAA IDP Portal](https://www.aaa.com/vacation/idpf.html)
   - *Nuance*: Legally required to carry an IDP to rent a car in Italy. Processing times by mail can take 4-6 weeks, so get this done early summer.
+- [ ] **Order Physical Wise Card**: [Wise.com](https://wise.com)
+  - *Nuance*: Multi-currency card essential for low-fee Euro transactions and ATM cash withdrawals in Italy. Order at least 1 month before departure.
 - [ ] **E-Bike Rentals (Alpe di Siusi)**: [Sport Hans](https://www.sporthans.com/en/) or [Alpin Center](https://www.alpincenter.it/)
   - *Nuance*: Reserve E-bikes in advance for the Alpe di Siusi day. It is highly recommended to rent directly in **Compatsch** (at the top of the plateau) so you don't have to carry bikes up the gondola from Ortisei. Both of these shops are right by the cable car station.
 - [ ] **Research Via Ferrata Gear Rentals**: Research and identify rental shops in Ortisei (e.g., Sport Kostner, Sport Bruno Riffeser) and Cortina (e.g., Snow Service) for helmets, harnesses, and lanyards to map out logistics and confirm pricing/reservation rules.
@@ -34,6 +36,10 @@ This page tracks all outstanding items required to successfully execute the trip
 ## ⏳ Phase 3: Book Exactly 30 Days Out (August 2026)
 - [ ] **Reserve Tre Cime Parking**: [pass.auronzo.info](https://pass.auronzo.info)
   - *Nuance*: Parking at Rifugio Auronzo is strictly regulated and MUST be booked in advance online (€40). **The booking window opens approximately 30 days in advance.** Set an alarm for **August 20th** to secure your spot for September 20th!
+- [ ] **Pre-purchase Brenner Pass Digital Toll (Videomaut)**: [ASFINAG Toll Shop](https://shop.asfinag.at/)
+  - *Nuance*: Pre-pay the Brenner Pass motorway toll (€11.00) online to link your license plate. This lets you use the automated green Videomaut lanes to bypass the massive cash/card queues at the border.
+- [ ] **Download Offline Navigation Maps**: Google Maps & AllTrails
+  - *Nuance*: Valley gorges and high summits have zero cell service. Pre-download maps for Veneto and Trentino-Alto Adige regions.
 
 ## 🎒 Phase 4: Book 1 Week Out / On Arrival (Sept 2026)
 - [ ] **Pre-Book Cable Car Tickets**: [Seceda Cable Car](https://www.seceda.it/en) / [Dolomiti SuperSummer](https://www.dolomitisuperski.com/en/SuperSummer)

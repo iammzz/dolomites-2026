@@ -84,6 +84,33 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 
 ---
 
+## 🚗 Italian Driving & Navigation Rules
+
+*   **ZTL (Zona a Traffico Limitato)**: 
+    *   Many Italian town centers have camera-enforced restricted zones (ZTL) where private cars are banned. Driving into one results in steep automated fines (~€110+).
+    *   **Venice-Mestre**: The area around Mestre Centro (Piazza Ferretto) has ZTL zones. Do not drive our rental car into these streets.
+    *   **Bolzano (Day 6 Split)**: The historic center is a strict ZTL. If visiting Bolzano, park in a public garage outside the ZTL (e.g., *Parcheggio Piazza Walther* or *Parcheggio Bolzano Centro*) and walk in.
+*   **Color-Coded Parking**:
+    *   **Blue Lines**: Paid public parking. You must pay at a nearby ticket machine (and display it on the dashboard) or use the **EasyPark** app.
+    *   **White Lines**: Free public parking, but often time-limited. You must display a physical "parking disk" set to your arrival time.
+    *   **Yellow Lines**: Reserved exclusively for residents or disabled badge holders. Do not park here.
+*   **Autostrada Tolls & Vignettes**:
+    *   **Brenner Pass (A22)**: Motorway tolls apply. For the drive north and south, we can pre-purchase the digital toll (Videomaut) to link our license plate and drive through the automated green toll lanes.
+    *   **Austrian Border Warning**: If driving north on the A22 close to the Austrian border, note that Austria requires a highway vignette. Do not cross the border without a vignette or you will receive an automatic fine at the border checkpoint.
+
+---
+
+## 🚑 Alpine Safety & Rescue Insurance
+
+*   **Emergency Contact**: Dial **112** for all emergency services in Italy (including Alpine Rescue / Soccorso Alpino).
+*   **Dolomiti Emergency Insurance**: 
+    *   Standard travel and health insurance policy limits often **exclude** high-altitude mountain search and rescue (specifically helicopter transport, which costs ~€100–150 per minute).
+    *   **Action**: It is highly recommended that every traveler purchases a local **Dolomiti Emergency** insurance policy (~€22 per person) for the duration of the trip, or holds an Alpine Club membership (e.g., Austrian OEAV or German DAV) which includes international rescue coverage.
+*   **Offline Navigation**: 
+    *   Cell coverage is non-existent in valleys and gorges. All drivers and hikers must pre-download **Google Maps Offline Areas** for Northern Italy (Veneto/Trentino) and download hiking routes on **AllTrails** or **Outdooractive**.
+
+---
+
 ## 🇪🇸 Madrid (Post-Trip)
 * **ANYMA presents ÆDEN - Madrid**
   * *Dates*: Sept 26 - Sept 27, 2026

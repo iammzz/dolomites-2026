@@ -27,6 +27,7 @@ This is a **Split Day**, meaning the group can divide and conquer based on energ
     
     * **Morning** (~2 hrs): Sleep in and enjoy a slow morning in the pedestrian center of Ortisei. Check out the woodcarving boutiques, grab a pastry and coffee at one of the main street cafés.
     * **Midday Option** (~3 hrs): Drive ~40 minutes down the valley to the city of **Bolzano**. It is a beautiful, warm, Italian/Austrian city with palm-lined promenades and a bustling market square.
+        *   **ZTL & Parking Warning**: Bolzano's historic center is a strict camera-enforced ZTL (restricted traffic zone). Do not enter. Park at the **Walther Parkgarage (Parcheggio Piazza Walther)** or **Parcheggio Bolzano Centro**, which are located outside the ZTL boundary but are just a 2-minute walk from the center.
     * **Main Attraction — Ötzi the Iceman** (~1.5 hrs in the museum): Visit the **South Tyrol Museum of Archaeology** to see **Ötzi the Iceman**, a perfectly preserved 5,300-year-old mummy found in a glacier in 1991. It is genuinely fascinating. **Tickets: €13/adult.** Open Tue-Sun 10AM-6PM (daily in July/August). Online reservation recommended. [Official Website](https://www.iceman.it/en/)
     * **Alternative — Spa Day** (~2-3 hrs): Book a day-pass at **Mar Dolomit** in Ortisei (€14 for 3hrs) for saunas and pools, or check if your accommodation has its own wellness area.
 

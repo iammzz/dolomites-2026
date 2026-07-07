@@ -1,77 +1,73 @@
 # 🎒 Packing List
 
-This is the comprehensive packing list tailored for the Dolomites 2026 trip. It covers high-altitude hiking, technical via ferrata climbs, variable September mountain weather, and city travel in Venice and Madrid.
+This comprehensive packing list is tailored to the specific requirements of our Dolomites 2026 trip. It includes hiking gear, specialty via ferrata gear, WWI tunnel exploration needs, and essential travel/finance documents.
 
 ---
 
-## 🧗‍♂️ 1. Via Ferrata Gear (Technical)
-*Safety gear is mandatory for Group A on Split Days (Days 6 & 10) and transit day activities.*
+## 🪪 Essential Documents & Finance
 
-* **Climbing Helmet**: Essential for protecting against rockfalls from climbers above.
-* **Climbing Harness**: Comfortable, adjustable harness that fits over warm layers.
-* **Via Ferrata Lanyard (Y-set)**: MUST have an integrated energy absorber (tearing webbing system) and two auto-locking carabiners. Do not use static slings.
-* **Climbing Gloves**: Tough, leather-palmed gloves (fingerless or full-finger) to protect your hands from frayed steel cables and improve grip.
-* **Trekking/Approach Shoes**: Sturdy footwear with sticky rubber soles (Vibram) and good toe-rand protection.
-* *(Note: Complete sets of helmet, harness, and lanyard can be rented locally in Selva/Ortisei and Cortina for ~€25-30/day).*
+*   **Passport**: Valid for at least 3 months beyond departure date.
+*   **International Driving Permit (IDP)**: **[CRITICAL]** Legally required in Italy to rent and drive a car. You must carry both your home country driving license and your IDP.
+*   **Wise Card**: **[RECOMMENDED]** A physical multi-currency card is highly recommended to easily convert CAD to EUR with mid-market rates and to make low-fee ATM cash withdrawals in Italy.
+*   **Cash (Euros)**: **[CRITICAL]** Bring at least **€150–200 in cash per person**. Many mountain rifugios (e.g., Geisleralm, Averau, Nuvolau, Locatelli) have poor cellular reception, meaning card readers fail frequently. Cash is king in the mountains.
+*   **Travel/Rescue Insurance Card**: Printout of travel health insurance and your **Dolomiti Emergency** rescue certificate.
 
 ---
 
-## 🥾 2. Hiking Clothing & Footwear (Dolomites)
-*September weather in the Dolomites is unpredictable. Days can range from warm and sunny (20°C / 68°F) to freezing, windy, and wet (0°C / 32°F) on high passes.*
+## ⛰️ Hiking & Navigation Gear
 
-### Footwear
-* **Hiking Boots or Trail Runners**: Sturdy footwear with deep lugged soles (Vibram preferred). High-top support is recommended for steep scree slopes.
-* **Merino Wool Hiking Socks (3-4 pairs)**: Prevent blisters, wick moisture, and stay odor-free. Avoid cotton.
-* **Camp/Town Shoes**: Lightweight slides, sandals, or clean sneakers to wear at the hotel and restaurants after hiking.
-
-### Upper Body Layers (The Layering System)
-* **Moisture-Wicking Base Layers (3-4)**: Merino wool or synthetic short/long-sleeve shirts.
-* **Warm Mid-Layer**: Lightweight fleece jacket, fleece pullover, or grid fleece.
-* **Insulated Layer**: Packable down jacket or synthetic puffer (essential for chilly mornings and windy summits).
-* **Weatherproof Outer Shell**: Windproof and waterproof jacket (e.g., Gore-Tex hardshell) with hood.
-
-### Lower Body Layers
-* **Hiking Pants (2-3 pairs)**: Lightweight, quick-dry, stretch-woven pants. Convertible pants are great for temperature shifts.
-* **Rain Pants**: Lightweight, packable waterproof pants (keep in your daypack).
-* **Underwear**: Moisture-wicking synthetic or merino wool underwear.
-
-### Head & Hands
-* **Warm Beanie**: Essential for cold mornings and high altitudes.
-* **Lightweight Gloves/Liners**: Wind-resistant fleece or softshell gloves.
-* **Sun Hat/Cap & Polarized Sunglasses**: High-altitude sun is extremely intense.
+*   **Daypack (20L - 30L)**: With a built-in waterproof rain cover.
+*   **Hiking Boots**: High-cut or mid-cut boots with deep Vibram soles. Make sure they are thoroughly broken in before the trip to avoid blisters.
+*   **Trekking Poles**: Highly recommended to save your knees on steep descents (such as the Lago di Sorapis hike on Day 11).
+*   **Water Bladder / Bottles**: Minimum **2L capacity** per person.
+*   **Offline Navigation Apps**: Download offline areas on **Google Maps** and save GPX routes on **AllTrails** or **Outdooractive** before heading into valleys with no cellular reception.
+*   **Sun & Wind Protection**:
+    *   Polarized sunglasses (intense alpine sun reflection).
+    *   Sunscreen (SPF 50+).
+    *   Lip balm with SPF.
 
 ---
 
-## 🎒 3. Trail Gear & Accessories
-*Items to keep in your daypack during hikes.*
+## 🧗‍♂️ Specialty Gear
 
-* **Daypack (20L - 30L)**: With a supportive hip belt and a waterproof rain cover.
-* **Hydration System**: Reusable water bottles or a hydration bladder (minimum 2L capacity per person).
-* **Trekking Poles**: Highly recommended to save your knees on steep descents (e.g., Lago di Sorapis, Adolf Munkel Weg). Must be collapsible to fit in airline luggage.
-* **Headlamp**: **Mandatory** for the WWI Lagazuoi Tunnels (Day 7) and useful for emergencies. Bring extra batteries or a charging cable.
-* **Offline Navigation**: Smartphone with downloaded offline maps (AllTrails, maps.me, or Gaia GPS) and GPX routes.
-* **Portable Power Bank**: High-altitude cold temperatures drain phone batteries quickly.
-* **First Aid & Blister Kit**: **Compeed/blister cushions** (essential), athletic tape, ibuprofen/pain relievers, band-aids, and personal medication.
-* **Dry Bags/Ziplocs**: To keep electronics, passports, and dry clothes waterproof inside your pack.
-* **Microfiber Travel Towel**: Useful for drying off after rain or at lakes.
+### For Group A (Gran Cir Via Ferrata - Day 6)
+*   **Climbing Harness**: Standard adjustable harness.
+*   **Climbing Helmet**: Certified climbing helmet (mandatory to protect against falling rocks).
+*   **Via Ferrata Lanyard**: Certified energy-absorbing lanyard set (Y-system with two auto-locking carabiners).
+*   **Climbing Gloves**: Full-finger or fingerless leather gloves (essential to protect your hands from frayed steel cables and cold metal).
+*   *Note: All via ferrata gear sets can be rented in Ortisei/Selva for ~€25-30/day.*
 
----
-
-## 💶 4. Daily Essentials & Logistics
-* **Cash (Euros)**: **CRITICAL.** Many mountain rifugios (alpine huts) have poor or no cell service, making credit card terminals useless. Carry at least **€50–100 in cash per person daily** for lunch, drinks, and trail snacks.
-* **Passport & Documents**: Hard copy and digital copies of passport, flight tickets, hotel reservations, and car rental confirmation.
-* **International Driving Permit (IDP)**: Required by law for driving in Italy (keep with your driver's license).
-* **Travel Insurance Card**: Ensure it covers high-altitude hiking up to 3,000m.
+### For Lagazuoi Tunnels (Day 7)
+*   **Headlamp or Strong Flashlight**: **[MANDATORY]** The WWI tunnel descent at Lagazuoi is a steep, wet, completely pitch-black staircase carved inside the mountain. You cannot safely navigate it without hands-free light. Bring a spare battery or power bank.
 
 ---
 
-## 🌆 5. City & Concert Travel (Venice & Madrid)
-*Gear for walking the canals of Venice and attending the ANYMA concert in Madrid.*
+## 🥼 Clothing & Layering System
+Dolomites weather in mid-September can quickly transition from warm, sunny valley days (20°C) to freezing, windy conditions on high peaks (0°C or snow). **Layering is essential.**
 
-* **Casual City Outlets**: Lightweight, comfortable clothes for warm city temperatures.
-* **Comfortable City Walking Shoes**: You will rack up 15k+ steps a day on cobblestones in Venice and Madrid.
-* **Electronic Concert Gear**: Lightweight, breathable outfit for the ANYMA presents ÆDEN show.
-* **Europe Power Adapters**:
-  - **Type C / L** (Italy - note that Type L has three prongs in a line, but Type C fits most modern sockets).
-  - **Type C / F** (Spain).
-* **Toiletries & Personal Hygiene**: Sunscreen (SPF 50+), lip balm with SPF, moisturizer (mountain air is very dry), travel shampoo, toothbrush, and toothpaste.
+*   **Base Layer**: Moisture-wicking synthetic or merino wool t-shirts (avoid cotton, which stays wet and cold).
+*   **Insulating Mid-Layer**: Lightweight fleece jacket, fleece pullover, or packable down jacket (crucial for summit rests).
+*   **Weatherproof Outer Shell**: Windproof and waterproof GORE-TEX jacket (essential for mountain wind).
+*   **Hiking Pants**: Sturdy, breathable, quick-dry pants. Zip-off convertible pants are great for fluctuating temperatures.
+*   **Merino Wool Hiking Socks**: 3–4 pairs. Prevents friction and blisters.
+*   **Cold-Weather Accessories**: Warm beanie/hat and lightweight gloves (peaks get cold very quickly).
+*   **Casual Wear**: Outfits for evenings in Venice, Ortisei, Cortina, and Madrid.
+
+---
+
+## 🔌 Electronics & Accessories
+
+*   **Power Bank**: Minimum 10,000 mAh to recharge phones/cameras on long hiking days.
+*   **European Plug Adapters**: **Type C** (standard Europlug) and **Type L** (three-prong Italian plug).
+*   **Camera / GoPro**: With extra SD cards.
+*   **Dry Bag / Ziploc Bags**: To keep electronics dry inside your backpack in case of heavy downpours.
+
+---
+
+## 🩹 First Aid & Personal Care
+
+*   **Blister Plasters (Compeed)**: **[MANDATORY]** Bring multiple sizes. The steep descents will test your feet.
+*   **Personal Medications**: Enough supply for the entire duration.
+*   **Pain Relievers & Anti-inflammatories**: Ibuprofen or Acetaminophen.
+*   **Hand Sanitizer & Wet Wipes**: Huts sometimes lack running water.
+*   **Microfiber Travel Towel**: Compact and quick-drying.

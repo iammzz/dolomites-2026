@@ -63,8 +63,9 @@ Today you shift your base from the Western to the Eastern Dolomites. Instead of 
 ### Key Logistics Notes
 
 * **Baggage Security**: You will have your luggage in the car all day. Park in high-visibility areas, lock doors, and try to keep bags covered in the trunk. The Dolomites are very safe, but standard transit-day precautions apply.
+* **ZTL & Parking in Cortina**: Cortina's town center (especially around the main pedestrian avenue, Corso Italia) has strictly enforced ZTL (Limited Traffic Zone) cameras. Make sure you know the exact route to your hotel's private parking. If the hotel is located inside the ZTL, you **must** register your vehicle's license plate with the hotel front desk immediately upon arrival to whitelist it from automated fines.
 * **Weather Dependency**: High-altitude cable cars (Marmolada, Sass Pordoi) are pointless in heavy clouds. If visibility is zero, skip the cable cars and enjoy the driving route. 
-* **Tunnel Walk**: If you decide to do the Lagazuoi tunnel walk, you **must** have a headlamp (phone flashlights are not enough) and decent hiking shoes. The tunnels are dark, steep, and wet. You can rent helmets/lamps at the cable car station.
+* **Tunnel Walk**: If you decide to do the Lagazuoi tunnel walk, you **must** have a headlamp (phone flashlights are not enough, as you need hands free to hold the safety cables) and decent hiking shoes. The tunnels are dark, steep, and wet. You can rent helmets/lamps at the cable car station. Refer to the [packing list](packing_list.md) for tunnel gear specifications.
 
 ---
 
