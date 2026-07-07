@@ -3,17 +3,13 @@
 This page tracks all outstanding items required to successfully execute the trip. 
 
 !!! danger "CRITICAL ACTION REQUIRED"
-    **Flights and Hotels have NOT been booked yet!** These are the highest priority items as prices will increase significantly and availability will drop. *(Note: Rental Car is successfully booked).*
+    **Flights and remaining Hotel Bases (Val Gardena, Cortina, Venice Return, Madrid) have NOT been booked yet!** These are the highest priority items. *(Note: Rental Car, Venice arrival hotel, and Madrid concert tickets are booked).*
 
 ## 🚨 Phase 1: Book ASAP (Right Now)
 - [ ] **Book Flights**: [Air Transat](https://www.airtransat.com) / [Google Flights](https://www.google.com/flights)
   - *Outbound*: 🟢 **BOOKED** (Entire group is booked on TS 306).
-  - *Intra-Europe*: 🟡 **PARTIALLY BOOKED** (Matthew, Emma, Kevin booked on Ryanair FR1207, Ref: **T4P9FG**; Sunny & Kevin He need to book).
+  - *Intra-Europe*: 🟡 **PARTIALLY BOOKED** (Matthew, Emma, Kevin booked on Ryanair FR1207; Sunny & Kevin He need to book).
   - *Return*: Entire group needs to book Madrid → Toronto for Sept 27.
-- [x] **Book Rental Car**: Booked with National Car Rental
-  - *Nuance*: Pickup/Drop-off at Venice Mestre Rail Station (VCE). Ensure it has an **automatic transmission** (manuals are brutal on these mountain passes) and physically fits all 5 of you plus your heavy luggage.
-- [ ] **Book Venice Hotel**: [Booking.com](https://www.booking.com)
-  - *Nuance*: 1 night (Sept 12). If picking up the car on arrival, book a hotel in Mestre (mainland) rather than Venice Island, as you cannot drive a car onto the island.
 - [ ] **Book Val Gardena Base**: [ValGardena.it](https://www.valgardena.it) or [Booking.com](https://www.booking.com)
   - *Nuance*: 5 nights (Sept 13 - Sept 18). Target Ortisei or Selva. Ensure the property has dedicated parking.
 - [ ] **Book Cortina Base**: [Booking.com](https://www.booking.com)
@@ -22,8 +18,6 @@ This page tracks all outstanding items required to successfully execute the trip
   - *Nuance*: 2 nights (Sept 23 - Sept 25) on Venice Island.
 - [ ] **Book Madrid Base**: [Airbnb / Booking.com]
   - *Nuance*: 2 nights (Sept 25 - Sept 27). Decide on a neighborhood (Malasaña, Chueca, Centro, etc.).
-- [x] **Madrid Concert Tickets**: Booked ANYMA presents ÆDEN tickets.
-  - *Nuance*: Electronic concerts sell out instantly. Secure the Anyma tickets as soon as they drop.
 
 ## 📅 Phase 2: Book 2-3 Months Out (June - July 2026)
 - [ ] **International Driving Permit (IDP)**: [AAA IDP Portal](https://www.aaa.com/vacation/idpf.html)
@@ -51,3 +45,17 @@ This page tracks all outstanding items required to successfully execute the trip
   - *Nuance*: Many mountain rifugios are **cash-only** due to poor cell service for card machines. 
 - [ ] **Review Trail Conditions**: [AllTrails](https://www.alltrails.com/)
   - *Nuance*: Check AllTrails and local tourism boards for trail closures or weather warnings right before you fly.
+
+## ✅ Completed Bookings & Tasks
+
+<details>
+<summary><b>Show Completed Bookings & Tasks</b></summary>
+
+- [x] **Book Venice Hotel**: Venice-Mestre Beautiful Apartment
+  - *Nuance*: 1 night (Sept 12) in Mestre. Conveniently located near the station for the car pickup on Day 2.
+- [x] **Book Rental Car**: Booked with National Car Rental
+  - *Nuance*: Pickup/Drop-off at Venice Mestre Rail Station (VCE). Ensure it has an **automatic transmission** (manuals are brutal on these mountain passes) and physically fits all 5 of you plus your heavy luggage.
+- [x] **Madrid Concert Tickets**: Booked ANYMA presents ÆDEN tickets.
+  - *Nuance*: Electronic concerts sell out instantly. Secure the Anyma tickets as soon as they drop.
+
+</details>

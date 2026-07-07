@@ -9,8 +9,8 @@ After a long travel day and navigating Italian highways, today is about slowing 
 
 ## 🚗 Morning: Car Pickup & The Drive North
 Since your car rental starts at 12:00 PM, enjoy a slow morning in Mestre.
-* **10:00 AM**: Grab a leisurely breakfast and check out of your hotel.
-* **12:00 PM**: Head to **Venice Mestre Rail Station** to pick up your National Car Rental. Make sure you inspect the car and load all the luggage comfortably.
+* **10:00 AM**: Grab a leisurely breakfast and check out of your hotel (**Venice-Mestre Beautiful Apartment**) in the pedestrian center of Mestre (around Piazza Ferretto).
+* **11:30 AM**: Head to **Venice Mestre Rail Station** to pick up your National Car Rental. The station is about 2–2.5 km away (a 20-30 min walk or a 5-10 min local bus, tram, or taxi ride from the apartment). Make sure you inspect the car and load all the luggage comfortably.
 * **12:30 PM - 3:30 PM**: Drive North! It's approximately a 3-hour drive from Mestre to Val Gardena (Ortisei). The drive is easy highway (A4 → A22 Brenner Motorway) at first, transitioning into stunning winding mountain passes once you exit at Chiusa/Val Gardena. The last 30 minutes through the gorge into Val Gardena are beautiful — enjoy it!
 
 ## 🏔️ Afternoon: Arrival & Settling In (1–1.5 hrs active)

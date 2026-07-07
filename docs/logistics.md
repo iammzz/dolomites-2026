@@ -8,17 +8,16 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 * **Outbound**: Toronto (YYZ) to Venice (VCE)
   * *Status*: 🟢 **BOOKED (Entire Group)**
   * *Airline*: Air Transat (Flight TS 306)
-  * *Booking Ref*: **KLEQPK** (Emma, Matthew, Kevin) / *Pending Ref* (Sunny, Kevin He)
+  * *Booking Ref*: Confirmed (Emma, Matthew, Kevin) / *Pending* (Sunny, Kevin He)
   * *Schedule*: Departs YYZ Terminal 3 on Fri, Sept 11 at 21:10. Arrives VCE on Sat, Sept 12 at 11:30.
   * *Passengers*: Emma Zeng, Matthew Zhang, Kevin Yuan, Sunny, Kevin He
   * *Baggage Note*: Eco Budget fare — includes 1 carry-on and 1 personal item. **No checked bags included.**
 * **Intra-Europe**: Venice (VCE) to Madrid (MAD)
   * *Status*: 🟡 **PARTIALLY BOOKED** (Matthew, Emma, Kevin booked; Sunny, Kevin He pending)
   * *Airline*: Ryanair (Flight FR1207)
-  * *Booking Ref*: **T4P9FG**
+  * *Booking Ref*: Confirmed
   * *Schedule*: Departs VCE on Fri, Sept 25 at 09:20. Arrives MAD at 12:00.
   * *Passengers*: Matthew Ming Zhou Zhang, Yi Yang Zeng, Liang Kun Yuan
-  * *Cost*: $274.93 USD total (Visa ending in 9196)
   * *Baggage Note*: Priority & 2 Cabin Bags.
 * **Return**: Madrid (MAD) to Toronto (YYZ)
   * *Status*: 🔴 **NOT BOOKED**
@@ -37,10 +36,17 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 
 ## 🏨 Accommodation
 
-### Base 1: Venice (1 Night)
+### Base 1: Venice/Mestre (1 Night)
 * **Dates**: Sept 12 - Sept 13
-* **Location**: Venice Island or Mestre
-* *Status*: 🔴 **NOT BOOKED**
+* **Accommodation**: [Venice-Mestre Beautiful Apartment](https://www.booking.com)
+* **Address**: Via della Brenta Vecchia, 34, 30171 Mestre, Italia
+* **Phone**: +39 379 218 2489
+* **GPS Coordinates**: N 045° 29.459, E 12° 14.455
+* *Status*: 🟢 **BOOKED**
+* **Check-in**: Sat, Sept 12, 14:00 - 21:00 (Special request: arrival planned between 12:00 - 13:00)
+* **Check-out**: Sun, Sept 13, before 10:00
+* **Details**: Two-Bedroom Apartment for 5 adults (Guest: Matthew Zhang)
+* **Parking**: Private parking available nearby without reservation
 
 ### Base 2: Val Gardena / West (5 Nights)
 * **Dates**: Sept 13 - Sept 18
@@ -84,5 +90,5 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
   * *Location*: Venue to be announced (Madrid, España)
   * *Status*: 🟢 **BOOKED (3 Tickets)**
   * *Tickets*: Yi Yang Zeng, Matthew Zhang, Shu Cheng (Purchased by Emma Z)
-  * *Cost*: €89.00 each
+  * *Cost*: Paid
   * *Note*: QR codes for tickets will be available starting Sept 24, 2026 at 17:00.
