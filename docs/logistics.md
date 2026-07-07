@@ -75,6 +75,7 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 * **Tre Cime Toll Road**: Pay on arrival (no pre-booking).
 * **DoloMithes Spa Passes**: 🔴 **NOT BOOKED**
 * **Via Ferrata Gear Rental**: Rent locally in Ortisei and Cortina.
+* **Val Gardena Lifts (Gardena Card)**: Individual lift tickets are recommended instead of the pass. See the [Gardena Card Cost-Benefit Analysis](research.md#gardena-card-cost-benefit-analysis-summer-2026) for details.
 * **E-Bike Rentals (Compatsch / Alpe di Siusi)**: 🔴 **NOT BOOKED**
   * *[Alpin Center (Bike Rent Lodge)](https://www.alpincenter.it/)*: ~€65-€80/day | **Distance**: 0m (Located directly in the main Compatsch parking lot P2).
   * *[Sport Hans](https://www.sporthans.com/en/)*: ~€60-€80/day | **Distance**: 200m from main parking.
