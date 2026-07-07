@@ -24,8 +24,7 @@ This page tracks all outstanding items required to successfully execute the trip
   - *Nuance*: Legally required to carry an IDP to rent a car in Italy. Processing times by mail can take 4-6 weeks, so get this done early summer.
 - [ ] **E-Bike Rentals (Alpe di Siusi)**: [Sport Hans](https://www.sporthans.com/en/) or [Alpin Center](https://www.alpincenter.it/)
   - *Nuance*: Reserve E-bikes in advance for the Alpe di Siusi day. It is highly recommended to rent directly in **Compatsch** (at the top of the plateau) so you don't have to carry bikes up the gondola from Ortisei. Both of these shops are right by the cable car station.
-- [ ] **Book Paragliding**: [Fly2 Dolomites](http://www.fly2.info)
-  - *Nuance*: Highly weather dependent. Book early to secure a slot, but be prepared to shift the day. Cost is around €110-€290.
+- [ ] **Research Via Ferrata Gear Rentals**: Research and identify rental shops in Ortisei (e.g., Sport Kostner, Sport Bruno Riffeser) and Cortina (e.g., Snow Service) for helmets, harnesses, and lanyards to map out logistics and confirm pricing/reservation rules.
 - [ ] **Book Spa Passes**: [QC Terme Dolomiti](https://www.qcterme.com/en/val-di-fassa/qc-terme-dolomiti)
   - *Nuance*: Needed for the relax group on Split Days. Spas have capacity limits.
 - [ ] **Book Key Restaurants**: 

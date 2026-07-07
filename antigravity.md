@@ -1,52 +1,125 @@
-# 🏔️ Dolomites 2026 Planning: Antigravity IDE Workflow Instructions
+# 🏔️ Trip Planning & Website Deployment: Antigravity Master Blueprint
 
-This file documents where our planning workflow stands and provides the exact prompts you can use to continue designing your itinerary in the IDE.
-
----
-
-## 📊 Current Status
-
-We have completed the detailed day-by-day analysis and logistic mapping for the **Eastern Dolomites (Cortina d'Ampezzo base)** portion of your trip:
-
-*   **Day 1 (Sept 13)**: Venice $\rightarrow$ Prosecco Hills $\rightarrow$ Cortina d'Ampezzo (Arrival)
-*   **Day 2 (Sept 14)**: Cinque Torri + Rifugios Averau & Nuvolau + Passo Giau Drive
-*   **Day 3 (Sept 15)**: Tre Cime di Lavaredo + Cadini di Misurina Viewpoint
-*   **Day 4 (Sept 16)**: Lago di Sorapis Hike
-*   **Day 5 (Sept 17)**: Croda da Lago Circuit (Lago Federa) — *Newly added to fill a previous blank day*
-*   **Day 6 (Sept 18)**: Lago di Braies (Pragser Wildsee) + Afternoon Scenic Loop
-
-The detailed logistics, including hour-by-hour schedules, A $\rightarrow$ B drive times/distances, and hike specifications, are saved in:
-*   `day1_detail.md` through `day6_detail.md`
-*   `dolomites_itinerary_analysis.md` (overall analysis)
+This document serves as a complete, reusable blueprint for planning trips, building interactive travel websites, and deploying them to GitHub Pages using the Antigravity IDE workflow. You can copy this file into any future planning repository to establish the exact same structure and workflow.
 
 ---
 
-## 🎯 Next Steps: Western Dolomites (Sept 19 – Sept 24)
+## 🏗️ 1. Repository Architecture & Layout
 
-The second half of your trip transitions to the **Western Dolomites (Val Gardena base)**. The remaining days to map out are:
+An Antigravity trip planning project is structured as a static website using **MkDocs** with the **Material Theme**. 
 
-*   **Sept 19 (Saturday)**: Transit day from Cortina to Val Gardena (via Lagazuoi & Marmolada)
-*   **Sept 20 (Sunday)**: Val di Funes (Adolf Munkel Weg)
-*   **Sept 21 (Monday)**: Seiser Alm (Alpe di Siusi)
-*   **Sept 22 (Tuesday)**: Seceda Ridge Walk + Sella Pass Drive
-*   **Sept 23 (Wednesday)**: Sass Pordoi / Piz Boé (or alternative)
-*   **Sept 24 (Thursday)**: Last full day in Val Gardena (currently marked as a "super slow day" in your sheet)
-*   **Sept 25 (Friday)**: Transit back to Venice and flight to Madrid
+```
+├── .agents/
+│   └── AGENTS.md               # Custom agent rules & styling enforcement
+├── .github/
+│   └── workflows/
+│       └── main.yml            # CI/CD deployment workflow (GitHub Pages)
+├── docs/
+│   ├── assets/
+│   │   ├── data/
+│   │   │   └── my_maps_import.csv # Map pins database (Lat, Lng, Day, Category)
+│   │   └── images/             # Static map graphics or photos
+│   ├── day1_*.md               # Daily detailed itineraries
+│   ├── index.md                # Site welcome page & overview table
+│   ├── logistics.md            # Flight/Hotel/Car bookings status & information
+│   ├── maps.md                 # Interactive Leaflet maps routing page
+│   ├── potential_activities.md # Dropped/back-pocket activities vault
+│   └── todo.md                 # Checked-off phase list & completed bookings
+├── CNAME                       # GitHub Pages custom domain configuration
+└── mkdocs.yml                  # Site navigation, layout, & markdown extensions
+```
+
+### 🗺️ Dynamic Leaflet.js Map Integration
+The maps page (`docs/maps.md`) and index page (`docs/index.md`) feature interactive map integrations powered by **Leaflet.js** and **PapaParse**. This setup reads coordinates directly from `docs/assets/data/my_maps_import.csv`, meaning you only need to update the CSV to add pins to the maps:
+
+* **Leaflet Setup**:
+  ```html
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+  ```
+* **Map Rendering script**:
+  ```javascript
+  L.map('map').setView([lat, lng], zoom);
+  // Parse CSV and draw markers based on Category (Base/Hike/Activity)
+  ```
 
 ---
 
-## 💬 Prompts to Continue the Workflow
+## 🧳 2. Logistics & Privacy-First Tracking
 
-You can copy and paste the following prompts directly to the Antigravity assistant in the IDE:
+To keep planning organized while keeping personal details secure on the public web:
 
-### Prompt 1: Generate Western Dolomites Itinerary
-> "I have my eastern days set up in `day1_detail.md` through `day6_detail.md`. I want to build the remaining days (Sept 19 to Sept 25) for the western part of the Dolomites (Val Gardena base) using the same format. Look at my Google Sheet (or `dolomites_itinerary_analysis.md`) and the Earth Trekkers itinerary to draft detailed day files for Days 7 to 12. Specifically cover the A to B drive logistics, trail stats (km, elevation, time), and a proposed hour-by-hour schedule."
+1. **Booking Phases**: Group all to-dos into time-sensitive stages:
+   * **Phase 1: Book ASAP** (Flights, Rental Car, Hotel Bases).
+   * **Phase 2: Book 2-3 Months Out** (IDP, E-Bike rentals, Spas, key restaurant reservations).
+   * **Phase 3: Book 30 Days Out** (Strict permit/parking windows like Tre Cime or Lago di Braies).
+   * **Phase 4: Book 1 Week Out / On Arrival** (Cable car tickets, gear rentals, cash).
+2. **Privacy Enforcement**: Never push sensitive booking data to the repository. Follow these conventions:
+   * **Booking References**: Replace actual PNR codes (e.g., `KLEQPK`, `T4P9FG`) with `Confirmed` or `Confirmed (Matthew, Emma, etc.)`.
+   * **Costs & Cards**: Completely omit transaction totals, cleaning fees, and card numbers (e.g., `Visa ending in 9196`). Use `Paid` or omit the cost lines.
+   * **Completed bookings**: Move booked items into a `<details>` fold-out section at the bottom of `docs/todo.md` to keep the active section uncluttered.
 
-### Prompt 2: Optimize Transit Day (Sept 19)
-> "Review the plan for Sept 19 (transit from Cortina to Val Gardena). I want to combine the Lagazuoi tunnels walk and a cable car trip up Marmolada. Let's write a detailed itinerary file `day7_detail.md` optimizing the drive route, timings, and logistics for this transition."
+---
 
-### Prompt 3: Restructure the Slow Day (Sept 24)
-> "On Sept 24, my schedule is currently marked as 'super slow day' with only a short Via Ferrata and Urtijëi. Earth Trekkers recommends the Puez-Odle Altopiano hike (gondola-assisted 17km). Can you write a detailed markdown day file comparing both options so I can decide how to fill this last full day?"
+## 🤖 3. Custom Agent Rules (`.agents/AGENTS.md`)
 
-### Prompt 4: Create a Bookings and Reservation Checklist
-> "Since 2026 is an Olympic year, bookings will be highly competitive. Write a consolidated master markdown document (`bookings_checklist.md`) mapping out every reservation I need to make for both the Eastern and Western Dolomites, including Tre Cime parking, Lago di Braies access, cable car passes, and deadlines for each."
+Equip the project with a workspace-scoped rules file in `.agents/AGENTS.md`. Antigravity will automatically discover and enforce these style guidelines:
+
+* **Logistics Auto-Sync**: Whenever a change is made to an itinerary, the agent must automatically cross-check and synchronize `index.md`, `todo.md`, `logistics.md`, and the daily itinerary pages.
+* **Dining Enforcements**: Every daily itinerary page (where location changes) must have a `"🍽️ Dining & Restaurant Options"` section at the bottom featuring 5–6 curated choices with: Drive distance, Food type, Typical price, Google Maps link, and recommendation details.
+* **Deep Activity Research**: Activity descriptions must avoid generic placeholders and provide granular times (physical effort vs. lounging), trailhead parking fees, access restrictions, and direct URLs to specific guides (AllTrails or blog posts).
+* **Auto-Push Policy**: Stage, commit, and push modifications to remote repository branches immediately to maintain live website builds without requiring separate prompts.
+
+---
+
+## 🔄 4. Step-by-Step Planning Workflow
+
+1. **Step 1: Raw Schedule Skeleton**: Write down the date, day of week, base town, and draft activity in `sheet.csv` or a central table.
+2. **Step 2: Initialize Docs**: Set up `mkdocs.yml` navigation and create daily markdown files (e.g., `docs/day1_*.md`).
+3. **Step 3: Define Logistics & Checklists**: Populate `docs/logistics.md` and `docs/todo.md` with flights, accommodation requirements, and bookings checklist.
+4. **Step 4: Draft Day Details**: Ask Antigravity to build detailed files for each day. Guide the agent to include:
+   * Hour-by-hour schedules.
+   * Drive times/distances (Google Maps link routes).
+   * Detailed trail stats (km, elevation, difficulty).
+5. **Step 5: Map Coordinates**: Extract latitudes and longitudes for each major stop and save them to `docs/assets/data/my_maps_import.csv` to populate the Leaflet map.
+6. **Step 6: Build & Test Links**: Run the link-checker python script to resolve any broken URLs.
+
+---
+
+## 🛠️ 5. Development & Deployment
+
+### Local Development
+1. Install Python dependencies:
+   ```bash
+   pip install mkdocs mkdocs-material
+   ```
+2. Run the local dev server:
+   ```bash
+   mkdocs serve
+   ```
+3. Open `http://127.0.0.1:8000` in your browser to preview changes in real time.
+
+### CI/CD Deployment to GitHub Pages
+Any changes pushed to the `main` branch will automatically build and deploy the static site to the `gh-pages` branch using GitHub Actions (`.github/workflows/main.yml`):
+```yaml
+name: Deploy MkDocs
+on:
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+      - run: pip install mkdocs-material 
+      - run: mkdocs gh-deploy --force
+```
+
+*(Note: Ensure that GitHub Pages is set to deploy from the `gh-pages` branch in the settings of your repository on GitHub).*

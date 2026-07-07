@@ -73,7 +73,6 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 
 ## 🎟️ Activities & Permits
 * **Tre Cime Toll Road**: Pay on arrival (no pre-booking).
-* **Paragliding in Val Gardena**: 🔴 **NOT BOOKED**
 * **DoloMithes Spa Passes**: 🔴 **NOT BOOKED**
 * **Via Ferrata Gear Rental**: Rent locally in Ortisei and Cortina.
 * **E-Bike Rentals (Compatsch / Alpe di Siusi)**: 🔴 **NOT BOOKED**
