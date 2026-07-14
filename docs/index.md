@@ -59,39 +59,39 @@ document.addEventListener("DOMContentLoaded", function() {
 ### 🛬 Venice Arrival (Base: Mestre)
 | Day | Core Activities | Est. Time Out | Intensity |
 |-----|-----------------|---------------|-----------|
-| [**Day 1**](day1_venice_val_gardena_arrival.md) | Arrival at VCE, settle in Mestre, optional cicchetti | ~4 hrs | ⭐ |
+| [**Day 1**](day1_venice_val_gardena_arrival.md) (Sept. 12) | Arrival at VCE, settle in Mestre, optional cicchetti | ~4 hrs | ⭐ |
 
 ### ⛰️ Western Dolomites (Base: Val Gardena)
 | Day | Core Activities | Est. Time Out | Intensity |
 |-----|-----------------|---------------|-----------|
-| [**Day 2**](day2_ortisei_acclimatization.md) | Pick up rental car, drive to Ortisei, explore town | ~5 hrs | ⭐⭐ |
-| [**Day 3**](day3_val_di_funes.md) | Hike Adolf Munkel Weg, Santa Maddalena viewpoints | ~7 hrs | ⭐⭐⭐ |
-| [**Day 4**](day4_alpe_di_siusi.md) | E-biking Alpe di Siusi plateau, Castelrotto village | ~8 hrs | ⭐⭐⭐⭐ |
-| [**Day 5**](day5_seceda_ridge.md) | Seceda cable car, hike the postcard ridge | ~6 hrs | ⭐⭐⭐ |
-| [**Day 6**](day6_west_split.md) | Gran Cir Via Ferrata (Thrill) OR Town/Spa (Relax) | ~8 hrs | ⭐⭐⭐⭐⭐ *(or ⭐)* |
+| [**Day 2**](day2_ortisei_acclimatization.md) (Sept. 13) | Pick up rental car, drive to Ortisei, explore town | ~5 hrs | ⭐⭐ |
+| [**Day 3**](day3_val_di_funes.md) (Sept. 14) | Hike Adolf Munkel Weg, Santa Maddalena viewpoints | ~7 hrs | ⭐⭐⭐ |
+| [**Day 4**](day4_alpe_di_siusi.md) (Sept. 15) | E-biking Alpe di Siusi plateau, Castelrotto village | ~8 hrs | ⭐⭐⭐⭐ |
+| [**Day 5**](day5_seceda_ridge.md) (Sept. 16) | Seceda cable car, hike the postcard ridge | ~6 hrs | ⭐⭐⭐ |
+| [**Day 6**](day6_west_split.md) (Sept. 17) | Gran Cir Via Ferrata (Thrill) OR Town/Spa (Relax) | ~8 hrs | ⭐⭐⭐⭐⭐ *(or ⭐)* |
 
 ### 🚗 The Epic Transit Day
 | Day | Core Activities | Est. Time Out | Intensity |
 |-----|-----------------|---------------|-----------|
-| [**Day 7**](day7_val_gardena_cortina_transit.md) | Drive Sella Pass, Marmolada cable car, Lagazuoi tunnels | ~9 hrs | ⭐⭐ |
+| [**Day 7**](day7_val_gardena_cortina_transit.md) (Sept. 18) | Drive Sella Pass, Marmolada cable car, Lagazuoi tunnels | ~9 hrs | ⭐⭐ |
 
 ### 🏔️ Eastern Dolomites (Base: Cortina d'Ampezzo)
 | Day | Core Activities | Est. Time Out | Intensity |
 |-----|-----------------|---------------|-----------|
-| [**Day 8**](day8_cinque_torri_passo_giau.md) | Cinque Torri WWI loop, Passo Giau sunset | ~7 hrs | ⭐⭐⭐ |
-| [**Day 9**](day9_tre_cime_cadini.md) | Tre Cime di Lavaredo loop, Cadini di Misurina | ~8 hrs | ⭐⭐⭐⭐ |
-| [**Day 10**](day10_east_split.md) | Alpini Via Ferrata (Thrill) OR Lago di Misurina (Relax) | ~8 hrs | ⭐⭐⭐⭐⭐ *(or ⭐)* |
-| [**Day 11**](day11_lago_di_sorapis.md) | Hike to glacial Lago di Sorapis | ~7 hrs | ⭐⭐⭐⭐⭐ |
+| [**Day 8**](day8_cinque_torri_passo_giau.md) (Sept. 19) | Cinque Torri WWI loop, Passo Giau sunset | ~7 hrs | ⭐⭐⭐ |
+| [**Day 9**](day9_tre_cime_cadini.md) (Sept. 20) | Tre Cime di Lavaredo loop, Cadini di Misurina | ~8 hrs | ⭐⭐⭐⭐ |
+| [**Day 10**](day10_east_split.md) (Sept. 21) | Alpini Via Ferrata (Thrill) OR Lago di Misurina (Relax) | ~8 hrs | ⭐⭐⭐⭐⭐ *(or ⭐)* |
+| [**Day 11**](day11_lago_di_sorapis.md) (Sept. 22) | Hike to glacial Lago di Sorapis | ~7 hrs | ⭐⭐⭐⭐⭐ |
 
 ### 🛶 Venice Return (Base: Venice Island)
 | Day | Core Activities | Est. Time Out | Intensity |
 |-----|-----------------|---------------|-----------|
-| [**Day 12**](day12_venice_arrival.md) | Drop car in Mestre, water taxi to Island, wandering | ~5 hrs | ⭐ |
-| [**Day 13**](day13_venice_full_day.md) | St. Mark's Basilica, Doge's Palace, Rialto Bridge | ~8 hrs | ⭐⭐ |
+| [**Day 12**](day12_venice_arrival.md) (Sept. 23) | Drop car in Mestre, water taxi to Island, wandering | ~5 hrs | ⭐ |
+| [**Day 13**](day13_venice_full_day.md) (Sept. 24) | St. Mark's Basilica, Doge's Palace, Rialto Bridge | ~8 hrs | ⭐⭐ |
 
 ### 🇪🇸 Madrid & Departure (Base: Madrid)
 | Day | Core Activities | Est. Time Out | Intensity |
 |-----|-----------------|---------------|-----------|
-| [**Day 14**](day14_venice_madrid_transit.md) | Flight to MAD, Royal Palace, San Miguel Market | ~6 hrs | ⭐ |
-| [**Day 15**](day15_madrid_anyma.md) | Rest morning, ANYMA presents ÆDEN Concert | ~6 hrs | ⭐⭐ |
-| [**Day 16**](day16_madrid_toronto_departure.md) | Final breakfast, fly home to YYZ | ~3 hrs | 0 (Rest) |
+| [**Day 14**](day14_venice_madrid_transit.md) (Sept. 25) | Flight to MAD, Royal Palace, San Miguel Market | ~6 hrs | ⭐ |
+| [**Day 15**](day15_madrid_anyma.md) (Sept. 26) | Rest morning, ANYMA presents ÆDEN Concert | ~6 hrs | ⭐⭐ |
+| [**Day 16**](day16_madrid_toronto_departure.md) (Sept. 27) | Final breakfast, fly home to YYZ | ~3 hrs | 0 (Rest) |
