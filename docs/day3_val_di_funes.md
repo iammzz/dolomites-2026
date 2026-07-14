@@ -2,6 +2,7 @@
 ## Val di Funes & The Geisler Peaks
 **Base:** Val Gardena (Ortisei/Selva)
 
+[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Ortisei/Zanser+Alm/Santa+Maddalena/Ortisei)
 
 ---
 
@@ -35,7 +36,7 @@ Val di Funes is arguably the most picturesque valley in the entire Dolomites. Th
 
 ## 📌 Logistics & Drive Breakdown
 
-[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Ortisei/Zanser+Alm/Santa+Maddalena/Ortisei)
+
 
 | # | From | To | Distance | Drive Time | Road | Notes |
 |---|------|----|----------|------------|------|-------|

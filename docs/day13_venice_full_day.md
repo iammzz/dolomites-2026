@@ -2,6 +2,8 @@
 ## Venice Highlights
 **Base:** Venice Island
 
+[🗺️ **Venice Island (Piazza San Marco) on Google Maps**](https://www.google.com/maps/search/?api=1&query=Piazza+San+Marco+Venice)
+
 ---
 
 ## 🏛️ Overview

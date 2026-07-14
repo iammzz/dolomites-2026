@@ -2,6 +2,8 @@
 ## Return to Venice
 **Base:** Venice Island
 
+[🗺️ **Google Maps Route (Cortina → Venice Mestre Station)**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Venezia+Mestre)
+
 ---
 
 ## 🏔️ Overview
@@ -9,7 +11,7 @@ Today you pack up your cars, leave the stunning peaks of the Dolomites behind, a
 
 ## 🚗 Morning: The Drive Down & Car Return (~3.5 hrs)
 * **8:30 AM**: Pack the car and check out of your Cortina base. You need to leave early to make it to Mestre by noon.
-* **The Route** (~2.5 hrs driving): You will drive South from Cortina on the A27 highway. It is a very easy, straightforward drive out of the mountains. [🗺️ **Google Maps Route (Cortina → Venice Mestre Station)**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Venezia+Mestre)
+* **The Route** (~2.5 hrs driving): You will drive South from Cortina on the A27 highway. It is a very easy, straightforward drive out of the mountains.
 * **Refueling** (~15 min): Make sure to stop at a gas station near Mestre to fill up the rental car before dropping it off. Returning with a non-full tank incurs steep refueling charges.
 * **12:00 PM**: **Rental Return**: Drop off the car exactly at 12:00 PM at **Venice Mestre Rail Station** (as per your National Car Rental booking). Inspect the car with the agent and get a return receipt.
 

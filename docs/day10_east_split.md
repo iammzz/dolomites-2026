@@ -2,6 +2,9 @@
 ## East Split Day: WWI Via Ferrata vs. Cortina Town
 **Base:** Cortina d'Ampezzo
 
+* [🗺️ **Google Maps Route — Group A (Cortina → Strobel Parking)**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Strobel+Passo+Falzarego)
+* [🗺️ **Google Maps Route — Group B (Cortina → Lago di Braies)**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Lago+di+Braies)
+
 ---
 
 This is your second **Split Day**, allowing the group to choose their own adventure level.
@@ -16,7 +19,7 @@ This is your second **Split Day**, allowing the group to choose their own advent
     * **Difficulty**: ⭐⭐⭐⭐ Intermediate (Steep and exposed, requires physical exertion and pulling yourself up on the cables in places).
     * **Duration**: 4.5 hrs total (Approx. 45 min approach hike from the Strobel parking lot, 2 hrs on the secured cable route climbing through WWI positions, 30 min at the summit enjoying the panorama, and 1.5 hrs descending the hiking trail back to the car).
     * **Required Gear**: Helmet, harness, and via ferrata lanyard. Rent in Cortina the evening before from **Cortina Sport** or **Franz Sports** — typical rental ~€25-30/set.
-    * **Trailhead**: Drive to the **Strobel parking lot** near Passo Falzarego (~25 min from Cortina). Free parking. [🗺️ **Google Maps Route (Cortina → Strobel Parking)**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Strobel+Passo+Falzarego)
+    * **Trailhead**: Drive to the **Strobel parking lot** near Passo Falzarego (~25 min from Cortina). Free parking.
 
 === "☕ Group B: The Relaxers (Cortina d'Ampezzo)"
 
@@ -25,7 +28,7 @@ This is your second **Split Day**, allowing the group to choose their own advent
 
     * **Morning** (~2 hrs): Sleep in and stroll down **Corso Italia**, the main pedestrian shopping street lined with high-end boutiques, cafés, and gelaterias. Grab a late breakfast at one of the outdoor terraces.
     * **Midday Lunch** (~1.5 hrs): Treat yourself to a luxurious sit-down lunch at one of Cortina's upscale restaurants — you've been eating trail food for days.
-    * **Afternoon Option** (~2 hrs): Drive 20 minutes to **Lago di Braies** (if you reserved parking in advance — **mandatory online reservation, ~€10/vehicle at [pragsparking.com](https://www.pragsparking.com)**) for a leisurely walk around the stunning emerald-green lake. [🗺️ **Google Maps Route (Cortina → Lago di Braies)**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Lago+di+Braies), or stay in town and explore the Olympic venues.
+    * **Afternoon Option** (~2 hrs): Drive 20 minutes to **Lago di Braies** (if you reserved parking in advance — **mandatory online reservation, ~€10/vehicle at [pragsparking.com](https://www.pragsparking.com)**) for a leisurely walk around the stunning emerald-green lake, or stay in town and explore the Olympic venues.
 
 ---
 

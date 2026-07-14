@@ -2,6 +2,7 @@
 ## The Epic Transit: Val Gardena to Cortina via The Passes
 **Base:** Transit (Val Gardena → Cortina)
 
+[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Ortisei/Passo+Pordoi/Malga+Ciapela/Passo+Falzarego/Cortina+d'Ampezzo)
 
 ---
 
@@ -28,7 +29,7 @@ Today you shift your base from the Western to the Eastern Dolomites. Instead of 
 
 ## 📌 Logistics & Drive Breakdown
 
-[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Ortisei/Passo+Pordoi/Malga+Ciapela/Passo+Falzarego/Cortina+d'Ampezzo)
+
 
 | # | From | To | Distance | Drive Time | Road | Notes |
 |---|------|----|----------|------------|------|-------|

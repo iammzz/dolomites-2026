@@ -2,6 +2,7 @@
 ## The Glacial Lake: Lago di Sorapis
 **Base:** Cortina d'Ampezzo
 
+[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Passo+Tre+Croci/Cortina+d'Ampezzo)
 
 ---
 
@@ -34,7 +35,7 @@ Earth Trekkers rates this as one of the standout hikes of the eastern Dolomites.
 
 ## 📌 Logistics & Drive Breakdown
 
-[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Passo+Tre+Croci/Cortina+d'Ampezzo)
+
 
 | # | From | To | Distance | Drive Time | Road | Notes |
 |---|------|----|----------|------------|------|-------|

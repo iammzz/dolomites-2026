@@ -2,6 +2,8 @@
 ## Arrival in Venice & Logistics Setup
 **Base:** Venice / Mestre
 
+[🏨 **Venice-Mestre Apartment on Google Maps**](https://www.google.com/maps/search/?api=1&query=Via+della+Brenta+Vecchia+34+Mestre)
+
 ---
 
 ## ✅ Main Activity: Arrival & Recovery

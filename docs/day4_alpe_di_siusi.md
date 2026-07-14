@@ -2,6 +2,7 @@
 ## Seiser Alm (Alpe di Siusi) — The Highest Alpine Meadow
 **Base:** Val Gardena (Ortisei/Selva)
 
+[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Ortisei/Compatsch)
 
 ---
 
@@ -35,7 +36,7 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
 
 ## 📌 Logistics & Drive Breakdown
 
-[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Ortisei/Compatsch)
+
 
 | # | From | To | Distance | Drive Time | Road | Notes |
 |---|------|----|----------|------------|------|-------|

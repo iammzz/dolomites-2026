@@ -2,6 +2,7 @@
 ## Tre Cime di Lavaredo + Cadini di Misurina Viewpoint
 **Base:** Cortina d'Ampezzo
 
+[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Rifugio+Auronzo/Lago+di+Misurina/Cortina+d'Ampezzo)
 
 ---
 
@@ -55,7 +56,7 @@ This is the absolute signature hiking day of the Dolomites. Tre Cime di Lavaredo
 
 ## 📌 Logistics & Drive Breakdown
 
-[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Rifugio+Auronzo/Lago+di+Misurina/Cortina+d'Ampezzo)
+
 
 | # | From | To | Distance | Drive Time | Road | Notes |
 |---|------|----|----------|------------|------|-------|

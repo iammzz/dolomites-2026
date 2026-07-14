@@ -2,6 +2,8 @@
 ## ANYMA presents ÆDEN
 **Base:** Madrid
 
+[🗺️ **Madrid Centro (Plaza Mayor) on Google Maps**](https://www.google.com/maps/search/?api=1&query=Plaza+Mayor+Madrid)
+
 ---
 
 ## 🎶 Overview

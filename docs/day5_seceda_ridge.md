@@ -2,6 +2,7 @@
 ## The Postcard Ridge: Seceda to Pieralongia
 **Base:** Val Gardena (Ortisei/Selva)
 
+[🗺️ **Click here to open today's Route in Google Maps**](https://www.google.com/maps/dir/Ortisei/Seceda)
 
 ---
 
@@ -32,7 +33,7 @@ If there is one photograph that defines the Dolomites on Instagram, it's the plu
 
 ## 📌 Logistics & Drive Breakdown
 
-[🗺️ **Click here to open today's Route in Google Maps**](https://www.google.com/maps/dir/Ortisei/Seceda)
+
 
 | # | From | To | Distance | Drive Time | Road | Notes |
 |---|------|----|----------|------------|------|-------|

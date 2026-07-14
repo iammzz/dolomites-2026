@@ -2,6 +2,7 @@
 ## Cinque Torri + Rifugios Averau & Nuvolau + Passo Giau
 **Base:** Cortina d'Ampezzo
 
+[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Baita+Bai+de+Dones/Passo+Giau/Cortina+d'Ampezzo)
 
 ---
 
@@ -49,7 +50,7 @@ This is one of the absolute best days you can have in the Dolomites. It perfectl
 
 ## 📌 Logistics & Drive Breakdown
 
-[🗺️ **Click here to open today's Driving Route in Google Maps**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Baita+Bai+de+Dones/Passo+Giau/Cortina+d'Ampezzo)
+
 
 | # | From | To | Distance | Drive Time | Road | Notes |
 |---|------|----|----------|------------|------|-------|
