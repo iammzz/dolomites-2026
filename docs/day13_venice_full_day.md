@@ -9,12 +9,12 @@ A full day dedicated to the Queen of the Adriatic. With no driving or hiking on 
 
 ## 🕊️ Morning: St. Mark's Square (~3 hrs)
 * **Early Start**: Get out by 8:30 AM before the massive cruise ship crowds arrive (they flood in by 10 AM).
-* **Piazza San Marco** (~30 min): Visit the iconic St. Mark's Square. 
-* **The Doge's Palace** (~1.5 hrs): Highly recommended to **book tickets in advance (~€30/adult)** at [palazzoducale.visitmuve.it](https://palazzoducale.visitmuve.it). Walk across the Bridge of Sighs and see the opulent rooms of the former rulers of Venice.
-* **St. Mark's Basilica** (~45 min): Admire the incredible golden mosaics. **Free entry to the main floor; skip-the-line tickets (€6) highly recommended.**
+* **[Piazza San Marco](https://www.google.com/maps/search/?api=1&query=Piazza+San+Marco+Venice)** (~30 min): Visit the iconic St. Mark's Square. 
+* **[The Doge's Palace](https://www.google.com/maps/search/?api=1&query=Doge%27s+Palace+Venice)** (~1.5 hrs): Highly recommended to **book tickets in advance (~€30/adult)** at [palazzoducale.visitmuve.it](https://palazzoducale.visitmuve.it). Walk across the Bridge of Sighs and see the opulent rooms of the former rulers of Venice.
+* **[St. Mark's Basilica](https://www.google.com/maps/search/?api=1&query=St.+Mark%27s+Basilica+Venice)** (~45 min): Admire the incredible golden mosaics. **Free entry to the main floor; skip-the-line tickets (€6) highly recommended.**
 
 ## 🍕 Midday: Rialto and Lunch
-* **Rialto Bridge**: Walk toward the Rialto Bridge, stopping in small artisan shops along the way.
+* **[Rialto Bridge](https://www.google.com/maps/search/?api=1&query=Rialto+Bridge+Venice)**: Walk toward the Rialto Bridge, stopping in small artisan shops along the way.
 * **Lunch**: Cross the bridge and head into the San Polo district for lunch. Avoid restaurants directly on the main thoroughfares to get better quality and prices.
 
 ## 🚶 Afternoon: Canals or Islands (~3 hrs)

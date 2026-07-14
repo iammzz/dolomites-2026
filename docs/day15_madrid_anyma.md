@@ -10,7 +10,7 @@ Today is the day! You have tickets for **ANYMA presents ÆDEN**. Since electroni
 ## ☕ Morning: Sleep In & Brunch (~2 hrs)
 * **Sleep In**: Take it easy this morning. You don't want to burn yourselves out before the concert.
 * **Brunch** (~1.5 hrs): Find a great brunch spot in Chueca or Malasaña. Madrid's brunch scene is massive — expect elaborate spreads with eggs, avocado toast, fresh juice, and strong coffee.
-* **Shopping/Wandering** (~1 hr): Stroll down **Gran Vía** (Madrid's Broadway) for some shopping, or just people-watch from a café.
+* **Shopping/Wandering** (~1 hr): Stroll down **[Gran Vía](https://www.google.com/maps/search/?api=1&query=Gran+Via+Madrid)** (Madrid's Broadway) for some shopping, or just people-watch from a café.
 
 ## 🥘 Afternoon: The Pre-Game (~3 hrs)
 * **Siesta** (~2 hrs): A true Spanish siesta might be in order this afternoon to ensure you have energy for the night. Go back to the hotel, close the blinds, and sleep.

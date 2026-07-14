@@ -130,6 +130,23 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 
 ---
 
+## 📸 Live Peak Webcams & Weather Portal
+
+Before heading out for high-altitude cable cars or mountain pass drives, always verify local visibility. Checking these live webcams saves you from paying for lift tickets when the summits are completely fogged in.
+
+*   **Seceda (Day 5)**:
+    *   [Val Gardena Seceda Panorama Livecam](https://www.valgardena.it/en/webcams/)
+    *   [Seceda Cableway Upstream Live Cam](https://www.seceda.it/en/live-cam)
+*   **Passo Giau & Cinque Torri (Day 8)**:
+    *   [Passo Giau Live Stream Webcams (Da Aurelio)](https://da-aurelio.it/webcam/)
+*   **Tre Cime di Lavaredo (Day 9)**:
+    *   [Drei Zinnen region Webcams Portal](https://www.drei-zinnen.it/en/webcams.html)
+*   **Micro-Regional Weather Forecasts (More accurate than standard apps)**:
+    *   [Meteotrentino (Val Gardena region)](https://www.meteotrentino.it/)
+    *   [ARPAV Veneto (Cortina / Cadore region)](https://www.arpa.veneto.it/previsioni/it/html/meteo_dolomiti.php)
+
+---
+
 ## 🇪🇸 Madrid (Post-Trip)
 * **ANYMA presents ÆDEN - Madrid**
   * *Dates*: Sept 26 - Sept 27, 2026

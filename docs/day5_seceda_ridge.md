@@ -18,6 +18,7 @@ If there is one photograph that defines the Dolomites on Instagram, it's the plu
 * **The Viewpoint**: The classic Seceda photo spot is literally a 5-minute walk from the upper cable car station. Get there first thing to beat the crowds and clouds.
 * **The Hike**: From the summit, follow Trail 2B along the dramatic ridge edge toward the Pieralongia rock formations. You'll pass the spectacular **Panascharte (Forcella Pana)** — a dramatic notch in the Odle peaks with vertigo-inducing views down both sides. Continue to **Malga Pieralongia**, a rustic hut with friendly donkeys roaming around and great Kaiserschmarrn.
 * **Cable Car**: The Seceda ascent is actually two connected lifts: a gondola from Ortisei to Furnes, then a large cable car to the summit. **Round-trip ticket: ~€74 per adult.** As of 2026, online pre-booking for a specific 30-minute time slot is mandatory — **book at [seceda.it](https://www.seceda.it) as early as possible**, slots sell out quickly on clear days.
+* **Webcam & Weather**: Verify visibility before going up: [Val Gardena Seceda Panorama Livecam](https://www.valgardena.it/en/webcams/) and [Seceda Cableway Upstream Live Cam](https://www.seceda.it/en/live-cam).
 * **Resources**: 
   * [Earth Trekkers: Seceda](https://www.earthtrekkers.com/seceda-dolomites/)
 

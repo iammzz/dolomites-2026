@@ -12,10 +12,10 @@ Today is about making it across the Atlantic, gathering your rental car, and rec
 ### 1. The Airport Logistics (11:30 AM)
 * **Arrival**: Flight TS 306 lands at Venice Marco Polo Airport (VCE) at 11:30 AM.
 * **Customs & Baggage** (~1 hr): Budget around 1 hour to clear EU customs and grab your luggage.
-* **Transit to Hotel** (~20-30 min): Take a direct taxi from the airport to **Venice-Mestre Beautiful Apartment** (Via della Brenta Vecchia, 34). A taxi is approximately €35, which is the most convenient option for a group of 5 with heavy luggage. Alternatively, take the **ATVO Airport Express bus** (~€10) or **ACTV Bus Line 15/45** (~€8) to central Mestre, followed by a short walk or taxi. Do NOT take the water bus, as your base is on the mainland.
+* **Transit to Hotel** (~20-30 min): Take a direct taxi from the airport to **Venice-Mestre Beautiful Apartment** ([Via della Brenta Vecchia, 34, 30171 Mestre](https://www.google.com/maps/search/?api=1&query=Via+della+Brenta+Vecchia+34+Mestre)). A taxi is approximately €35, which is the most convenient option for a group of 5 with heavy luggage. Alternatively, take the **ATVO Airport Express bus** (~€10) or **ACTV Bus Line 15/45** (~€8) to central Mestre, followed by a short walk or taxi. Do NOT take the water bus, as your base is on the mainland.
 
 ### 2. The Check-In (Afternoon)
-* **Check-In**: Settle into **Venice-Mestre Beautiful Apartment** (Via della Brenta Vecchia, 34). A special request has been put in for arrival between 12:00 PM and 1:00 PM (regular check-in is 14:00 - 21:00).
+* **Check-In**: Settle into **Venice-Mestre Beautiful Apartment** ([Via della Brenta Vecchia, 34, 30171 Mestre](https://www.google.com/maps/search/?api=1&query=Via+della+Brenta+Vecchia+34+Mestre)). A special request has been put in for arrival between 12:00 PM and 1:00 PM (regular check-in is 14:00 - 21:00).
     *   **Cost**: €250.00 EUR total (**€50.00 EUR per person per day** split among 5 adults).
 * **Rest**: Check in, unpack, freshen up, and take a much-needed shower/nap.
 

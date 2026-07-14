@@ -16,8 +16,8 @@
 * **Late Lunch / Tapas** (~1.5 hrs): Head straight out for some authentic Spanish food. Try *bocadillo de calamares* (fried squid sandwich) at **La Campana** near Plaza Mayor for ~€3.
 
 ## 👑 Evening: Royal Sights (~2 hrs)
-* **Palacio Real & Almudena** (~1 hr): Walk by the Royal Palace and Almudena Cathedral as the sun sets — they are beautifully illuminated. Free exterior views; interior tours ~€12 if open.
-* **San Miguel Market** (~1 hr): Grab drinks and light bites at the bustling **Mercado de San Miguel** (€€ — not cheap, but the atmosphere is electric). Perfect to end your first night in Spain.
+* **[Palacio Real](https://www.google.com/maps/search/?api=1&query=Palacio+Real+de+Madrid) & [Almudena Cathedral](https://www.google.com/maps/search/?api=1&query=Catedral+de+la+Almudena+Madrid)** (~1 hr): Walk by the Royal Palace and Almudena Cathedral as the sun sets — they are beautifully illuminated. Free exterior views; interior tours ~€12 if open.
+* **[Mercado de San Miguel](https://www.google.com/maps/search/?api=1&query=Mercado+de+San+Miguel+Madrid)** (~1 hr): Grab drinks and light bites at the bustling **Mercado de San Miguel** (€€ — not cheap, but the atmosphere is electric). Perfect to end your first night in Spain.
 
 ---
 

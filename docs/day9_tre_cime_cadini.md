@@ -13,6 +13,8 @@ This is the absolute signature hiking day of the Dolomites. Tre Cime di Lavaredo
 > [!IMPORTANT]
 > **PARKING PRE-BOOKING IS MANDATORY.** Reserve at [pass.auronzo.info](https://pass.auronzo.info) — **€45/vehicle (2026 price)**, which is **€9.00 EUR per individual** split among 5 people. Ticket valid for 12 hours. Arrive at the toll road entrance by **7:15–7:30am** even with a reservation.
 
+* **Webcam & Weather**: Check peak visibility before making the drive up the toll road: [Drei Zinnen region Webcams Portal](https://www.drei-zinnen.it/en/webcams.html).
+
 ### 1. 🏔️ Tre Cime di Lavaredo Loop (Counterclockwise)
 * **Distance**: 8.8–10 km loop
 * **Elevation Change**: ~400–500m
