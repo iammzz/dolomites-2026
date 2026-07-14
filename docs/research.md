@@ -32,7 +32,7 @@ Our group consists of **5 Adults** staying in Val Gardena from **Sept 13 to Sept
 
 #### Option 1: Stick to Planned Itinerary (Driving to Alpe di Siusi)
 *   **Day 4 (Alpe di Siusi):** The group drives up to the Compatsch P2 parking lot before the 9:00 AM road closure. 
-    *   *Cost:* €30.00 parking per car (approx. **€6.00 per person**). No lift tickets needed.
+    *   *Cost:* €26.50 parking per car (approx. **€5.30 per person** split among 5). No lift tickets needed.
 *   **Day 5 (Seceda):** Everyone rides the Seceda cable car.
     *   *Cost:* **€74.00 per person**.
 *   **Day 6 (West Split Day):**
@@ -42,9 +42,9 @@ Our group consists of **5 Adults** staying in Val Gardena from **Sept 13 to Sept
         *   *Cost:* **€0.00**.
 
 ##### **Option 1 Totals:**
-*   **Thrill-Seekers (Group A):** €6.00 (parking share) + €74.00 (Seceda) + €28.00 (Dantercepies) = **€108.00**
-*   **Relaxers (Group B):** €6.00 (parking share) + €74.00 (Seceda) = **€80.00**
-*   **Group Total Cost:** (3 * €108.00) + (2 * €80.00) = **€484.00**
+*   **Thrill-Seekers (Group A):** €5.30 (parking share) + €74.00 (Seceda) + €28.00 (Dantercepies) = **€107.30**
+*   **Relaxers (Group B):** €5.30 (parking share) + €74.00 (Seceda) = **€79.30**
+*   **Group Total Cost:** (3 * €107.30) + (2 * €79.30) = **€480.50**
 
 ---
 
@@ -68,6 +68,6 @@ If we choose not to drive to Compatsch before 9:00 AM on Day 4, we must take the
 > **We should NOT buy the Gardena Card.**
 > Sticking to our original plan (Option 1) of driving up to Compatsch before 9:00 AM and buying individual tickets is the most economical and flexible path.
 
-1.  **Direct Cost Savings:** Option 1 saves our group **€118.00** compared to Option 2 with the Gardena Card (Group Total of **€484.00** vs. **€602.00**).
+1.  **Direct Cost Savings:** Option 1 saves our group **€121.50** compared to Option 2 with the Gardena Card (Group Total of **€480.50** vs. **€602.00**).
 2.  **Weather Flexibility:** The Gardena Card requires use on **consecutive days**. Weather in the Dolomites is highly unpredictable. If it rains or is foggy on Day 5, we can easily postpone our Seceda trip to Day 6 without wasting money. If we had the Gardena Card, we would be locked into our days regardless of visibility.
 3.  **Car Convenience:** Having the rental car at Compatsch on Day 4 allows us to stay on the plateau for the sunset and drive down at our own pace without worrying about catching the last gondola down.

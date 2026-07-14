@@ -16,6 +16,7 @@ Today is about making it across the Atlantic, gathering your rental car, and rec
 
 ### 2. The Check-In (Afternoon)
 * **Check-In**: Settle into **Venice-Mestre Beautiful Apartment** (Via della Brenta Vecchia, 34). A special request has been put in for arrival between 12:00 PM and 1:00 PM (regular check-in is 14:00 - 21:00).
+    *   **Cost**: €250.00 EUR total (**€50.00 EUR per person per day** split among 5 adults).
 * **Rest**: Check in, unpack, freshen up, and take a much-needed shower/nap.
 
 ### 3. Evening in Venice (Optional — ~3 hrs)

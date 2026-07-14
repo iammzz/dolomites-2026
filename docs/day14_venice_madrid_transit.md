@@ -6,12 +6,13 @@
 
 ## 🛣 Morning: Venice to Madrid (~5 hrs total)
 * **Check-Out & Early Departure** (05:45 AM): Grab a quick coffee, check out of your Venice hotel, and head to the airport.
-* **Transit to Airport** (06:00 AM - 07:15 AM): Take the **Alilaguna water bus** (Blue or Orange line, ~€15, runs early morning) or a water taxi directly to Venice Marco Polo Airport. Ensure you arrive at VCE by 07:15 AM (2 hours prior to departure).
-* **The Flight** (09:20 AM - 12:00 PM): **Ryanair Flight FR1207** to Madrid (MAD). Booked for Matthew, Emma, and Kevin (Sunny & Kevin He pending). Includes Priority & 2 Cabin Bags. Note that Ryanair has very strict baggage size/weight checks at the gate.
+* **Transit to Airport** (06:00 AM - 07:15 AM): Take the **Alilaguna water bus** (Blue or Orange line, **~€15 EUR per individual**, runs early morning) or a private water taxi directly to Venice Marco Polo Airport (highly recommended for a group of 5, ~€120–€140 total, which is **~€24–€28 EUR per individual**). Ensure you arrive at VCE by 07:15 AM (2 hours prior to departure).
+* **The Flight** (09:20 AM - 12:00 PM): **Ryanair Flight FR1207** to Madrid (MAD). Booked for Matthew, Emma, and Kevin (Sunny & Kevin He pending). Includes Priority & 2 Cabin Bags. Note that Ryanair has very strict baggage size/weight checks at the gate. **Cost Range**: **~€40–€120 EUR per individual** (depending on booking date).
 
 ## 🇪🇸 Afternoon: Hola Madrid! (~3 hrs)
 * **Arrival** (~1 hr): Land at Adolfo Suárez Madrid–Barajas Airport (MAD). Take the **Metro Line 8** (~€5, 30 min to Sol/Gran Vía) or a **Cabify** (~€25-30) to your accommodation.
-* **Check-In** (~30 min): Drop your bags at your Madrid base.
+* **Check-In** (~30 min): Drop your bags at your Madrid base (Base 5: Madrid).
+    *   **Estimated Cost Range**: **~€40.00–€60.00 EUR per person per day** (estimated total: €400–€600 EUR for 2 nights, shared lodging for 5 adults).
 * **Late Lunch / Tapas** (~1.5 hrs): Head straight out for some authentic Spanish food. Try *bocadillo de calamares* (fried squid sandwich) at **La Campana** near Plaza Mayor for ~€3.
 
 ## 👑 Evening: Royal Sights (~2 hrs)

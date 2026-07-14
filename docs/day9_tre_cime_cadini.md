@@ -11,7 +11,7 @@
 This is the absolute signature hiking day of the Dolomites. Tre Cime di Lavaredo is the most famous rock formation in the region, and doing the full loop gives you 360-degree views of the massive peaks. By adding the short Cadini di Misurina viewpoint hike afterwards, you get a completely different, wildly jagged landscape for minimal extra effort. Because this is the most popular area in the Dolomites, **you must arrive early**.
 
 > [!IMPORTANT]
-> **PARKING PRE-BOOKING IS MANDATORY.** Reserve at [pass.auronzo.info](https://pass.auronzo.info) — **€40/vehicle (2026 price).** Ticket valid for 12 hours. Arrive at the toll road entrance by **7:15–7:30am** even with a reservation.
+> **PARKING PRE-BOOKING IS MANDATORY.** Reserve at [pass.auronzo.info](https://pass.auronzo.info) — **€45/vehicle (2026 price)**, which is **€9.00 EUR per individual** split among 5 people. Ticket valid for 12 hours. Arrive at the toll road entrance by **7:15–7:30am** even with a reservation.
 
 ### 1. 🏔️ Tre Cime di Lavaredo Loop (Counterclockwise)
 * **Distance**: 8.8–10 km loop

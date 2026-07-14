@@ -12,6 +12,7 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
   * *Schedule*: Departs YYZ Terminal 3 on Fri, Sept 11 at 21:10. Arrives VCE on Sat, Sept 12 at 11:30.
   * *Passengers*: Emma Zeng, Matthew Zhang, Kevin Yuan, Sunny, Kevin He
   * *Baggage Note*: Eco Budget fare — includes 1 carry-on and 1 personal item. **No checked bags included.**
+  * *Cost Range*: **$700–$1,200 CAD per individual** (depending on booking date; Sunny & Kevin He pending)
 * **Intra-Europe**: Venice (VCE) to Madrid (MAD)
   * *Status*: 🟡 **PARTIALLY BOOKED** (Matthew, Emma, Kevin booked; Sunny, Kevin He pending)
   * *Airline*: Ryanair (Flight FR1207)
@@ -19,9 +20,11 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
   * *Schedule*: Departs VCE on Fri, Sept 25 at 09:20. Arrives MAD at 12:00.
   * *Passengers*: Matthew Ming Zhou Zhang, Yi Yang Zeng, Liang Kun Yuan
   * *Baggage Note*: Priority & 2 Cabin Bags.
+  * *Cost Range*: **€40–€120 EUR per individual** (including Ryanair priority baggage upgrade)
 * **Return**: Madrid (MAD) to Toronto (YYZ)
   * *Status*: 🔴 **NOT BOOKED**
   * *Details*: Flight on Sept 27.
+  * *Estimated Cost Range*: **$800–$1,300 CAD per individual**
 
 ### ✈️ Venice Airport (VCE) Transit Logistics
 
@@ -40,6 +43,7 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 * **Drop-off**: Venice Mestre Rail Station on Wed, Sept 23 at 12:00 PM
 * *Status*: 🟢 **BOOKED**
 * *Details*: Needs to comfortably fit the group and luggage. Must be automatic transmission (unless all drivers can drive manual on steep mountain passes).
+* *Cost Range*: **~€120–€180 EUR per individual** (estimated total: €600–€900 EUR for 10 days, split among 5 adults).
 
 ---
 
@@ -56,37 +60,42 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 * **Check-out**: Sun, Sept 13, before 10:00
 * **Details**: Two-Bedroom Apartment for 5 adults (Guest: Matthew Zhang)
 * **Parking**: Private parking available nearby without reservation
+* **Cost**: €250.00 EUR total (**€50.00 EUR per person per day** split among 5 adults)
 
 ### Base 2: Val Gardena / West (5 Nights)
 * **Dates**: Sept 13 - Sept 18
 * **Location**: Ortisei or Selva di Val Gardena
 * *Status*: 🔴 **NOT BOOKED**
 * *Details*: Looking for something with parking and easy access to the Seceda/Alpe di Siusi cable cars.
+* **Estimated Cost Range**: **~€50.00–€80.00 EUR per person per day** (estimated total: €1,250–€2,000 EUR for 5 nights, shared lodging for 5 adults)
 
 ### Base 3: Cortina d'Ampezzo / East (5 Nights)
 * **Dates**: Sept 18 - Sept 23
 * **Location**: Cortina d'Ampezzo (town center or immediate outskirts)
 * *Status*: 🔴 **NOT BOOKED**
 * *Details*: Needs parking. Proximity to Corso Italia is a bonus.
+* **Estimated Cost Range**: **~€50.00–€80.00 EUR per person per day** (estimated total: €1,250–€2,000 EUR for 5 nights, shared lodging for 5 adults)
 
 ### Base 4: Venice Island (2 Nights)
 * **Dates**: Sept 23 - Sept 25
 * **Location**: Venice Island
 * *Status*: 🔴 **NOT BOOKED**
+* **Estimated Cost Range**: **~€40.00–€70.00 EUR per person per day** (estimated total: €400–€700 EUR for 2 nights, shared lodging for 5 adults)
 
 ### Base 5: Madrid (2 Nights)
 * **Dates**: Sept 25 - Sept 27
 * **Location**: Madrid (TBD Neighborhood)
 * *Status*: 🔴 **NOT BOOKED**
+* **Estimated Cost Range**: **~€40.00–€60.00 EUR per person per day** (estimated total: €400–€600 EUR for 2 nights, shared lodging for 5 adults)
 ---
 
 ## 🎟️ Activities & Permits
-* **Tre Cime Toll Road**: Pay on arrival (no pre-booking).
-* **DoloMithes Spa Passes**: 🔴 **NOT BOOKED**
-* **Via Ferrata Gear Rental**: Rent locally in Ortisei and Cortina.
-* **Trekking Poles Rental (Baggage Alert)**: Trekking poles are **strictly prohibited in carry-on luggage** by aviation security (both outbound on Air Transat and intra-Europe on Ryanair). If you do not plan to pay for checked bags, you should rent poles locally along with your via ferrata gear. Local shops in Ortisei (e.g. *Sport Kostner*, *Sport Bruno Riffeser*) and Cortina (e.g. *Snow Service*) offer pole rentals.
-* **Val Gardena Lifts (Gardena Card)**: Individual lift tickets are recommended instead of the pass. See the [Gardena Card Cost-Benefit Analysis](research.md#gardena-card-cost-benefit-analysis-summer-2026) for details.
-* **E-Bike Rentals (Compatsch / Alpe di Siusi)**: 🔴 **NOT BOOKED**
+* **Tre Cime Toll Road**: €45.00 EUR per vehicle (no pre-booking, split among 5 is **€9.00 EUR per individual**).
+* **DoloMithes Spa Passes**: 🔴 **NOT BOOKED** (estimated **~€50.00–€60.00 EUR per individual** depending on package).
+* **Via Ferrata Gear Rental**: **~€25.00–€30.00 EUR per individual** per day for full set (helmet, harness, lanyard) rented locally in Ortisei or Cortina.
+* **Trekking Poles Rental (Baggage Alert)**: Trekking poles are **strictly prohibited in carry-on luggage** by aviation security (both outbound on Air Transat and intra-Europe on Ryanair). If you do not plan to pay for checked bags, you should rent poles locally along with your via ferrata gear. Local shops in Ortisei (e.g. *Sport Kostner*, *Sport Bruno Riffeser*) and Cortina (e.g. *Snow Service*) offer pole rentals for **~€5.00–€10.00 EUR per individual** per day.
+* **Val Gardena Lifts (Gardena Card)**: Individual lift tickets are recommended instead of the pass (see details in daily itineraries). See the [Gardena Card Cost-Benefit Analysis](research.md#gardena-card-cost-benefit-analysis-summer-2026) for details.
+* **E-Bike Rentals (Compatsch / Alpe di Siusi)**: 🔴 **NOT BOOKED** (estimated **~€45.00–€80.00 EUR per individual** per day depending on bike model).
   * *[Alpin Center (Bike Rent Lodge)](https://www.alpincenter.it/)*: ~€65-€80/day | **Distance**: 0m (Located directly in the main Compatsch parking lot P2).
   * *[Sport Hans](https://www.sporthans.com/en/)*: ~€60-€80/day | **Distance**: 200m from main parking.
   * *[K&K Sports](https://www.kksports.com/en/)*: ~€55-€60/day | **Distance**: ~300m (at the cable car mountain station).
@@ -127,5 +136,5 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
   * *Location*: Venue to be announced (Madrid, España)
   * *Status*: 🟢 **BOOKED (3 Tickets)**
   * *Tickets*: Yi Yang Zeng, Matthew Zhang, Shu Cheng (Purchased by Emma Z)
-  * *Cost*: Paid
+  * *Cost*: Paid (**€89.00 EUR per individual** ticket, total €267.00 EUR for 3 tickets)
   * *Note*: QR codes for tickets will be available starting Sept 24, 2026 at 17:00.

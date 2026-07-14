@@ -48,7 +48,7 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
 |------|----------|----------|--------|
 | 8:15 am | Ortisei | 🚗 Depart | Leave early to beat the 9:00 AM road closure! |
 | 8:45 am | Seiser Alm Road | ⏱️ Pass Checkpoint | Drive through the control point before 9:00 AM. |
-| 9:00 am | Compatsch | 🅿️ Park | Park at the massive P2 lot in Compatsch (**€30/day, mandatory online reservation as of 2026** — book at least 6 days ahead). |
+| 9:00 am | Compatsch | 🅿️ Park | Park at the massive P2 lot in Compatsch (**€26.50 EUR/day**, split among 5 is **€5.30 EUR per individual**; mandatory online reservation as of 2026 — book in advance). |
 | 9:30 am | Compatsch | 🚲 Rent Bikes | Grab your e-bikes from a shop near the parking lot (K&K Sports, etc). |
 | 10:30 am | Gostner Schwaige | ☕ Morning Snack | Coffee and flower-hay soup at the tiny famous hut. |
 | 12:30 pm | Malga Sanon | 🍽️ Lunch | Long lunch with incredible views of Sassolungo. |

@@ -15,7 +15,7 @@ This is one of the absolute best days you can have in the Dolomites. It perfectl
 * **Elevation Change**: +80m
 * **Difficulty**: ⭐⭐ Easy-Moderate
 * **Duration**: 1 hr total (Approx. 30 min walking the loop trail around the towers, plus 30 min exploring the restored WWI open-air trench museum — one of the best-preserved frontline sites in the Alps).
-* **Chairlift**: Take the 5 Torri chairlift from Baita Bai de Dones to Rifugio Scoiattoli. **Return ticket ~€27.50** (5% discount paying by card). Opens 9:00 AM. Children under 8 free.
+* **Chairlift**: Take the 5 Torri chairlift from Baita Bai de Dones to Rifugio Scoiattoli. **Return ticket ~€27.50 EUR per individual** (5% discount paying by card). Opens 9:00 AM. Children under 8 free.
 * **Resources**:
   * [Earth Trekkers: Cinque Torri](https://www.earthtrekkers.com/cinque-torri-hike-dolomites/)
 

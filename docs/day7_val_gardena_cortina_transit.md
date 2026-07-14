@@ -58,7 +58,7 @@ Today you shift your base from the Western to the Eastern Dolomites. Instead of 
 | 1:45 pm | Passo Falzarego | 🅿️ Arrive & Park | Base of the Lagazuoi cable car. |
 | 2:00 pm | Lagazuoi | 🚡 Cable Car / Hike | Ride up. Walk the tunnels down (or ride back down). |
 | 5:00 pm | Passo Falzarego | 🚗 Drive East | Head down into the Cortina valley. |
-| 5:30 pm | Cortina d'Ampezzo | 🏠 Arrive at Hotel | Check into your new base for the rest of the trip! |
+| 5:30 pm | Cortina d'Ampezzo | 🏠 Arrive at Hotel | Check into your new base (Base 3: Cortina). Estimated Cost: **~€50.00–€80.00 EUR per person per day** (estimated total: €1,250–€2,000 EUR for 5 nights, shared lodging for 5 adults). |
 
 ### Key Logistics Notes
 
