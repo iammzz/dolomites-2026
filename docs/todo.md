@@ -17,8 +17,7 @@ This page tracks all outstanding items required to successfully execute the trip
   - *Nuance*: 2 nights (Sept 25 - Sept 27). Neighborhoods: Malasaña, Chueca, Centro.
 
 ### 🚗 Transportation
-- [ ] **Pre-purchase Brenner Pass Digital Toll (Videomaut)**: [ASFINAG Toll Shop](https://shop.asfinag.at/)
-  - *Nuance*: Pre-pay the motorway toll (~€11.00) online to link your license plate and skip the cash queues.
+- [ ] **Bring cash for A22 toll booths**: You'll drive the A22 Brenner highway twice (Sept 13 northbound, ~Sept 18 or 23 southbound). Cash/card at the barrier works fine — no need to pre-purchase.
 
 ### 🎟️ Activities & Gear
 - [ ] **E-Bike Rentals (Alpe di Siusi, Day 4)**: [Sport Hans](https://www.sporthans.com/en/) or [Alpin Center](https://www.alpincenter.it/)
