@@ -18,8 +18,10 @@ Today you pack up your cars, leave the stunning peaks of the Dolomites behind, a
 ## 🚶 Afternoon: Checking into Venice (~1.5 hrs)
 * **Transit to Venice Island** (~15 min): From Mestre Station, take a 10-minute train to **Venezia Santa Lucia** station (€1.50).
 * **Vaporetto** (~30 min): Buy a **24-hour Vaporetto pass (€25)** from the ACTV booth at Santa Lucia station. This covers unlimited water bus rides for the next 24 hours. Take Line 1 (the slow scenic route down the Grand Canal) or Line 2 (express) to your hotel's nearest stop.
-* **Check-In**: Check into your Venetian hotel (Base 4: Venice Island) and drop your bags.
-    *   **Estimated Cost Range**: **~€40.00–€70.00 EUR per person per day** (estimated total: €400–€700 EUR for 2 nights, shared lodging for 5 adults).
+* **Check-In**: Check into **[Cà Landillo](https://maps.app.goo.gl/tWkcB33qsikMHdMKA)** (Rio Terà Farsetti, 1844 — Venice 10 mins from station) and drop your bags.
+    *   *Status*: 🟢 **BOOKED** (Confirmation: **HMMKHJCXJ3**)
+    *   *Check-in*: Self check-in with **keypad** — instructions arrive 24 hrs before via Airbnb.
+    *   *Check-out*: Fri, Sept 25 at 10:00 AM
 
 ## 🍝 Evening: Cicchetti & Canals
 * **Wander**: Spend the evening wandering the winding streets. Get lost—it's part of the Venice experience!

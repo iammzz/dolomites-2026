@@ -49,6 +49,7 @@ Today you shift your base from the Western to the Eastern Dolomites. Instead of 
 
 | Time | Location | Activity | Detail |
 |------|----------|----------|--------|
+| 8:00 am | Ortisei | 🛏️ Check-out & pack | **Check-out from Apartments Promenade by 9:00 AM**. Load luggage into the car. |
 | 8:30 am | Val Gardena | 🚗 Depart | Car fully packed. Head east on SS242. |
 | 9:15 am | Passo Pordoi | 📸 Viewpoint Stop | Optional: Ride the Sass Pordoi cable car if time permits. |
 | 10:00 am | Passo Pordoi | 🚗 Drive South | Head toward Marmolada via Passo Fedaia. |

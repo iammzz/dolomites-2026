@@ -49,10 +49,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
 **📋 Immediate To-Dos (See the full [To-Do List](todo.md), [Logistics](logistics.md) & [Packing List](packing_list.md))**:
 - Book remaining outbound flights (Sunny & Kevin He)
-- Book remaining inbound flights Venice → Madrid (Sunny & Kevin He)
-- Book remaining Hotel Bases (Val Gardena, Cortina, Venice Return, Madrid)
+- Book remaining Hotel Bases (Cortina, Madrid)
 - Order physical **Wise Cards** and obtain your **IDP** (International Driving Permit)
-*(Note: Rental Car, Venice arrival hotel, and ANYMA Concert are successfully booked!)*
+*(Note: Rental Car, Venice arrival hotel, Val Gardena apartment, Venice Island Airbnb, Intra-Europe flights, and ANYMA Concert are successfully booked!)*
 
 ---
 

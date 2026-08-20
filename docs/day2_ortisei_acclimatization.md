@@ -19,8 +19,10 @@ Since your car rental starts at 12:00 PM, enjoy a slow morning in Mestre.
     *   **The Route**: Easy highway at first, transitioning into winding mountain roads once you exit the A22 at Chiusa/Val Gardena. The last 30 minutes through the gorge into Ortisei are spectacular!
 
 ## 🏔️ Afternoon: Arrival & Settling In (1–1.5 hrs active)
-* **3:30 PM**: Arrive in Ortisei or Selva and check into your base accommodation (Base 2: Val Gardena).
-    *   **Estimated Cost**: **~€50.00–€80.00 EUR per person per day** (estimated total: €1,250–€2,000 EUR for 5 nights, shared lodging for 5 adults).
+* **3:30 PM**: Arrive in Ortisei and check into **Apartments Promenade** — the **SASLONCH apartment** ([Via Stufan 72](https://www.google.com/maps/search/?api=1&query=Via+Stufan+72+Ortisei)) — Base 2: Val Gardena.
+    *   *Host*: Helene Hofer — call **+39 335 8421168** when you exit the motorway in **Chiusa** so she can meet you at the apartment.
+    *   *Check-in*: From 2:00 PM.
+    *   *Cost*: €1,500.00 rental + €100.00 cleaning (€20/pp) + ~€75.00 tourist tax (€3/pp/night). **Balance ~€1,225.00 cash on arrival** (€450 deposit already paid by Sunny).
 * **4:00 PM - 5:30 PM**: Walk around the **pedestrian-only center of Ortisei** (~1 hour strolling). This is one of the most charming town centers in the Alps. Ortisei has a long woodcarving tradition dating back to the 17th century — browse the boutiques selling handmade figurines, nativity scenes, and sculptures. The main street (Str. Rezia) is lined with cafés perfect for a first aperitivo with views of the Sassolungo massif.
 * **Supermarket Run** (~30 min): Hit the **Despar** (right in the center on Str. Rezia) or **Conad City** to stock up on trail snacks, water, and lunch supplies for the upcoming hiking days. You'll want dry snacks (nuts, bars), bread, speck (cured ham), and cheese for mountain picnics.
 

@@ -14,11 +14,10 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
   * *Baggage Note*: Eco Budget fare — includes 1 carry-on and 1 personal item. **No checked bags included.**
   * *Cost Range*: **$700–$1,200 CAD per individual** (depending on booking date; Sunny & Kevin He pending)
 * **Intra-Europe**: Venice (VCE) to Madrid (MAD)
-  * *Status*: 🟡 **PARTIALLY BOOKED** (Matthew, Emma, Kevin booked; Sunny, Kevin He pending)
+  * *Status*: 🟢 **BOOKED** (Entire Group)
   * *Airline*: Ryanair (Flight FR1207)
-  * *Booking Ref*: Confirmed
   * *Schedule*: Departs VCE on Fri, Sept 25 at 09:20. Arrives MAD at 12:00.
-  * *Passengers*: Matthew Ming Zhou Zhang, Yi Yang Zeng, Liang Kun Yuan
+  * *Passengers*: Matthew Ming Zhou Zhang, Yi Yang Zeng, Liang Kun Yuan, Sunny Huang, Kevin He
   * *Baggage Note*: Priority & 2 Cabin Bags.
   * *Cost Range*: **€40–€120 EUR per individual** (including Ryanair priority baggage upgrade)
 * **Return**: Madrid (MAD) to Toronto (YYZ)
@@ -64,10 +63,17 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 
 ### Base 2: Val Gardena / West (5 Nights)
 * **Dates**: Sept 13 - Sept 18
-* **Location**: Ortisei or Selva di Val Gardena
-* *Status*: 🔴 **NOT BOOKED**
-* *Details*: Looking for something with parking and easy access to the Seceda/Alpe di Siusi cable cars.
-* **Estimated Cost Range**: **~€50.00–€80.00 EUR per person per day** (estimated total: €1,250–€2,000 EUR for 5 nights, shared lodging for 5 adults)
+* **Accommodation**: [Apartments Promenade](https://www.apartments-promenade.com) — SASLONCH Apartment
+* **Address**: Via Stufan 72, Ortisei (Val Gardena), Italy
+* **Host**: Helene Hofer — +39 335 8421168 — info@apartments-promenade.com
+* **Booked by**: Sunny Huang
+* *Status*: 🟢 **BOOKED**
+* **Check-in**: Sun, Sept 13, from 2:00 PM
+* **Check-out**: Fri, Sept 18, by 9:00 AM
+* **Details**: Apartment for 5 adults. On arrival, call Helene when leaving the Chiusa motorway exit so she can welcome you.
+* **Cost**: €1,500.00 rental + €100.00 cleaning (€20/pp) + ~€75.00 tourist tax (€3/pp/night)
+  * *Deposit*: €450.00 paid Jul 21 (Sunny)
+  * *Balance*: ~€1,225.00 cash on arrival
 
 ### Base 3: Cortina d'Ampezzo / East (5 Nights)
 * **Dates**: Sept 18 - Sept 23
@@ -78,9 +84,16 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 
 ### Base 4: Venice Island (2 Nights)
 * **Dates**: Sept 23 - Sept 25
-* **Location**: Venice Island
-* *Status*: 🔴 **NOT BOOKED**
-* **Estimated Cost Range**: **~€40.00–€70.00 EUR per person per day** (estimated total: €400–€700 EUR for 2 nights, shared lodging for 5 adults)
+* **Accommodation**: [Cà Landillo — Venice 10 mins from station](https://www.airbnb.ca/trips/v1/1732691254834949612/)
+* **Address**: Rio Terà Farsetti, 1844, Venice, Veneto 30121, Italy
+* **GPS / Maps**: [📍 Maps](https://maps.app.goo.gl/tWkcB33qsikMHdMKA)
+* **Host**: Alex (Cà Landillo)
+* *Status*: 🟢 **BOOKED**
+* **Confirmation Code**: HMMKHJCXJ3
+* **Check-in**: Wed, Sept 23, 3:00 PM (self check-in with keypad — instructions arrive 24 hrs before)
+* **Check-out**: Fri, Sept 25, 10:00 AM
+* **Details**: Entire home for 5 adults
+* **Cancellation**: Free cancellation before Sept 22 at 3:00 PM; partial refund after
 
 ### Base 5: Madrid (2 Nights)
 * **Dates**: Sept 25 - Sept 27
@@ -90,7 +103,12 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 ---
 
 ## 🎟️ Activities & Permits
-* **Tre Cime Toll Road**: €45.00 EUR per vehicle (no pre-booking, split among 5 is **€9.00 EUR per individual**).
+* **Tre Cime Toll Road**: €45.00 EUR per vehicle (split among 5 is **€9.00 EUR per individual**).
+  * *Status*: 🟢 **BOOKED**
+  * *Ticket Code*: **P26216461** (State: DA ATTIVARE — awaiting activation)
+  * *Validity*: Sept 20 (Day 9), 7:30 AM – 7:29 PM (12-hour pass)
+  * *Sector*: PARCHEGGIO AUTO/MOTO — TARIFFA AUTO
+  * *Notes*: Parking for the Tre Cime + Cadini di Misurina day. Activation pending — check before departure.
 * **DoloMithes Spa Passes**: 🔴 **NOT BOOKED** (estimated **~€50.00–€60.00 EUR per individual** depending on package).
 * **Via Ferrata Gear Rental**: **~€25.00–€30.00 EUR per individual** per day for full set (helmet, harness, lanyard) rented locally in Ortisei or Cortina.
 * **Trekking Poles Rental (Baggage Alert)**: Trekking poles are **strictly prohibited in carry-on luggage** by aviation security (both outbound on Air Transat and intra-Europe on Ryanair). If you do not plan to pay for checked bags, you should rent poles locally along with your via ferrata gear. Local shops in Ortisei (e.g. *Sport Kostner*, *Sport Bruno Riffeser*) and Cortina (e.g. *Snow Service*) offer pole rentals for **~€5.00–€10.00 EUR per individual** per day.
