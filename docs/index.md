@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 </script>
 
-**📋 Immediate To-Dos (See the full [To-Do List](todo.md), [Logistics](logistics.md) & [Packing List](packing_list.md))**:
+**🚨 Immediate To-Dos (See the full [To-Do List](todo.md), [Logistics](logistics.md), [Packing List](packing_list.md) & [Must-Try Foods](must_try_foods.md))**:
 - Book remaining outbound flights (Sunny & Kevin He)
 - Book remaining Hotel Bases (Cortina, Madrid)
 - Order physical **Wise Cards** and obtain your **IDP** (International Driving Permit)

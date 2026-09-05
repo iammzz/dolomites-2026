@@ -29,9 +29,11 @@ This page tracks all outstanding items required to successfully execute the trip
   - *Nuance*: Needed for the relax group on Split Days. Spas have capacity limits.
 
 ### 🍽️ Restaurants
-- [ ] **Book Key Restaurants**:
-  - *Rifugio Averau Lunch (Day 8)*: Email `rifugioaverau@gmail.com` to book.
-  - *Michelin / high-end dinners in Cortina or Ortisei*
+- [ ] **Book Key Restaurants** (See the full [Must-Try Food Guide](must_try_foods.md)):
+  - *Rifugio Averau Lunch (Day 8)*: Email `rifugioaverau@gmail.com` 2–3 weeks ahead to book terrace table for 5 adults for Casunziei all'Ampezzana.
+  - *Sobrino de Botín Dinner (Day 14)*: Book online at [botin.es](https://botin.es) 3–4 weeks ahead for wood-fired roast suckling pig (Cochinillo Asado) in Madrid.
+  - *Tubladel Dinner (Day 2 or Day 6)*: Reserve online or call `+39 0471 796879` 2 weeks ahead for steak and Tyrolean cuisine in Ortisei.
+  - *Trattoria Al Gatto Nero (Day 13)*: Book 3–4 weeks ahead if visiting Burano for squid-ink pasta and lagoon seafood.
 
 ### 📱 Pre-Departure
 - [ ] **Download Offline Maps**: Google Maps & AllTrails for Veneto and Trentino-Alto Adige regions.
