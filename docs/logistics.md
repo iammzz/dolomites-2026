@@ -113,11 +113,14 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 * **Via Ferrata Gear Rental**: **~€25.00–€30.00 EUR per individual** per day for full set (helmet, harness, lanyard) rented locally in Ortisei or Cortina.
 * **Trekking Poles Rental (Baggage Alert)**: Trekking poles are **strictly prohibited in carry-on luggage** by aviation security (both outbound on Air Transat and intra-Europe on Ryanair). If you do not plan to pay for checked bags, you should rent poles locally along with your via ferrata gear. Local shops in Ortisei (e.g. *Sport Kostner*, *Sport Bruno Riffeser*) and Cortina (e.g. *Snow Service*) offer pole rentals for **~€5.00–€10.00 EUR per individual** per day.
 * **Val Gardena Lifts (Gardena Card)**: Individual lift tickets are recommended instead of the pass (see details in daily itineraries). See the [Gardena Card Cost-Benefit Analysis](research.md#gardena-card-cost-benefit-analysis-summer-2026) for details.
-* **E-Bike Rentals (Compatsch / Alpe di Siusi)**: 🔴 **NOT BOOKED** (estimated **~€45.00–€80.00 EUR per individual** per day depending on bike model).
-  * *[Alpin Center (Bike Rent Lodge)](https://www.alpincenter.it/)*: ~€65-€80/day | **Distance**: 0m (Located directly in the main Compatsch parking lot P2).
-  * *[Sport Hans](https://www.sporthans.com/en/)*: ~€60-€80/day | **Distance**: 200m from main parking.
-  * *[K&K Sports](https://www.kksports.com/en/)*: ~€55-€60/day | **Distance**: ~300m (at the cable car mountain station).
-  * *[GASKO E.Bike](https://www.gasko-ebike.it/)*: ~€45-€55/day | **Distance**: N/A (Main shop in valley, requires coordinating drop-off/shuttle to the plateau).
+* **E-Bike Rentals (Compatsch / Alpe di Siusi)**: 🟢 **BOOKED** — [Alpin Center Rent Lodge](https://www.alpincenter.it/) for Day 4 (Tue, Sept 15).
+  * *Reservation Ref*: **SORS498744** (booked Sept 7, 2026, by Matthew)
+  * *Shop*: Rent Lodge Parking Area, **Compatsch 52 – Parkplatz**, 39040 Alpe di Siusi · Tel +39 0471 727925 · lodge@alpincenter.it
+  * *GPS*: 46.540166, 11.617395 (directly at the P2 parking lot) · *Hours*: daily 08:30–13:00, 14:00–18:00
+  * *Bikes*: 4 × **E-MTB Fully Pro** (1-day rental): Matthew Zhang (S/160 cm) · Emma Zeng (S/165 cm) · Kevin He (L/185 cm) · Kevin Yuan (XL/193 cm). Sunny not renting.
+  * *Cost*: **€76.00 EUR per person** (list €80 less €4 online discount) → **€304.00 EUR total** for 4 bikes (incl. 22% VAT). **Pay at pick-up** — no damage insurance selected (available at shop).
+  * *Terms*: Free cancellation up to 2 days before pick-up · bikes must be returned by closing on the rental day (~17:00–18:00) or an extra day is charged.
+  * *Backup shops if unavailable*: [Sport Hans](https://www.sporthans.com/en/) (~€60-€80/day, 200m from main parking) · [K&K Sports](https://www.kksports.com/en/) (~€55-€60/day, at the cable car mountain station) · [GASKO E.Bike](https://www.gasko-ebike.it/) (~€45-€55/day, valley shop requiring drop-off/shuttle coordination).
 
 ---
 
@@ -134,6 +137,12 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 *   **Autostrada Tolls & Vignettes**:
     *   **Brenner Pass (A22)**: Motorway tolls apply. For the drive north and south, we can pre-purchase the digital toll (Videomaut) to link our license plate and drive through the automated green toll lanes.
     *   **Austrian Border Warning**: If driving north on the A22 close to the Austrian border, note that Austria requires a highway vignette. Do not cross the border without a vignette or you will receive an automatic fine at the border checkpoint.
+
+### 🅿️ Alpe di Siusi / Compatsch Parking (Day 4 E-Bike Day)
+
+*   **Mandatory online reservation (from 29 June 2026)** for both plateau lots: book at [seiseralm.it/parking](https://www.seiseralm.it/parking) up to **6 days before arrival** (for Sept 15, booking opens ~Sept 9). Reservations are **plate-locked and non-refundable**; arrival after 09:30 voids the booking with no refund. A valid booking **auto-issues the San Valentino checkpoint access authorization**.
+*   **P2 Compatsch** (Compatsch 15 — main village lot): **€30.00 EUR/day per vehicle** (€15 motorcycles, €160 buses). **Located directly beside the Alpin Center Rent Lodge (Compatsch 52, ~50 m)** — use this one on the e-bike day.
+*   **P1 Spitzbühl** (Spitzbichel 1 — at the cable car mountain station, ~1 km west of the village): **€15.00 EUR/day per vehicle** (€10 motorcycles). Half the price but a ~1 km walk to the bike shop. Access rules still apply with a booking: private cars only **before 09:00 / after 17:00** (descent from Compatsch allowed any time); arrive at the lot by **09:30** at the latest.
 
 ---
 

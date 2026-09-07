@@ -20,8 +20,6 @@ This page tracks all outstanding items required to successfully execute the trip
 - [ ] **Bring cash for A22 toll booths**: You'll drive the A22 Brenner highway twice (Sept 13 northbound, ~Sept 18 or 23 southbound). Cash/card at the barrier works fine — no need to pre-purchase.
 
 ### 🎟️ Activities & Gear
-- [ ] **E-Bike Rentals (Alpe di Siusi, Day 4)**: [Sport Hans](https://www.sporthans.com/en/) or [Alpin Center](https://www.alpincenter.it/)
-  - *Nuance*: Reserve in Compatsch (top of plateau) so you don't carry bikes up the gondola. ~€45–€80/pp/day.
 - [ ] **Reserve Lago di Braies Parking**: [pragsparking.com](https://www.pragsparking.com)
   - *Nuance*: Only needed if Group B does Lago di Braies on Sept 21 (Day 10 East Split). Mandatory online reservation.
 - [ ] **Research Via Ferrata Gear Rentals**: Identify shops in Ortisei (Sport Kostner) and Cortina (Snow Service) for helmet/harness/lanyard rentals.
@@ -62,3 +60,4 @@ This page tracks all outstanding items required to successfully execute the trip
 | **Wise Card** | **Matthew has one** — multi-currency card loaded with Euros |
 | **International Driving Permit (IDP)** | **Matthew has one** — required for rental car in Italy |
 | **Tre Cime Parking (Sept 20)** | **Booked** — Ticket P26216461 (DA ATTIVARE, €45/vehicle) |
+| **E-Bike Rentals (Alpe di Siusi, Day 4, Sept 15)** | **Booked** — Alpin Center Rent Lodge, Ref SORS498744, 4 e-bikes (€76/pp, €304 total, pay at pick-up) |

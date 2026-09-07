@@ -22,7 +22,7 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
   * **Malga Sanon (Sanon Hütte)** (~1.5 hr lunch stop): One of the best lunch spots on the plateau, featuring a massive outdoor terrace with direct, towering views of the Sassolungo peaks. Excellent steaks and local game dishes.
   * **Almrosenhütte** (~45 min afternoon stop): A beautiful spot on the southern edge of the plateau, great for an afternoon Apfelstrudel and a cold drink while watching paragliders land.
   * **Saltria**: The lowest point (the basin) of the plateau, surrounded by dense woods. It's a fun, long descent on the e-bike, and the motor will help you cruise right back out!
-* **E-Bike Rental**: Rent from shops in Compatsch near the P2 parking lot. **Sport Hans** or **K&K Sports** are the main options. Half-day rental ~€35, full-day ~€50. **Reserve online at least one day in advance** — they sell out on good weather days.
+* **E-Bike Rental**: 🟢 **BOOKED** — [Alpin Center Rent Lodge](https://www.alpincenter.it/) (Ref **SORS498744**), right beside the P2 lot at Compatsch 52. 4 × E-MTB Fully Pro, **€76/pp (€304 total), pay at pick-up**. Shop hours 08:30–13:00 / 14:00–18:00 (tel +39 0471 727925). Backup shops in the same area: **Sport Hans** or **K&K Sports**.
 * **Resources**: 
   * [In a Faraway Land: Alpe di Siusi Guide](https://inafarawayland.com/seiser-alm-alpe-di-siusi/)
   * [Throne & Vine: Alpe di Siusi](https://throneandvine.com/seiser-alm-alpe-di-siusi/)
@@ -49,12 +49,12 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
 |------|----------|----------|--------|
 | 8:15 am | Ortisei | 🚗 Depart | Leave early to beat the 9:00 AM road closure! |
 | 8:45 am | Seiser Alm Road | ⏱️ Pass Checkpoint | Drive through the control point before 9:00 AM. |
-| 9:00 am | Compatsch | 🅿️ Park | Park at the massive P2 lot in Compatsch (**€26.50 EUR/day**, split among 5 is **€5.30 EUR per individual**; mandatory online reservation as of 2026 — book in advance). |
-| 9:30 am | Compatsch | 🚲 Rent Bikes | Grab your e-bikes from a shop near the parking lot (K&K Sports, etc). |
+| 9:00 am | Compatsch | 🅿️ Park | Park at the massive P2 lot in Compatsch (**€30.00 EUR/day**, split among 5 is **€6.00 EUR per individual**; mandatory online reservation on [seiseralm.it/parking](https://www.seiseralm.it/parking) — book ~6 days ahead, opens ~Sept 9; entry strictly before 09:30). |
+| 9:15 am | Compatsch | 🚲 Rent Bikes | Pick up the booked e-bikes at **Alpin Center Rent Lodge (Compatsch 52)** — 1-min walk from P2; pay at pick-up. |
 | 10:30 am | Gostner Schwaige | ☕ Morning Snack | Coffee and flower-hay soup at the tiny famous hut. |
 | 12:30 pm | Malga Sanon | 🍽️ Lunch | Long lunch with incredible views of Sassolungo. |
 | 3:00 pm | Almrosenhütte | 🍻 Afternoon Drink | Continue the loop to the southern edge of the plateau. |
-| 5:30 pm | Compatsch | 🚲 Return Bikes | Drop off the e-bikes before the shops close. |
+| 5:00 pm | Compatsch | 🚲 Return Bikes | Return the e-bikes to Alpin Center by **5:00 pm** (rental terms: return by 5 pm closing time or an extra day is charged). |
 | 6:30 pm | Seiser Alm | 📸 Sunset | Walk back out to the meadows to watch the Alpenglow on the peaks. |
 | 8:00 pm | Ortisei | 🚗 Return | Drive back to base for a late dinner. |
 
@@ -62,7 +62,8 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
 !!! danger "ROAD CLOSURE WARNING (CRITICAL)"
     The road up to Seiser Alm is strictly closed to private cars from **9:00 am to 5:00 pm**. You **MUST** pass the San Valentino checkpoint before 9:00 AM. If you arrive at 9:01 AM, the police will turn you away. Leave Ortisei by 8:15 AM.
 
-* **Bike Rental**: Rent from one of the shops in Compatsch (like K&K Sports or Sport Hans). It's wise to reserve e-bikes a day in advance.
+* **Bike Rental**: **Already booked** at Alpin Center Rent Lodge (Ref **SORS498744**) — 4 e-bikes for the group (Sunny is not renting). Bring the reservation / card for payment at pick-up.
+* **Parking Reservation**: P2 Compatsch (€30/day) requires **online pre-booking** from 29 June 2026 — book at [seiseralm.it/parking](https://www.seiseralm.it/parking) up to 6 days before (opens ~Sept 9 for Sept 15). Plate-locked & non-refundable; entry after 09:30 voids the booking.
 * **Total Freedom**: Because you drove up before the closure, you can leave at any time. You are not trapped until 5:00 PM (you just can't drive *up* between 9-5). This gives you the ultimate sunset experience.
 
 ---
