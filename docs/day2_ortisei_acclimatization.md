@@ -9,10 +9,17 @@
 ## 🏔️ Overview
 After a long travel day and navigating Italian highways, today is about slowing down, acclimatizing to the altitude, and getting your bearings in the beautiful Val Gardena valley. There is no rushed start time and no massive elevation gain required today.
 
+!!! danger "🎫 CRITICAL ACTION — BOOK THE COMPATSCH PARKING TODAY (Sept 13)"
+    The **P2 Compatsch parking** for the **Day 4 e-bike day (Tue, Sept 15)** must be reserved online and is **plate-locked**, so it can only be booked once you have the rental car (pickup **12:00 PM** today). Book it **ASAP today** at [seiseralm.it/parking](https://www.seiseralm.it/parking) — spots sell out and reservations are **non-refundable**.
+    * Cost: **€30.00/day per vehicle** (~€6/pp split among 5)
+    * Entry strictly before **09:30**; San Valentino checkpoint must be passed before **09:00** (road closed 09:00–17:00; descent allowed anytime)
+    * Double-check the licence plate at booking — it cannot be changed afterwards!
+
 ## 🚗 Morning: Car Pickup & The Drive North
 Since your car rental starts at 12:00 PM, enjoy a slow morning in Mestre.
 * **10:00 AM**: Grab a leisurely breakfast and check out of your hotel (**Venice-Mestre Beautiful Apartment**) in the pedestrian center of Mestre (around Piazza Ferretto).
 * **11:30 AM**: Head to **Venice Mestre Rail Station** to pick up your National Car Rental. The station is about 2–2.5 km away (a 20-30 min walk or a 5-10 min local bus, tram, or taxi ride from the apartment). Make sure you inspect the car and load all the luggage comfortably.
+* **12:15 PM**: **Book the P2 Compatsch parking** for Day 4 (Sept 15) on [seiseralm.it/parking](https://www.seiseralm.it/parking) — you need the rental car's licence plate, so do it right after pickup (~5 min on your phone). €30/day; non-refundable and plate-locked.
 * **12:30 PM - 3:30 PM**: Drive North! It's approximately a 3-hour drive from Mestre to Val Gardena (Ortisei).
     *   **ZTL Caution**: Mestre Station has camera-enforced ZTL lanes. Pay close attention to signage when driving the rental car out of the station.
     *   **Autostrada Tolls**: Enter the toll motorway (A4/A22). Take a ticket at the entry barrier. When exiting, insert the ticket and pay with cash/card (look for the blue card/cash lanes; avoid the yellow Telepass-only lanes unless the rental car has a transponder).
