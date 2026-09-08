@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function() {
 |-----|-----------------|---------------|-----------|
 | [**Day 8**](day8_cinque_torri_passo_giau.md) (Sept. 19) | Cinque Torri WWI loop, Passo Giau sunset | ~7 hrs | ⭐⭐⭐ |
 | [**Day 9**](day9_tre_cime_cadini.md) (Sept. 20) | Tre Cime di Lavaredo loop, Cadini di Misurina | ~8 hrs | ⭐⭐⭐⭐ |
-| [**Day 10**](day10_east_split.md) (Sept. 21) | Alpini Via Ferrata (Thrill) OR Lago di Misurina (Relax) | ~8 hrs | ⭐⭐⭐⭐⭐ *(or ⭐)* |
+| [**Day 10**](day10_east_split.md) (Sept. 21) | Alpini Via Ferrata (Thrill) OR Cortina-town / Misurina / Braies (Relax, TBD) | ~8 hrs | ⭐⭐⭐⭐⭐ *(or ⭐)* |
 | [**Day 11**](day11_lago_di_sorapis.md) (Sept. 22) | Hike to glacial Lago di Sorapis | ~7 hrs | ⭐⭐⭐⭐⭐ |
 
 ### 🛶 Venice Return (Base: Venice Island)

@@ -21,7 +21,7 @@ This page tracks all outstanding items required to successfully execute the trip
 
 ### 🎟️ Activities & Gear
 - [ ] **Reserve Lago di Braies Parking**: [pragsparking.com](https://www.pragsparking.com)
-  - *Nuance*: Only needed if Group B does Lago di Braies on Sept 21 (Day 10 East Split). Mandatory online reservation.
+  - *Nuance*: Only needed if Group B does Lago di Braies on Sept 21 (Day 10 East Split). Mandatory online reservation. **Decide by ~Sept 19** — Braies is strictly a morning visit (road closed 9:30 AM–4:00 PM).
 - [ ] **Research Via Ferrata Gear Rentals**: Identify shops in Ortisei (Sport Kostner) and Cortina (Snow Service) for helmet/harness/lanyard rentals.
 - [ ] **Book Spa Passes**: [QC Terme Dolomiti](https://www.qcterme.com/en/val-di-fassa/qc-terme-dolomiti)
   - *Nuance*: Needed for the relax group on Split Days. Spas have capacity limits.
