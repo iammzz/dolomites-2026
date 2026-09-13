@@ -61,3 +61,4 @@ This page tracks all outstanding items required to successfully execute the trip
 | **International Driving Permit (IDP)** | **Matthew has one** — required for rental car in Italy |
 | **Tre Cime Parking (Sept 20)** | **Booked** — Ticket P26216461 (DA ATTIVARE, €45/vehicle) |
 | **E-Bike Rentals (Alpe di Siusi, Day 4, Sept 15)** | **Booked** — Alpin Center Rent Lodge, Ref SORS498744, 4 e-bikes (€76/pp, €304 total, pay at pick-up) |
+| **Seiser Alm P2 Parking (Day 4, Sept 15)** | **Booked** — Ticket #5FE415D5BA6C (€30/day car, plate HC176LJ, entry before 09:30, vacate by 23:00) |

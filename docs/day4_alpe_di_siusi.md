@@ -49,7 +49,7 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
 |------|----------|----------|--------|
 | 8:15 am | Ortisei | 🚗 Depart | Leave early to beat the 9:00 AM road closure! |
 | 8:45 am | Seiser Alm Road | ⏱️ Pass Checkpoint | Drive through the control point before 9:00 AM. |
-| 9:00 am | Compatsch | 🅿️ Park | Park at the massive P2 lot in Compatsch (**€30.00 EUR/day**, split among 5 is **€6.00 EUR per individual**; mandatory online reservation on [seiseralm.it/parking](https://www.seiseralm.it/parking) — book ~6 days ahead, opens ~Sept 9; entry strictly before 09:30). |
+| 9:00 am | Compatsch | 🅿️ Park | Park at the massive P2 lot in Compatsch (**€30.00 EUR/day**, split among 5 is **€6.00 EUR per individual**; 🟢 **BOOKED** — Ticket **#5FE415D5BA6C**, reserved under Kevin He, plate **HC176LJ**. Entry window **05:00–09:30** (must reach lot by 09:30); single entry, **vacate by 23:00**). |
 | 9:15 am | Compatsch | 🚲 Rent Bikes | Pick up the booked e-bikes at **Alpin Center Rent Lodge (Compatsch 52)** — 1-min walk from P2; pay at pick-up. |
 | 10:30 am | Gostner Schwaige | ☕ Morning Snack | Coffee and flower-hay soup at the tiny famous hut. |
 | 12:30 pm | Malga Sanon | 🍽️ Lunch | Long lunch with incredible views of Sassolungo. |
@@ -63,7 +63,7 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
     The road up to Seiser Alm is strictly closed to private cars from **9:00 am to 5:00 pm**. You **MUST** pass the San Valentino checkpoint before 9:00 AM. If you arrive at 9:01 AM, the police will turn you away. Leave Ortisei by 8:15 AM.
 
 * **Bike Rental**: **Already booked** at Alpin Center Rent Lodge (Ref **SORS498744**) — 4 e-bikes for the group (Sunny is not renting). Bring the reservation / card for payment at pick-up.
-* **Parking Reservation**: P2 Compatsch (€30/day) requires **online pre-booking** from 29 June 2026 — book at [seiseralm.it/parking](https://www.seiseralm.it/parking) up to 6 days before (opens ~Sept 9 for Sept 15). Plate-locked & non-refundable; entry after 09:30 voids the booking.
+* **Parking Reservation**: P2 Compatsch (**€30/day**) — 🟢 **BOOKED** (Ticket **#5FE415D5BA6C**, reserved under **Kevin He**, plate **HC176LJ**). Entry window **05:00–09:30 & 17:00–23:00**; **single entry** — reaching the lot by **09:30** is mandatory or the booking is voided (re-entry not permitted after exit). **Must vacate by 23:00** (overnight parking prohibited). Includes the San Valentino checkpoint access permit. Non-refundable & plate-locked.
 * **Total Freedom**: Because you drove up before the closure, you can leave at any time. You are not trapped until 5:00 PM (you just can't drive *up* between 9-5). This gives you the ultimate sunset experience.
 
 ---
