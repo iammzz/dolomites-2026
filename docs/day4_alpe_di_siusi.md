@@ -11,12 +11,13 @@
 **Expectation & Rationale:** 
 Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine meadow in Europe. It is vast, rolling, and entirely completely different from the jagged, rocky hikes you've done so far. Because it is so massive, renting e-bikes is arguably the best way to see it — allowing you to effortlessly cruise between rifugios for lunch and drinks with the mighty Schlern and Sassolungo massifs serving as the backdrop.
 
-### 1. The E-Bike Hut-Hopping Route
+### 1. The E-Bike Hut-Hopping Route (AllTrails: *Rifugi dell'Alpe di Siusi*)
 * **Distance**: 20-30 km (E-bike assisted)
 * **Elevation Change**: Minimal to moderate (rolling hills)
 * **Difficulty**: ⭐ Easy
 * **Duration**: Full day — ~7 hrs total on the plateau (Approx. 3 hrs of actual riding time, plus 4 hrs of eating, drinking, and lounging at huts).
 * **Route Idea**: Compatsch → Gostner Schwaige (Morning snack) → Saltria (valley basin) → Malga Sanon (Lunch with Sassolungo views) → Almrosenhütte (Afternoon drink) → Compatsch.
+* **Source Trail**: [AllTrails — MTB Rifugi dell'Alpe di Siusi](https://www.alltrails.com/en-gb/trail/italy/south-tyrol/mtb-rifugi-dell-alpe-di-siusi)
 * **Top Places to Visit**:
   * **Gostner Schwaige** (~30 min stop): A tiny, famous hut known for its gourmet hay-flower soup and edible flower salads. Perfect for a mid-morning coffee or light snack. Extremely small and intimate — only a handful of tables.
   * **Malga Sanon (Sanon Hütte)** (~1.5 hr lunch stop): One of the best lunch spots on the plateau, featuring a massive outdoor terrace with direct, towering views of the Sassolungo peaks. Excellent steaks and local game dishes.
@@ -47,20 +48,20 @@ Seiser Alm (or Alpe di Siusi in Italian) is the largest high-altitude alpine mea
 
 | Time | Location | Activity | Detail |
 |------|----------|----------|--------|
-| 8:15 am | Ortisei | 🚗 Depart | Leave early to beat the 9:00 AM road closure! |
-| 8:45 am | Seiser Alm Road | ⏱️ Pass Checkpoint | Drive through the control point before 9:00 AM. |
-| 9:00 am | Compatsch | 🅿️ Park | Park at the massive P2 lot in Compatsch (**€30.00 EUR/day**, split among 5 is **€6.00 EUR per individual**; 🟢 **BOOKED** — Ticket **#5FE415D5BA6C**, reserved under Kevin He, plate **HC176LJ**. Entry window **05:00–09:30** (must reach lot by 09:30); single entry, **vacate by 23:00**). |
-| 9:15 am | Compatsch | 🚲 Rent Bikes | Pick up the booked e-bikes at **Alpin Center Rent Lodge (Compatsch 52)** — 1-min walk from P2; pay at pick-up. |
-| 10:30 am | Gostner Schwaige | ☕ Morning Snack | Coffee and flower-hay soup at the tiny famous hut. |
-| 12:30 pm | Malga Sanon | 🍽️ Lunch | Long lunch with incredible views of Sassolungo. |
-| 3:00 pm | Almrosenhütte | 🍻 Afternoon Drink | Continue the loop to the southern edge of the plateau. |
-| 5:00 pm | Compatsch | 🚲 Return Bikes | Return the e-bikes to Alpin Center by **5:00 pm** (rental terms: return by 5 pm closing time or an extra day is charged). |
+| 7:45 am | Ortisei | 🚗 Depart | Leave early to beat the 9:00 AM road closure! |
+| 8:15 am | Seiser Alm Road | ⏱️ Pass Checkpoint | Drive through the control point before 9:00 AM. |
+| 8:30 am | Compatsch | 🅿️ Park | Park at the massive P2 lot in Compatsch (**€30.00 EUR/day**, split among 5 is **€6.00 EUR per individual**; 🟢 **BOOKED** — Ticket **#5FE415D5BA6C**, reserved under Kevin He, plate **HC176LJ**. Entry window **05:00–09:30** (must reach lot by 09:30); single entry, **vacate by 23:00**). |
+| 8:45 am | Compatsch | 🚲 Rent Bikes | Pick up the booked e-bikes at **Alpin Center Rent Lodge (Compatsch 52)** — 1-min walk from P2 (opens 08:30); pay at pick-up. |
+| 10:15 am | Gostner Schwaige | ☕ Morning Snack | Coffee and flower-hay soup at the tiny famous hut. |
+| 12:15 pm | Malga Sanon | 🍽️ Lunch | Long lunch with incredible views of Sassolungo. |
+| 2:45 pm | Almrosenhütte | 🍻 Afternoon Drink | Continue the loop to the southern edge of the plateau. |
+| 4:45 pm | Compatsch | 🚲 Return Bikes | Return the e-bikes to Alpin Center by ~5:00 pm (rental terms: return by 5 pm closing time or an extra day is charged). |
 | 6:30 pm | Seiser Alm | 📸 Sunset | Walk back out to the meadows to watch the Alpenglow on the peaks. |
 | 8:00 pm | Ortisei | 🚗 Return | Drive back to base for a late dinner. |
 
 ### Key Logistics Notes
 !!! danger "ROAD CLOSURE WARNING (CRITICAL)"
-    The road up to Seiser Alm is strictly closed to private cars from **9:00 am to 5:00 pm**. You **MUST** pass the San Valentino checkpoint before 9:00 AM. If you arrive at 9:01 AM, the police will turn you away. Leave Ortisei by 8:15 AM.
+    The road up to Seiser Alm is strictly closed to private cars from **9:00 am to 5:00 pm**. You **MUST** pass the San Valentino checkpoint before 9:00 AM. If you arrive at 9:01 AM, the police will turn you away. Leave Ortisei by 7:45 AM.
 
 * **Bike Rental**: **Already booked** at Alpin Center Rent Lodge (Ref **SORS498744**) — 4 e-bikes for the group (Sunny is not renting). Bring the reservation / card for payment at pick-up.
 * **Parking Reservation**: P2 Compatsch (**€30/day**) — 🟢 **BOOKED** (Ticket **#5FE415D5BA6C**, reserved under **Kevin He**, plate **HC176LJ**). Entry window **05:00–09:30 & 17:00–23:00**; **single entry** — reaching the lot by **09:30** is mandatory or the booking is voided (re-entry not permitted after exit). **Must vacate by 23:00** (overnight parking prohibited). Includes the San Valentino checkpoint access permit. Non-refundable & plate-locked.
