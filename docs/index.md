@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", function() {
 - Book remaining outbound flights (Sunny & Kevin He)
 - Book remaining Hotel Bases (Cortina, Madrid)
 - Order physical **Wise Cards** and obtain your **IDP** (International Driving Permit)
-*(Note: Rental Car, Venice arrival hotel, Val Gardena apartment, Venice Island Airbnb, Intra-Europe flights, and ANYMA Concert are successfully booked!)*
+*(Note: Rental Car, Venice arrival hotel, Val Gardena apartment, Venice/Mestre Airbnb, Intra-Europe flights, and ANYMA Concert are successfully booked!)*
 
 ---
 
@@ -82,10 +82,10 @@ document.addEventListener("DOMContentLoaded", function() {
 | [**Day 10**](day10_east_split.md) (Sept. 21) | Alpini Via Ferrata (Thrill) OR Cortina-town / Misurina / Braies (Relax, TBD) | ~8 hrs | ⭐⭐⭐⭐⭐ *(or ⭐)* |
 | [**Day 11**](day11_lago_di_sorapis.md) (Sept. 22) | Hike to glacial Lago di Sorapis | ~7 hrs | ⭐⭐⭐⭐⭐ |
 
-### 🛶 Venice Return (Base: Venice Island)
+### 🛶 Venice Return (Base: Mestre)
 | Day | Core Activities | Est. Time Out | Intensity |
 |-----|-----------------|---------------|-----------|
-| [**Day 12**](day12_venice_arrival.md) (Sept. 23) | Drop car in Mestre, water taxi to Island, wandering | ~5 hrs | ⭐ |
+| [**Day 12**](day12_venice_arrival.md) (Sept. 23) | Drop car in Mestre, check in, evening train to Venice | ~5 hrs | ⭐ |
 | [**Day 13**](day13_venice_full_day.md) (Sept. 24) | St. Mark's Basilica, Doge's Palace, Rialto Bridge | ~8 hrs | ⭐⭐ |
 
 ### 🇪🇸 Madrid & Departure (Base: Madrid)

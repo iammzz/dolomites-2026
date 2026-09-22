@@ -1,6 +1,6 @@
 # Day 13 — Thursday, Sept 24 🎭
 ## Venice Highlights
-**Base:** Venice Island
+**Base:** Mestre (commute into Venice Island)
 
 [🗺️ **Venice Island (Piazza San Marco) on Google Maps**](https://www.google.com/maps/search/?api=1&query=Piazza+San+Marco+Venice)
 
@@ -10,6 +10,7 @@
 A full day dedicated to the Queen of the Adriatic. With no driving or hiking on the agenda, you can take your time soaking in the history, art, and romance of Venice.
 
 ## 🕊️ Morning: St. Mark's Square (~3 hrs)
+* **Commute in from Mestre** (~25 min): From Via Giuseppe Garibaldi, take **bus no. 2 (direction Don Sturzo)** to Venezia Mestre station, then the train to **Venezia Santa Lucia** (€1.50) — or a taxi directly to the island. Aim to be at St. Mark's by 8:30 AM.
 * **Early Start**: Get out by 8:30 AM before the massive cruise ship crowds arrive (they flood in by 10 AM).
 * **[Piazza San Marco](https://www.google.com/maps/search/?api=1&query=Piazza+San+Marco+Venice)** (~30 min): Visit the iconic St. Mark's Square. 
 * **[The Doge's Palace](https://www.google.com/maps/search/?api=1&query=Doge%27s+Palace+Venice)** (~1.5 hrs): Highly recommended to **book tickets in advance (~€30/adult)** at [palazzoducale.visitmuve.it](https://palazzoducale.visitmuve.it). Walk across the Bridge of Sighs and see the opulent rooms of the former rulers of Venice.

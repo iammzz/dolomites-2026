@@ -54,7 +54,7 @@ This page tracks all outstanding items required to successfully execute the trip
 | **Intra-Europe Flight (VCE → MAD, Sept 25)** | **Entire group booked** on Ryanair FR1207 (Priority & 2 Cabin Bags) |
 | **Venice Arrival Hotel (Sept 12)** | **Booked** — Venice-Mestre Beautiful Apartment (€250 total) |
 | **Val Gardena Apartment (Sept 13-18)** | **Booked by Sunny** — Apartments Promenade, SASLONCH (€1,500 + cleaning + tax) |
-| **Venice Island Airbnb (Sept 23-25)** | **Booked** — Cà Landillo (Confirmation HMMKHJCXJ3) |
+| **Venice/Mestre Airbnb (Sept 23-25)** | **Booked** — Casa Carlotta, Via Giuseppe Garibaldi 59 (Confirmation HMOYINSRDYE) — replaced Cà Landillo |
 | **Rental Car** | **Booked** — National Car Rental, Mestre station pickup/drop-off |
 | **ANYMA Concert (Madrid, Sept 26)** | **Booked by Emma** — 3 tickets (€89/pp) |
 | **Wise Card** | **Matthew has one** — multi-currency card loaded with Euros |

@@ -1,6 +1,6 @@
 # Day 12 — Wednesday, Sept 23 🇮🇹
 ## Return to Venice
-**Base:** Venice Island
+**Base:** Venice / Mestre
 
 [🗺️ **Google Maps Route (Cortina → Venice Mestre Station)**](https://www.google.com/maps/dir/Cortina+d'Ampezzo/Venezia+Mestre)
 
@@ -15,13 +15,13 @@ Today you pack up your cars, leave the stunning peaks of the Dolomites behind, a
 * **Refueling** (~15 min): Make sure to stop at a gas station near Mestre to fill up the rental car before dropping it off. Returning with a non-full tank incurs steep refueling charges.
 * **12:00 PM**: **Rental Return**: Drop off the car exactly at 12:00 PM at **Venice Mestre Rail Station** (as per your National Car Rental booking). Inspect the car with the agent and get a return receipt.
 
-## 🚶 Afternoon: Checking into Venice (~1.5 hrs)
-* **Transit to Venice Island** (~15 min): From Mestre Station, take a 10-minute train to **Venezia Santa Lucia** station (€1.50).
-* **Vaporetto** (~30 min): Buy a **24-hour Vaporetto pass (€25)** from the ACTV booth at Santa Lucia station. This covers unlimited water bus rides for the next 24 hours. Take Line 1 (the slow scenic route down the Grand Canal) or Line 2 (express) to your hotel's nearest stop.
-* **Check-In**: Check into **[Cà Landillo](https://maps.app.goo.gl/tWkcB33qsikMHdMKA)** (Rio Terà Farsetti, 1844 — Venice 10 mins from station) and drop your bags.
-    *   *Status*: 🟢 **BOOKED** (Confirmation: **HMMKHJCXJ3**)
-    *   *Check-in*: Self check-in with **keypad** — instructions arrive 24 hrs before via Airbnb.
-    *   *Check-out*: Fri, Sept 25 at 10:00 AM
+## 🚶 Afternoon: Checking into the Mestre Base (~1.5 hrs)
+* **Transit to the Apartment** (~20 min): From Mestre Station, take **bus no. 2 (direction Don Sturzo), stop no. 243** to your apartment on Via Giuseppe Garibaldi (the host's own directions).
+* **Check-In**: Check into **[Casa Carlotta](https://www.google.com/maps/search/?api=1&query=Via+Giuseppe+Garibaldi+59+Mestre)** (Via Giuseppe Garibaldi, 59 int. 3 — Mestre/Carpenedo district) and drop your bags.
+    *   *Status*: 🟢 **BOOKED** (Confirmation: **HMOYINSRDYE**) — replaced Cà Landillo
+    *   *Check-in*: 3:00 PM; **host greets you** (Airbnb)
+    *   *Check-out*: Fri, Sept 25 at 11:00 AM
+* **Optional evening trip into Venice**: The 10-minute train from Mestre to **Venezia Santa Lucia** (€1.50) still runs every few minutes if the group has energy for cicchetti on the island tonight.
 
 ## 🍝 Evening: Cicchetti & Canals
 * **Wander**: Spend the evening wandering the winding streets. Get lost—it's part of the Venice experience!
@@ -30,7 +30,7 @@ Today you pack up your cars, leave the stunning peaks of the Dolomites behind, a
 ---
 
 ## 🍽️ Dining & Restaurant Options
-*Recommendations based on your return to Venice Island.*
+*Recommendations based on your return to the mainland (Mestre). All venues below are on Venice Island — reachable by a 10-min train (€1.50) from Venezia Mestre station.*
 
 | Restaurant | Food Type | Price | Distance/Location | Why it's recommended | Map |
 |------------|-----------|-------|-------------------|----------------------|-----|

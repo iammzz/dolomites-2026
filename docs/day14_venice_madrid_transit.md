@@ -7,9 +7,9 @@
 ---
 
 ## 🛣 Morning: Venice to Madrid (~5 hrs total)
-* **Check-Out & Early Departure** (05:45 AM): Grab a quick coffee, check out of **Cà Landillo** (self check-out — no key-drop needed with keypad entry), and head to the airport.
-    *   *Official check-out time*: 10:00 AM, but you'll leave by ~06:00 AM to catch your flight.
-* **Transit to Airport** (06:00 AM - 07:15 AM): Take the **Alilaguna water bus** (Blue or Orange line, **~€15 EUR per individual**, runs early morning) or a private water taxi directly to Venice Marco Polo Airport (highly recommended for a group of 5, ~€120–€140 total, which is **~€24–€28 EUR per individual**). Ensure you arrive at VCE by 07:15 AM (2 hours prior to departure).
+* **Check-Out & Early Departure** (05:45 AM): Grab a quick coffee, check out of **Casa Carlotta** (Via Giuseppe Garibaldi, 59, Mestre) and load the bags straight into the taxi.
+    *   *Official check-out time*: 11:00 AM, but you'll leave by ~06:00 AM to catch your flight. Because the base is on the mainland, there's **no water taxi and no bridge-lugging** — bags stay on wheels the whole way.
+* **Transit to Airport** (06:00 AM - 07:15 AM): **Taxi (recommended)** — a flat-rate trip to Venice Marco Polo Airport is **~€25–35 for the group** and takes **15–20 min**. Budget option: **ATVO Fly Bus** from Venezia Mestre station (~€10 pp, ~20 min). Ensure you arrive at VCE by 07:15 AM (2 hours prior to departure).
 * **The Flight** (09:20 AM - 12:00 PM): **Ryanair Flight FR1207** to Madrid (MAD). **Whole group booked** — includes Priority & 2 Cabin Bags. Note that Ryanair has very strict baggage size/weight checks at the gate. **Cost Range**: **~€40–€120 EUR per individual** (depending on booking date).
 
 ## 🇪🇸 Afternoon: Hola Madrid! (~3 hrs)

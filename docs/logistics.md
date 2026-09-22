@@ -30,9 +30,9 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 *   **Day 1 Arrival (Airport → Venice-Mestre Beautiful Apartment)**:
     *   **Direct Taxi (Recommended)**: A flat-rate taxi from VCE Airport directly to your Mestre apartment (Via della Brenta Vecchia, 34) is approximately **€35–40** and takes 15–20 minutes. For a group of 5 adults with heavy luggage, this is the most convenient door-to-door option.
     *   **Express Bus**: The **ATVO Fly Bus** (€10 per person, departs every 20-30 min) or **ACTV Bus Line 15** (€8 per person) runs directly to Mestre Railway Station. From the station, you will need a local bus or taxi to the apartment.
-*   **Day 14 Departure (Venice Island → VCE Airport)**:
-    *   **Private Water Taxi (Highly Recommended)**: Since your flight departs VCE at 09:20 AM (checkout by 05:45 AM), lugging heavy bags over Venice's stair-stepped bridges to public docks is exhausting. A private water taxi from the canal nearest your hotel directly to the airport dock costs **€120–€140 total for 5 people**. It takes ~25 minutes and avoids all bridge-crossing hassles. **Action**: Pre-book a water taxi 1-2 weeks in advance.
-    *   **Alilaguna Water Bus**: The Blue or Orange Line runs early morning from major docks to VCE Airport (~€15 per person, takes 45–60 mins). Requires walking to the nearest Alilaguna dock.
+*   **Day 14 Departure (Venice/Mestre → VCE Airport)**:
+    *   **Taxi (Recommended)**: From the Mestre apartment (Via Giuseppe Garibaldi, 59), a flat-rate taxi to VCE Airport is **~€25–35 for the group** and takes **15–20 min** — no canals, no bridges, bags stay on wheels. **Action**: Pre-arrange a taxi a few days ahead (front desk or a local taxi app).
+    *   **ATVO Fly Bus (Budget)**: The **ATVO Fly Bus** runs from Venezia Mestre Railway Station to VCE (~€10 pp, ~20 min, frequent departures from ~5 AM). From the apartment, take bus no. 2 (or a short taxi) to the station first.
 
 ---
 
@@ -82,18 +82,18 @@ This document warehouses all the critical logistics for the Dolomites 2026 trip.
 * *Details*: Needs parking. Proximity to Corso Italia is a bonus.
 * **Estimated Cost Range**: **~€50.00–€80.00 EUR per person per day** (estimated total: €1,250–€2,000 EUR for 5 nights, shared lodging for 5 adults)
 
-### Base 4: Venice Island (2 Nights)
-* **Dates**: Sept 23 - Sept 25
-* **Accommodation**: [Cà Landillo — Venice 10 mins from station](https://www.airbnb.ca/trips/v1/1732691254834949612/)
-* **Address**: Rio Terà Farsetti, 1844, Venice, Veneto 30121, Italy
-* **GPS / Maps**: [📍 Maps](https://maps.app.goo.gl/tWkcB33qsikMHdMKA)
-* **Host**: Alex (Cà Landillo)
-* *Status*: 🟢 **BOOKED**
-* **Confirmation Code**: HMMKHJCXJ3
-* **Check-in**: Wed, Sept 23, 3:00 PM (self check-in with keypad — instructions arrive 24 hrs before)
-* **Check-out**: Fri, Sept 25, 10:00 AM
-* **Details**: Entire home for 5 adults
-* **Cancellation**: Free cancellation before Sept 22 at 3:00 PM; partial refund after
+### Base 4: Venice / Mestre (2 Nights)
+* **Dates**: Sept 23 - Sept 25 (5 guests)
+* **Accommodation**: Casa Carlotta — "Home in Venice" (Airbnb listing)
+* **Address**: Via Giuseppe Garibaldi, 59 int. 3, Venice, Veneto 30173, Italy (Mestre — Carpenedo district)
+* **Host**: Eleonora
+* *Status*: 🟢 **BOOKED** *(replaced Cà Landillo)*
+* **Confirmation Code**: HMOYINSRDYE *(OCR of the shared screenshot — confirm exact code in the app)*
+* **Check-in**: Wed, Sept 23, 3:00 PM (host greets you)
+* **Check-out**: Fri, Sept 25, 11:00 AM *(OCR of screenshot — confirm)*
+* **Details**: "Casa Carlotta — Central and bright, 2 double bedrooms." Entire home for 5 adults.
+* **Cancellation**: Non-refundable
+* **Getting there**: From Venice Mestre station, bus no. 2 (direction Don Sturzo), stop no. 243.
 
 ### Base 5: Madrid (2 Nights)
 * **Dates**: Sept 25 - Sept 27

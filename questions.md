@@ -3,7 +3,7 @@
 To finalize the exact schedule for our newly added **Venice (Sept 23 - 25)** and **Madrid (Sept 25 - 27)** legs, please discuss the following questions as a group and let me know the consensus!
 
 ## 🛶 1. Venice Accommodation Vibes
-Where do we want our home base in Venice Island to be?
+Where do we want our home base in Venice? *(✅ RESOLVED — booked Casa Carlotta in Mestre, Via Giuseppe Garibaldi 59, Sept 23–25)*
 * **San Marco**: Very central, close to the main sights, but very touristy and expensive.
 * **San Polo / Santa Croce**: More authentic, quieter, and closer to the train station (easier for arrival).
 * **Cannaregio**: Very local feel, lots of great cheap eats, further walk to St. Mark's.

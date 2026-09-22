@@ -375,13 +375,13 @@ These restaurants are located right in your base towns. You can walk to them fro
 
 ---
 
-### Base 4: Venice Island (Days 12–13)
-*Lodging: Cà Landillo, Cannaregio (Rio Terà Farsetti, 1844)*
+### Base 4: Venice / Mestre (Days 12–13)
+*Lodging: Casa Carlotta, Mestre (Via Giuseppe Garibaldi, 59). All venues below are on Venice Island — reachable by a 10-min train (€1.50) from Venezia Mestre station.*
 
 #### 24. Al Timon & Cantina Schiavi
 * **Venue Type**: Iconic Venetian *Bàcari* (Canal Wine Bars)
 * **Location**: 
-  * *Al Timon*: Fondamenta dei Ormesini, Cannaregio (3 min walk from Cà Landillo!)
+  * *Al Timon*: Fondamenta dei Ormesini, Cannaregio (10-min train from Mestre + a short walk from Santa Lucia)
   * *Cantina Schiavi*: Fondamenta Nani, Dorsoduro.
 * **Reservations**: 🚶 **Walk-in Only**.
 * **Specific Foods to Order**:
@@ -399,7 +399,7 @@ These restaurants are located right in your base towns. You can walk to them fro
 
 #### 25. Paradiso Perduto
 * **Venue Type**: Boisterous Canal-Side Osteria & Live Music
-* **Location**: Fondamenta della Misericordia, Cannaregio (4 min walk from Cà Landillo).
+* **Location**: Fondamenta della Misericordia, Cannaregio (10-min train from Mestre + a short walk from Santa Lucia).
 * **Reservations**: ⚠️ **Recommended for dinner** (Call `+39 041 720581`).
 * **Specific Foods to Order**:
   * **Gran Piatto di Frutti di Mare**: Enormous seafood platter with razor clams, langoustines, and octopus.
